@@ -1,0 +1,9 @@
+Python 2.7.12
+
+parsing json files from BMS and feed forward neural network
+
+fully_connected_reader.py is taken from 
+https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/how_tos/reading_data
+and is used as reference
+
+
