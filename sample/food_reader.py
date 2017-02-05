@@ -1,4 +1,5 @@
 #based off of tensorflow's fully_connected_reader
+
 from __future__ import absolute_import
 from __future__ import division
 from __future__ import print_function
@@ -10,15 +11,14 @@ import time
 
 import tensorflow as tf
 
-from tensorflow.examples.tutorials.mnist import mnist
 
 # Basic model parameters as external flags.
 FLAGS = None
 
-# Constants used for dealing with the files, matches simple_to_record.
-TRAIN_FILE = 'simple_test.tfrecords'
+# Constants used for dealing with the files
+TRAIN_FILE = 'food_record.tfrecords'
 # For simple testing purposes, use training file for validation 
-VALIDATION_FILE = 'simple_test.tfrecords'
+VALIDATION_FILE = 'food_record.tfrecords'
 
 
 def read_and_decode(filename_queue):
@@ -28,28 +28,21 @@ def read_and_decode(filename_queue):
       serialized_example,
       # Defaults are not specified since both keys are required.
       features={
-          'time': tf.FixedLenFeature([], tf.float32),
-          'tiltx': tf.FixedLenFeature([], tf.float32),
-          'tilty': tf.FixedLenFeature([], tf.float32),
-          'tiltz': tf.FixedLenFeature([], tf.float32),
-
+          'food': tf.FixedLenFeature([], tf.float32),
+          'happiness': tf.FixedLenFeature([], tf.float32)
       })
-
-
-  #time = tf.decode_raw(features['time'], tf.uint8)
-  #time.set_shape([20])
   
   
-  time = tf.cast(features['time'], tf.float32)
-  tiltx = tf.cast(features['tiltx'], tf.float32)
+  food = tf.cast(features['food'], tf.float32)
+  happiness = tf.cast(features['happiness'], tf.float32)
 
 
-  time = tf.expand_dims(time, -1)
+  food = tf.expand_dims(food, -1)
 
-  print("time shape: ", tf.shape(time))
-  print("tiltx shape: ", tf.shape(tiltx))
+  print("food shape: ", tf.shape(food))
+  print("happiness shape: ", tf.shape(happiness))
 
-  return time, tiltx
+  return food, happiness
 
 
 def inputs(train, batch_size, num_epochs):
@@ -80,18 +73,18 @@ def inputs(train, batch_size, num_epochs):
 
     # Even when reading in multiple threads, share the filename
     # queue.
-    time, tiltx = read_and_decode(filename_queue)
+    food, happiness = read_and_decode(filename_queue)
 
     # Shuffle the examples and collect them into batch_size batches.
     # (Internally uses a RandomShuffleQueue.)
     # We run this in two threads to avoid being a bottleneck.
-    times, tiltxs = tf.train.shuffle_batch(
-        [time, tiltx], batch_size=batch_size, num_threads=2,
+    foods, happinesses= tf.train.shuffle_batch(
+        [food, happiness], batch_size=batch_size, num_threads=2,
         capacity=1000 + 3 * batch_size,
         # Ensures a minimum amount of shuffling of examples.
         min_after_dequeue=1000)
 
-    return times, tiltxs
+    return foods, happinesses
 
 
 
@@ -100,43 +93,26 @@ def inputs(train, batch_size, num_epochs):
 def main(_):
   with tf.Graph().as_default():
     # Input images and labels.
-    times, tiltxs = inputs(train=True, batch_size=FLAGS.batch_size,
+    foods, happinesses = inputs(train=True, batch_size=FLAGS.batch_size,
                             num_epochs=FLAGS.num_epochs)
-
-    print("times:", times)
-    print("tiltsx:", tiltxs)
-    print("shape(times)", tf.shape(times))
-    print("shape(tiltxs)", tf.shape(tiltxs))
-   
 
     HIDDEN_UNITS = 4 
 
     INPUTS = 1
     OUTPUTS = 1
 
-    #input_placeholder = tf.placeholder()
 
     weights_1 = tf.Variable(tf.truncated_normal([INPUTS, HIDDEN_UNITS]))
     biases_1 = tf.Variable(tf.zeros([HIDDEN_UNITS]))
-    #layer_1_outputs = tf.nn.sigmoid(tf.matmul(inputs, weights_1) + biases_1)
-    layer_1_outputs = tf.nn.sigmoid(tf.matmul(times, weights_1) + biases_1)
+
+    layer_1_outputs = tf.nn.sigmoid(tf.matmul(foods, weights_1) + biases_1)
 
     weights_2 = tf.Variable(tf.truncated_normal([HIDDEN_UNITS, OUTPUTS]))
     biases_2 = tf.Variable(tf.zeros([OUTPUTS]))
 
     logits = tf.nn.sigmoid(tf.matmul(layer_1_outputs, weights_2) + biases_2)
     
-    '''
-    
-    #error_function = 0.5 * tf.reduce_sum(tf.sub(logits, desired_outputs) * tf.sub(logits, desired_outputs))
-    error_function = 0.5 * tf.reduce_sum(tf.sub(logits, tiltxs) * tf.sub(logits, tiltxs))
-
-    optimizer = tf.train.GradientDescentOptimizer(0.05).minimize(error_function)
-    train_op = optimizer.minimize(loss)train
-    
-    cost = tf.nn.softmax(logits)
-    '''
-    loss = tf.reduce_mean(logits, 1)
+    loss = tf.reduce_mean(logits)
 
     learning_rate = 0.01
     optimizer = tf.train.GradientDescentOptimizer(learning_rate)
@@ -152,11 +128,7 @@ def main(_):
     print(loss)
 
     sess.close()
-'''
-    cross_entropy = tf.nn.sparse_softmax_cross_entropy_with_logits(
-      logits, tiltxs, name='xentropy')
-    loss = tf.reduce_mean(cross_entropy, name='xentropy_mean')
-'''
+
    
 
 
@@ -202,7 +174,7 @@ if __name__ == '__main__':
   parser.add_argument(
       '--train_dir',
       type=str,
-      default='/tmp/data',
+      default='.',
       help='Directory with the training data.'
   )
   FLAGS, unparsed = parser.parse_known_args()

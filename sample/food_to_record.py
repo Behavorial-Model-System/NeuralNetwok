@@ -26,14 +26,10 @@ def _bytes_feature(value):
   return tf.train.Feature(bytes_list=tf.train.BytesList(value=[value]))
 
 
-def convert_to(data_set, name):
-    print("simple_to_record:convert_to")
-
-
 def main(unused_argv):
-    print("simple_to_record:main")
+    print("food_to_record:main")
     script_dir = os.path.dirname(__file__)
-    file_path = os.path.join(script_dir, 'simple_test.json')
+    file_path = os.path.join(script_dir, 'food_test.json')
     with open(file_path) as data_file:    
         data = json.load(data_file)
 
@@ -42,7 +38,7 @@ def main(unused_argv):
 
     num_examples = 2
 
-    name = 'simple_test'
+    name = 'food_record'
 
 
     filename = os.path.join(FLAGS.directory, name + '.tfrecords')
@@ -50,11 +46,8 @@ def main(unused_argv):
     writer = tf.python_io.TFRecordWriter(filename)
     for index in range(num_examples):
         example = tf.train.Example(features=tf.train.Features(feature={
-            'time': _float_feature(data[index]['time']),
-            'tiltx': _float_feature(data[index]['tilt'][0]),
-            'tilty': _float_feature(data[index]['tilt'][1]),
-            'tiltz': _float_feature(data[index]['tilt'][2]),
-            
+            'food': _float_feature(data[index]['food']),
+            'happiness': _float_feature(data[index]['happiness'])
             }))
         writer.write(example.SerializeToString())
     writer.close()
@@ -67,7 +60,7 @@ if __name__ == '__main__':
   parser.add_argument(
       '--directory',
       type=str,
-      default='/tmp/data',
+      default='.',
       help='Directory to download data files and write the converted result'
   )
   parser.add_argument(
