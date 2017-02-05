@@ -67,8 +67,12 @@ def read_and_decode(filename_queue):
   # Convert from [0, 255] -> [-0.5, 0.5] floats.
   image = tf.cast(image, tf.float32) * (1. / 255) - 0.5
 
+
   # Convert label from a scalar uint8 tensor to an int32 scalar.
   label = tf.cast(features['label'], tf.int32)
+
+  print("image shape: ", tf.shape(image))
+  print("label shape: ", tf.shape(label))
 
   return image, label
 
@@ -113,6 +117,7 @@ def inputs(train, batch_size, num_epochs):
     return images, sparse_labels
 
 
+
 def run_training():
   """Train MNIST for a number of steps."""
 
@@ -122,11 +127,15 @@ def run_training():
     images, labels = inputs(train=True, batch_size=FLAGS.batch_size,
                             num_epochs=FLAGS.num_epochs)
 
+    print("images:", images)
+    print("labels:", labels)
+    print("shape(images)", tf.shape(images))
+    print("shape(labels)", tf.shape(labels))
+
     # Build a Graph that computes predictions from the inference model.
     logits = mnist.inference(images,
                              FLAGS.hidden1,
                              FLAGS.hidden2)
-    print(logits)
 
     # Add to the Graph the loss calculation.
     loss = mnist.loss(logits, labels)
@@ -178,6 +187,7 @@ def run_training():
     # Wait for threads to finish.
     coord.join(threads)
     sess.close()
+
 
 
 def main(_):

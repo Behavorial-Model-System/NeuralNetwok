@@ -86,6 +86,7 @@ def inputs(train, batch_size, num_epochs):
     return times, tiltxs
 
 
+
 def run_training():
   """Train MNIST for a number of steps."""
 
@@ -94,6 +95,8 @@ def run_training():
     # Input images and labels.
     times, tiltxs = inputs(train=True, batch_size=FLAGS.batch_size,
                             num_epochs=FLAGS.num_epochs)
+
+
 
     # Build a Graph that computes predictions from the inference model.
     logits = mnist.inference(images,
@@ -153,12 +156,37 @@ def run_training():
 
 
 def main(_):
-  #run_training()
-  times, tiltxs = inputs(train=True, batch_size=FLAGS.batch_size,num_epochs=FLAGS.num_epochs)
+  with tf.Graph().as_default():
+    # Input images and labels.
+    times, tiltxs = inputs(train=True, batch_size=FLAGS.batch_size,
+                            num_epochs=FLAGS.num_epochs)
+
+    HIDDEN_UNITS = 4 
+
+    INPUTS = 1
+    OUTPUTS = 1
+
+    weights_1 = tf.Variable(tf.truncated_normal([INPUTS, HIDDEN_UNITS]))
+    biases_1 = tf.Variable(tf.zeros([HIDDEN_UNITS]))
+    layer_1_outputs = tf.nn.sigmoid(tf.matmul(inputs, weights_1) + biases_1)
+
+    weights_2 = tf.Variable(tf.truncated_normal([HIDDEN_UNITS, OUTPUTS]))
+    biases_2 = tf.Variable(tf.zeros([OUTPUTS]))
+
+    logits = tf.nn.sigmoid(tf.matmul(layer_1_outputs, weights_2) + biases_2)
+    
+    desired_outputs = tilexs
+    error_function = 0.5 * tf.reduce_sum(tf.sub(logits, desired_outputs) * tf.sub(logits, desired_outputs))
+
+    train_step = tf.train.GradientDescentOptimizer(0.05).minimize(error_function)
+
+    sess.run(tf.initialize_all_variables())
   print(times)
   print(tiltxs)
-  x = tf.placeholder('float', [None, 784])
-  print(x)
+
+
+
+  
 
 
 
