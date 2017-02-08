@@ -3,6 +3,7 @@
 from __future__ import absolute_import
 from __future__ import division
 from __future__ import print_function
+from tensorflow.python import debug as tf_debug
 
 import argparse
 import os.path
@@ -79,7 +80,7 @@ def inputs(train, batch_size, num_epochs):
     # (Internally uses a RandomShuffleQueue.)
     # We run this in two threads to avoid being a bottleneck.
     foods, happinesses= tf.train.shuffle_batch(
-        [food, happiness], batch_size=batch_size, num_threads=2,
+        [food, happiness], batch_size=batch_size, num_threads=1,
         capacity=1000 + 3 * batch_size,
         # Ensures a minimum amount of shuffling of examples.
         min_after_dequeue=1000)
@@ -96,45 +97,93 @@ def main(_):
     foods, happinesses = inputs(train=True, batch_size=FLAGS.batch_size,
                             num_epochs=FLAGS.num_epochs)
 
+    print("foods:", foods)
+    print("happinesses:", happinesses)
+    print("shape(foods)", tf.shape(foods))
+    print("shape(happinesses)", tf.shape(happinesses))
+
     HIDDEN_UNITS = 4 
 
     INPUTS = 1
     OUTPUTS = 1
 
+    # inference
+    """Build the MNIST model up to where it may be used for inference.
 
+  Args:
+    images: Images placeholder, from inputs().
+    hidden1_units: Size of the first hidden layer.
+    hidden2_units: Size of the second hidden layer.
+
+  Returns:
+    softmax_linear: Output tensor with the computed logits.
+  """
+
+    # Hidden 1
     weights_1 = tf.Variable(tf.truncated_normal([INPUTS, HIDDEN_UNITS]))
     biases_1 = tf.Variable(tf.zeros([HIDDEN_UNITS]))
 
     layer_1_outputs = tf.nn.sigmoid(tf.matmul(foods, weights_1) + biases_1)
-
+    
     weights_2 = tf.Variable(tf.truncated_normal([HIDDEN_UNITS, OUTPUTS]))
     biases_2 = tf.Variable(tf.zeros([OUTPUTS]))
 
     logits = tf.nn.sigmoid(tf.matmul(layer_1_outputs, weights_2) + biases_2)
-    
+
+
+
+
     loss = tf.reduce_mean(logits)
 
     learning_rate = 0.01
     optimizer = tf.train.GradientDescentOptimizer(learning_rate)
     train_op = optimizer.minimize(loss)
 
-    init_op = tf.group(tf.global_variables_initializer())
+    init_op = tf.group(tf.global_variables_initializer(), tf.local_variables_initializer())
 
     sess = tf.Session()
+    # sess = tf_debug.LocalCLIDebugWrapperSession(sess)
+    # sess.add_tensor_filter("has_inf_or_nan", tf_debug.has_inf_or_nan)
     sess.run(init_op)
+
+    # Start input enqueue threads.
+    coord = tf.train.Coordinator()
+    threads = tf.train.start_queue_runners(sess=sess, coord=coord)
     
-    print('staring iteration', 0)
+    '''print('staring iteration', 0)
     _, loss = sess.run([train_op, loss])
     print(loss)
 
+    sess.close()'''
+
+    try:
+      step = 0
+      while not coord.should_stop():
+        start_time = time.time()
+        # Run one step of the model.  The return values are
+        # the activations from the `train_op` (which is
+        # discarded) and the `loss` op.  To inspect the values
+        # of your ops or variables, you may include them in
+        # the list passed to sess.run() and the value tensors
+        # will be returned in the tuple from the call.
+        _, loss_value = sess.run([train_op, loss])
+
+        duration = time.time() - start_time
+
+        # Print an overview fairly often.
+        if step % 1 == 0:
+          print('Step %d: loss = %.2f (%.3f sec)' % (step, loss_value,
+                                                     duration))
+        step += 1
+    except tf.errors.OutOfRangeError:
+      print('Done training for %d epochs, %d steps.' % (FLAGS.num_epochs, step))
+    finally:
+      # When done, ask the threads to stop.
+      coord.request_stop()
+
+    # Wait for threads to finish.
+    coord.join(threads)
     sess.close()
-
-   
-
-
-
-
-
   
 
 
@@ -168,7 +217,7 @@ if __name__ == '__main__':
   parser.add_argument(
       '--batch_size',
       type=int,
-      default=100,
+      default=2,
       help='Batch size.'
   )
   parser.add_argument(
@@ -178,5 +227,5 @@ if __name__ == '__main__':
       help='Directory with the training data.'
   )
   FLAGS, unparsed = parser.parse_known_args()
-  tf.app.run(main=main, argv=[sys.argv[0]] + unparsed)
+tf.app.run(main=main, argv=[sys.argv[0]] + unparsed)
 
