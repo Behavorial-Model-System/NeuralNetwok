@@ -34,13 +34,9 @@ def main(unused_argv):
         data = json.load(data_file)
 
     print(data)
-
-
     num_examples = 2
 
     name = 'food_record'
-
-
     filename = os.path.join(FLAGS.directory, name + '.tfrecords')
     print('Writing', filename)
     writer = tf.python_io.TFRecordWriter(filename)
@@ -51,9 +47,6 @@ def main(unused_argv):
             }))
         writer.write(example.SerializeToString())
     writer.close()
-
-    
-
     
 if __name__ == '__main__':
   parser = argparse.ArgumentParser()

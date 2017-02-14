@@ -3,12 +3,12 @@
 from __future__ import absolute_import
 from __future__ import division
 from __future__ import print_function
-from tensorflow.python import debug as tf_debug
 
 import argparse
 import os.path
 import sys
 import time
+import math
 
 import tensorflow as tf
 
@@ -37,9 +37,10 @@ def read_and_decode(filename_queue):
   food = tf.cast(features['food'], tf.float32)
   happiness = tf.cast(features['happiness'], tf.float32)
 
-
   food = tf.expand_dims(food, -1)
 
+  print("food", food)
+  print("happiness", happiness)
   print("food shape: ", tf.shape(food))
   print("happiness shape: ", tf.shape(happiness))
 
@@ -80,7 +81,7 @@ def inputs(train, batch_size, num_epochs):
     # (Internally uses a RandomShuffleQueue.)
     # We run this in two threads to avoid being a bottleneck.
     foods, happinesses= tf.train.shuffle_batch(
-        [food, happiness], batch_size=batch_size, num_threads=1,
+        [food, happiness], batch_size=batch_size, num_threads=2,
         capacity=1000 + 3 * batch_size,
         # Ensures a minimum amount of shuffling of examples.
         min_after_dequeue=1000)
@@ -97,69 +98,59 @@ def main(_):
     foods, happinesses = inputs(train=True, batch_size=FLAGS.batch_size,
                             num_epochs=FLAGS.num_epochs)
 
-    print("foods:", foods)
-    print("happinesses:", happinesses)
-    print("shape(foods)", tf.shape(foods))
-    print("shape(happinesses)", tf.shape(happinesses))
+    print("foods: ", foods)
+    print("happinesses: ", happinesses)
+    print("shape(foods): ", tf.shape(foods))
+    print("shape(happinesses): ", tf.shape(happinesses))
 
-    HIDDEN_UNITS = 4 
+
+    HIDDEN_UNITS = 5 
 
     INPUTS = 1
     OUTPUTS = 1
 
-    # inference
-    """Build the MNIST model up to where it may be used for inference.
+    #getting logits, the final layer of the neural network 
+    weights_1 = tf.Variable(tf.truncated_normal([INPUTS, HIDDEN_UNITS], stddev=1.0))
+    biases_1 = tf.Variable(tf.truncated_normal([HIDDEN_UNITS], stddev=1.0))
 
-  Args:
-    images: Images placeholder, from inputs().
-    hidden1_units: Size of the first hidden layer.
-    hidden2_units: Size of the second hidden layer.
+    layer_1_outputs = tf.nn.relu(tf.matmul(foods, weights_1) + biases_1)
 
-  Returns:
-    softmax_linear: Output tensor with the computed logits.
-  """
+    weights_2 = tf.Variable(tf.truncated_normal([HIDDEN_UNITS, OUTPUTS], stddev=1.0))
+    biases_2 = tf.Variable(tf.truncated_normal([OUTPUTS], stddev=1.0))
 
-    # Hidden 1
-    weights_1 = tf.Variable(tf.truncated_normal([INPUTS, HIDDEN_UNITS]))
-    biases_1 = tf.Variable(tf.zeros([HIDDEN_UNITS]))
+    logits = tf.matmul(layer_1_outputs, weights_2) + biases_2
+    logits = tf.Print(logits, [logits, happinesses])
+    print("logits: ", logits)
 
-    layer_1_outputs = tf.nn.sigmoid(tf.matmul(foods, weights_1) + biases_1)
-    
-    weights_2 = tf.Variable(tf.truncated_normal([HIDDEN_UNITS, OUTPUTS]))
-    biases_2 = tf.Variable(tf.zeros([OUTPUTS]))
+    #mean sqaured error
+    loss = tf.reduce_mean(tf.mul(tf.sub(logits, happinesses), tf.sub(logits, happinesses)))
 
-    logits = tf.nn.sigmoid(tf.matmul(layer_1_outputs, weights_2) + biases_2)
-
-
-
-
-    loss = tf.reduce_mean(logits)
-
+    #getting the training op, gradient descent
     learning_rate = 0.01
     optimizer = tf.train.GradientDescentOptimizer(learning_rate)
+    global_step = tf.Variable(0, name='global_step', trainable=False)
+    # Use the optimizer to apply the gradients that minimize the loss
+    # (and also increment the global step counter) as a single training step.
     train_op = optimizer.minimize(loss)
+    
 
-    init_op = tf.group(tf.global_variables_initializer(), tf.local_variables_initializer())
+    #the op for initializing the variables
+    init_op = tf.group(tf.global_variables_initializer(),
+                       tf.local_variables_initializer())
 
     sess = tf.Session()
-    # sess = tf_debug.LocalCLIDebugWrapperSession(sess)
-    # sess.add_tensor_filter("has_inf_or_nan", tf_debug.has_inf_or_nan)
     sess.run(init_op)
-
+    
+    
     # Start input enqueue threads.
     coord = tf.train.Coordinator()
     threads = tf.train.start_queue_runners(sess=sess, coord=coord)
-    
-    '''print('staring iteration', 0)
-    _, loss = sess.run([train_op, loss])
-    print(loss)
-
-    sess.close()'''
 
     try:
       step = 0
       while not coord.should_stop():
         start_time = time.time()
+
         # Run one step of the model.  The return values are
         # the activations from the `train_op` (which is
         # discarded) and the `loss` op.  To inspect the values
@@ -171,8 +162,8 @@ def main(_):
         duration = time.time() - start_time
 
         # Print an overview fairly often.
-        if step % 1 == 0:
-          print('Step %d: loss = %.2f (%.3f sec)' % (step, loss_value,
+        #if step % 100 == 0:
+        print('Step %d: loss = %.2f (%.3f sec)' % (step, loss_value,
                                                      duration))
         step += 1
     except tf.errors.OutOfRangeError:
@@ -184,6 +175,7 @@ def main(_):
     # Wait for threads to finish.
     coord.join(threads)
     sess.close()
+    
   
 
 
@@ -199,7 +191,7 @@ if __name__ == '__main__':
   parser.add_argument(
       '--num_epochs',
       type=int,
-      default=2,
+      default=1000,
       help='Number of epochs to run trainer.'
   )
   parser.add_argument(
@@ -217,7 +209,7 @@ if __name__ == '__main__':
   parser.add_argument(
       '--batch_size',
       type=int,
-      default=2,
+      default=1,
       help='Batch size.'
   )
   parser.add_argument(
@@ -227,5 +219,5 @@ if __name__ == '__main__':
       help='Directory with the training data.'
   )
   FLAGS, unparsed = parser.parse_known_args()
-tf.app.run(main=main, argv=[sys.argv[0]] + unparsed)
+  tf.app.run(main=main, argv=[sys.argv[0]] + unparsed)
 

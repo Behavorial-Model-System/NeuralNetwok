@@ -24,6 +24,7 @@ run it once).
 from __future__ import absolute_import
 from __future__ import division
 from __future__ import print_function
+from tensorflow.python import debug as tf_debug
 
 import argparse
 import os.path
@@ -71,6 +72,8 @@ def read_and_decode(filename_queue):
   # Convert label from a scalar uint8 tensor to an int32 scalar.
   label = tf.cast(features['label'], tf.int32)
 
+  print("image: ", image)
+  print("lable: ", label)
   print("image shape: ", tf.shape(image))
   print("label shape: ", tf.shape(label))
 
@@ -150,6 +153,7 @@ def run_training():
     # Create a session for running operations in the Graph.
     sess = tf.Session()
 
+
     # Initialize the variables (the trained variables and the
     # epoch counter).
     sess.run(init_op)
@@ -162,6 +166,7 @@ def run_training():
       step = 0
       while not coord.should_stop():
         start_time = time.time()
+        
 
         # Run one step of the model.  The return values are
         # the activations from the `train_op` (which is
@@ -170,6 +175,7 @@ def run_training():
         # the list passed to sess.run() and the value tensors
         # will be returned in the tuple from the call.
         _, loss_value = sess.run([train_op, loss])
+        sess = tf_debug.LocalCLIDebugWrapperSession(sess)
 
         duration = time.time() - start_time
 
