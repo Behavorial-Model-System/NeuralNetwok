@@ -50,7 +50,7 @@ def input_fn():
 
 
 # Declare list of features, we only have one real-valued feature
-def model_fn(features, labels, mode, params, config, model_dir):
+def model_fn(features, labels, mode, params):
 
 
   '''
@@ -76,11 +76,10 @@ def model_fn(features, labels, mode, params, config, model_dir):
   predictions_dict = {"labels": predictions}
 
   # Calculate loss using mean squared error
-  loss = tf.losses.mean_squared_error(labels, predictions)
-
+  #loss = tf.losses.mean_squared_error(labels, predictions)
+  loss = tf.sqrt(tf.reduce_mean(tf.square(tf.sub(tf.cast(labels, tf.float32), predictions))))
   eval_metric_ops = {
-    "rmse": tf.metrics.root_mean_squared_error(
-    tf.cast(labels, tf.float64), predictions)
+    "rmse": tf.sqrt(tf.reduce_mean(tf.square(tf.sub(tf.cast(labels, tf.float32), predictions))))
   }
 
   train_op = tf.contrib.layers.optimize_loss(
@@ -88,8 +87,8 @@ def model_fn(features, labels, mode, params, config, model_dir):
     global_step=tf.contrib.framework.get_global_step(),
     learning_rate=params["learning_rate"],
     optimizer="SGD")
-
-  return model_fn_lib.ModelFnOps(
+  
+  return tf.contrib.learn.model_fn_lib.ModelFnOps(
     mode=mode,
     predictions=predictions_dict,
     loss=loss,
@@ -107,7 +106,7 @@ def main():
   nn = tf.contrib.learn.Estimator(model_fn = model_fn, params = params)
   # Fit
   # nn.fit(x = feature_cols, y = labels, steps=5000)
-  nn.fit(input_fn = input_fn, steps=5000)
+  nn.fit(input_fn = input_fn, steps=5)
 
   # Score accuracy
   ev = nn.evaluate(x=test_set.data, y=test_set.target, steps=1)

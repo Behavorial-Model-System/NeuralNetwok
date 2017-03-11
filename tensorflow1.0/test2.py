@@ -1,73 +1,89 @@
-#  Copyright 2016 The TensorFlow Authors. All Rights Reserved.
-#
-#  Licensed under the Apache License, Version 2.0 (the "License");
-#  you may not use this file except in compliance with the License.
-#  You may obtain a copy of the License at
-#
-#   http://www.apache.org/licenses/LICENSE-2.0
-#
-#  Unless required by applicable law or agreed to in writing, software
-#  distributed under the License is distributed on an "AS IS" BASIS,
-#  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-#  See the License for the specific language governing permissions and
-#  limitations under the License.
-"""DNNRegressor with custom input_fn for Housing dataset."""
+'''
+Based on Tensorflow's boston.py tutorial at 
+https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/tutorials/input_fn/boston.py
 
-from __future__ import absolute_import
-from __future__ import division
-from __future__ import print_function
-
-import itertools
-
-import pandas as pd
+'''
+import numpy as np
 import tensorflow as tf
+import itertools
+import pandas as pd
+import os
+import json
+from tensorflow.contrib.learn.python.learn.metric_spec import MetricSpec
 
-tf.logging.set_verbosity(tf.logging.INFO)
-
+#all input and output nodes
 COLUMNS = ["food", "water", "happiness"]
+#input
 FEATURES = ["food", "water"]
+#output
 LABEL = "happiness"
+
+#directory that stores parameters and saves model after training
+MODEL_DIR = "test2_model"
+
+#set to train on, has input and output data
+TRAINING_SET = "food_test.json"
+#set to test on, has input and output data
+TEST_SET = "food_test.json"
+#set to predict output for, may not have output data
+PREDICTION_SET = "food_test.json"
 
 
 def input_fn(data_set):
-  feature_cols = {k: tf.constant(data_set[k].values) for k in FEATURES}
-  labels = tf.constant(data_set[LABEL].values)
-  return feature_cols, labels
+
+  food_column_data = []
+  water_column_data = []
+  happiness_column_data = []
+
+  script_dir = os.path.dirname(__file__)
+  file_path = os.path.join(script_dir, data_set)
+  with open(file_path) as data_file:    
+    data = json.load(data_file)
+  num_examples = len(data)
+
+  for index in range(num_examples):
+    food_column_data.append(data[index]['food'])
+    water_column_data.append(data[index]['water'])
+    happiness_column_data.append(data[index]['happiness'])
+  food_column_data = np.asarray(food_column_data)
+  water_column_data = np.asarray(water_column_data)
+  happiness_column_data = np.asarray(happiness_column_data)
+
+  food_tensor = tf.constant(food_column_data)
+  water_tensor = tf.constant(water_column_data)
+  labels = tf.constant(happiness_column_data)
+
+  feature_columns = {}
+
+  feature_columns["food"] = food_tensor
+  feature_columns["water"] = water_tensor
+
+  return feature_columns, labels
 
 
-def main(unused_argv):
-  # Load datasets
-  training_set = pd.read_csv("boston_train.csv", skipinitialspace=True,
-                             skiprows=1, names=COLUMNS)
-  test_set = pd.read_csv("boston_test.csv", skipinitialspace=True,
-                         skiprows=1, names=COLUMNS)
+def main():
+  print('main')
 
-  # Set of 6 examples for which to predict median house values
-  prediction_set = pd.read_csv("boston_predict.csv", skipinitialspace=True,
-                               skiprows=1, names=COLUMNS)
-
-  # Feature cols
-  feature_cols = [tf.contrib.layers.real_valued_column(k)
-                  for k in FEATURES]
-
-  # Build 2 layer fully connected DNN with 10, 10 units respectively.
+  feature_cols = [tf.contrib.layers.real_valued_column(k) for k in FEATURES]
+    # Build 2 layer fully connected DNN with 10, 10 units respectively.
   regressor = tf.contrib.learn.DNNRegressor(feature_columns=feature_cols,
-                                            hidden_units=[10, 10],
-                                            model_dir="/tmp/boston_model")
-
-  # Fit
-  regressor.fit(input_fn=lambda: input_fn(training_set), steps=5000)
-
-  # Score accuracy
-  ev = regressor.evaluate(input_fn=lambda: input_fn(test_set), steps=1)
+                                            hidden_units=[8, 8],
+                                            model_dir=MODEL_DIR)
+  #training on training set
+  regressor.fit(input_fn=lambda: input_fn(TRAINING_SET), steps=2)
+  #evaluate on testting set
+  ev = regressor.evaluate(input_fn=lambda: input_fn(TEST_SET), steps=1)
   loss_score = ev["loss"]
   print("Loss: {0:f}".format(loss_score))
 
-  # Print out predictions
-  y = regressor.predict(input_fn=lambda: input_fn(prediction_set))
+  # Print out predictions on the prediction set
+  y = regressor.predict(input_fn=lambda:input_fn(PREDICTION_SET))
   # .predict() returns an iterator; convert to a list and print predictions
   predictions = list(itertools.islice(y, 6))
   print("Predictions: {}".format(str(predictions)))
 
-if __name__ == "__main__":
-tf.app.run()
+if __name__== "__main__":
+  main()
+
+
+
