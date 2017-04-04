@@ -8,7 +8,10 @@ import tensorflow as tf
 import itertools
 import os
 import json
-# from pickle import Unpickler
+import pickle
+
+from cPickle import Unpickler
+import pandas
 import utils
 
 #all input and output nodes
@@ -44,10 +47,6 @@ class sensor:
     self.sensorFeatures = []
 
   def process(self, sensorData):
-    print(self.name)
-    print('sensor: process: sensordata: %s' %sensorData)
-    print(len(self.sensorFeatures))
-    print('processing sensor: %s' % self.name)
     for sensorFeature in self.sensorFeatures:
       sensorFeature.process(sensorData)
 
@@ -69,7 +68,6 @@ class sensorFeature:
 #sensor - sensor to addSensor
 def addSensor(sensor):
   sensors[sensor.name] = sensor
-  print sensors
 #adds a feature
 #feature - feature to addSensor
 #sensor - sensor the feature belongs to
@@ -131,6 +129,14 @@ addFeature(wifiLevelFeature, wifiSensor)
 #LOCATION
 locationSensor = sensor('location')
 addSensor(locationSensor)
+
+#
+try:
+  f = open('lastFeatures.pckl', 'r')
+  object = pickle.load(f)
+  f.close()
+except(IOError):
+  print('lastFeatures.pckl not found, using zeroes as default')
 
 #converts string to int
 def stringToBits(str, numBits):
@@ -206,7 +212,8 @@ def main():
   # Build 2 layer fully connected DNN with 10, 10 units respectively.
   regressor = tf.contrib.learn.DNNRegressor(feature_columns=feature_cols,
                                             hidden_units=[8, 8],
-                                            model_dir=MODEL_DIR)
+                                            model_dir=MODEL_DIR,
+                                            activation_fn=tf.nn.tanh)
   #training on training set
   regressor.fit(input_fn=lambda: input_fn(TRAINING_SET), steps=2)
   #evaluate on testting set
@@ -219,6 +226,11 @@ def main():
   # .predict() returns an iterator; convert to a list and print predictions
   predictions = list(itertools.islice(y, 6))
   print("Predictions: {}".format(str(predictions)))
+
+  #save the last features in a pickle
+  f = open('lastFeatures.pckl', 'w')
+  pickle.dump(lastFeatures, f)
+  f.close()
 
 
 if __name__ == "__main__":
