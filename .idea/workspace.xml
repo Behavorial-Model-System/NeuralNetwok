@@ -2,9 +2,109 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c5dffacb-03cb-4f30-957b-4ece54662737" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/pickle.py" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tensorflow1.0/10.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tensorflow1.0/bms3.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tensorflow1.0/scoping_test.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/bms2_model/checkpoint" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/bms2_model/eval/events.out.tfevents.1491271470.ubuntu" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/bms2_model/eval/events.out.tfevents.1491271762.ubuntu" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/bms2_model/eval/events.out.tfevents.1491272053.ubuntu" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/bms2_model/eval/events.out.tfevents.1491272134.ubuntu" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/bms2_model/eval/events.out.tfevents.1491272179.ubuntu" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/bms2_model/eval/events.out.tfevents.1491272221.ubuntu" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/bms2_model/eval/events.out.tfevents.1491272231.ubuntu" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/bms2_model/eval/events.out.tfevents.1491272514.ubuntu" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/bms2_model/eval/events.out.tfevents.1491272722.ubuntu" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/bms2_model/events.out.tfevents.1491270779.ubuntu" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/bms2_model/events.out.tfevents.1491271467.ubuntu" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/bms2_model/events.out.tfevents.1491271759.ubuntu" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/bms2_model/events.out.tfevents.1491272050.ubuntu" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/bms2_model/events.out.tfevents.1491272131.ubuntu" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/bms2_model/events.out.tfevents.1491272177.ubuntu" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/bms2_model/events.out.tfevents.1491272219.ubuntu" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/bms2_model/events.out.tfevents.1491272229.ubuntu" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/bms2_model/events.out.tfevents.1491272512.ubuntu" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/bms2_model/events.out.tfevents.1491272720.ubuntu" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/bms2_model/graph.pbtxt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/bms2_model/model.ckpt-16.data-00000-of-00001" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/bms2_model/model.ckpt-16.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/bms2_model/model.ckpt-16.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/bms2_model/model.ckpt-17.data-00000-of-00001" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/bms2_model/model.ckpt-17.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/bms2_model/model.ckpt-17.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/bms2_model/model.ckpt-18.data-00000-of-00001" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/bms2_model/model.ckpt-18.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/bms2_model/model.ckpt-18.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/bms2_model/model.ckpt-19.data-00000-of-00001" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/bms2_model/model.ckpt-19.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/bms2_model/model.ckpt-19.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/bms2_model/model.ckpt-20.data-00000-of-00001" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/bms2_model/model.ckpt-20.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/bms2_model/model.ckpt-20.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/checkpoint" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/eval/events.out.tfevents.1489265582.ubuntu" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/eval/events.out.tfevents.1489265614.ubuntu" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/eval/events.out.tfevents.1489265619.ubuntu" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/eval/events.out.tfevents.1489265624.ubuntu" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/eval/events.out.tfevents.1489265628.ubuntu" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/eval/events.out.tfevents.1489265632.ubuntu" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/eval/events.out.tfevents.1489265636.ubuntu" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/eval/events.out.tfevents.1489265639.ubuntu" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/eval/events.out.tfevents.1489265643.ubuntu" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/eval/events.out.tfevents.1489265648.ubuntu" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/eval/events.out.tfevents.1489265652.ubuntu" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/eval/events.out.tfevents.1489265656.ubuntu" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/eval/events.out.tfevents.1489265660.ubuntu" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/eval/events.out.tfevents.1489265665.ubuntu" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/eval/events.out.tfevents.1489265670.ubuntu" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/eval/events.out.tfevents.1489265675.ubuntu" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/eval/events.out.tfevents.1489265694.ubuntu" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/eval/events.out.tfevents.1489265806.ubuntu" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/eval/events.out.tfevents.1489266700.ubuntu" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/eval/events.out.tfevents.1489266840.ubuntu" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/eval/events.out.tfevents.1489266880.ubuntu" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/eval/events.out.tfevents.1489268970.ubuntu" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/eval/events.out.tfevents.1489269214.ubuntu" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/events.out.tfevents.1489265580.ubuntu" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/events.out.tfevents.1489265612.ubuntu" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/events.out.tfevents.1489265617.ubuntu" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/events.out.tfevents.1489265622.ubuntu" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/events.out.tfevents.1489265626.ubuntu" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/events.out.tfevents.1489265630.ubuntu" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/events.out.tfevents.1489265634.ubuntu" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/events.out.tfevents.1489265638.ubuntu" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/events.out.tfevents.1489265642.ubuntu" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/events.out.tfevents.1489265647.ubuntu" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/events.out.tfevents.1489265651.ubuntu" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/events.out.tfevents.1489265655.ubuntu" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/events.out.tfevents.1489265659.ubuntu" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/events.out.tfevents.1489265663.ubuntu" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/events.out.tfevents.1489265669.ubuntu" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/events.out.tfevents.1489265673.ubuntu" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/events.out.tfevents.1489265693.ubuntu" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/events.out.tfevents.1489265804.ubuntu" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/events.out.tfevents.1489266301.ubuntu" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/events.out.tfevents.1489266697.ubuntu" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/events.out.tfevents.1489266838.ubuntu" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/events.out.tfevents.1489266867.ubuntu" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/events.out.tfevents.1489266878.ubuntu" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/events.out.tfevents.1489268968.ubuntu" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/events.out.tfevents.1489269212.ubuntu" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/graph.pbtxt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/model.ckpt-44-00000-of-00001" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/model.ckpt-44.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/model.ckpt-45-00000-of-00001" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/model.ckpt-45.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/model.ckpt-46-00000-of-00001" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/model.ckpt-46.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/model.ckpt-47-00000-of-00001" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/model.ckpt-47.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/model.ckpt-48-00000-of-00001" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/model.ckpt-48.meta" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tensorflow1.0/bms2.py" afterPath="$PROJECT_DIR$/tensorflow1.0/bms2.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tensorflow1.0/lastFeatures.pckl" afterPath="$PROJECT_DIR$/tensorflow1.0/lastFeatures.pckl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tensorflow1.0/test2.py" afterPath="$PROJECT_DIR$/tensorflow1.0/test2.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,34 +119,43 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="bms2.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/tensorflow1.0/bms2.py">
+      <file leaf-file-name="bms3.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tensorflow1.0/bms3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="237">
-              <caret line="81" column="0" lean-forward="true" selection-start-line="81" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
+            <state relative-caret-position="-293">
+              <caret line="174" column="34" lean-forward="true" selection-start-line="174" selection-start-column="34" selection-end-line="174" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="10.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tensorflow1.0/10.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2982">
+              <caret line="3370" column="8" lean-forward="true" selection-start-line="3370" selection-start-column="8" selection-end-line="3370" selection-end-column="8" />
               <folding>
-                <element signature="e#156#174#0" expanded="true" />
+                <element signature="e#53#2694#0" expanded="false" />
+                <element signature="e#2768#2862#0" expanded="false" />
+                <element signature="e#2915#2956#0" expanded="false" />
+                <element signature="e#2964#3058#0" expanded="false" />
+                <element signature="e#3115#3183#0" expanded="false" />
+                <element signature="e#3240#3281#0" expanded="false" />
+                <element signature="e#3338#3379#0" expanded="false" />
+                <element signature="e#3442#38956#0" expanded="false" />
+                <element signature="e#39013#41876#0" expanded="false" />
+                <element signature="e#41999#42040#0" expanded="false" />
+                <element signature="e#42097#42138#0" expanded="false" />
+                <element signature="e#42195#42236#0" expanded="false" />
+                <element signature="e#42297#42365#0" expanded="false" />
+                <element signature="e#42422#42463#0" expanded="false" />
+                <element signature="e#42520#42561#0" expanded="false" />
+                <element signature="e#42624#78138#0" expanded="false" />
+                <element signature="e#80940#80981#0" expanded="false" />
+                <element signature="e#81042#81110#0" expanded="false" />
+                <element signature="e#81167#81208#0" expanded="false" />
+                <element signature="e#81265#81306#0" expanded="false" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pickle_test.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tensorflow1.0/pickle_test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="8" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test2.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tensorflow1.0/test2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -68,6 +177,12 @@
       <find>location</find>
       <find>lastFea</find>
       <find>print</find>
+      <find>learn</find>
+      <find>training_set</find>
+      <find>string to</find>
+      <find>stringto</find>
+      <find>not fou</find>
+      <find>stringTo</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -80,15 +195,19 @@
         <option value="$PROJECT_DIR$/tensorflow1.0/pickle.py" />
         <option value="/usr/local/lib/python2.7/dist-packages/pandas/__init__.py" />
         <option value="$PROJECT_DIR$/tensorflow1.0/pickle_test.py" />
+        <option value="$PROJECT_DIR$/tensorflow1.0/test2.py" />
         <option value="$PROJECT_DIR$/tensorflow1.0/bms2.py" />
+        <option value="$PROJECT_DIR$/tensorflow1.0/scoping_test.py" />
+        <option value="$PROJECT_DIR$/tensorflow1.0/10a.json" />
+        <option value="$PROJECT_DIR$/tensorflow1.0/bms3.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="637" />
-    <option name="y" value="200" />
-    <option name="width" value="1585" />
-    <option name="height" value="1073" />
+    <option name="x" value="65" />
+    <option name="y" value="24" />
+    <option name="width" value="1248" />
+    <option name="height" value="959" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -140,6 +259,11 @@
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="configurable.group.project" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tensorflow1.0" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -330,14 +454,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="637" y="200" width="1585" height="1073" extended-state="0" />
+    <frame x="65" y="24" width="1248" height="959" extended-state="4" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22082019" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20432693" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30515465" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32943925" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2978972" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -454,14 +578,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tensorflow1.0/22.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4660">
-          <caret line="233" column="11" lean-forward="false" selection-start-line="233" selection-start-column="3" selection-end-line="233" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tensorflow1.0/22a.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -483,7 +599,7 @@
         <state relative-caret-position="1140">
           <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
           <folding>
-            <element signature="e#70#80#0" expanded="true" />
+            <element signature="e#70#80#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -504,14 +620,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file:///usr/local/lib/python2.7/dist-packages/tensorflow/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file:///usr/lib/python2.7/importlib/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="487">
@@ -528,14 +636,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tensorflow1.0/test2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tensorflow1.0/pickle_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -544,13 +644,148 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tensorflow1.0/bms2.py">
+    <entry file="file://$PROJECT_DIR$/sample/food_to_record.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="81" column="0" lean-forward="true" selection-start-line="81" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sample/simple_reader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1680">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensorflow1.0/simple_test.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensorflow1.0/food_test.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensorflow1.0/test2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="68" column="39" lean-forward="false" selection-start-line="68" selection-start-column="39" selection-end-line="68" selection-end-column="39" />
           <folding>
             <element signature="e#156#174#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/tensorflow/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensorflow1.0/22.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="219" column="0" lean-forward="false" selection-start-line="219" selection-start-column="0" selection-end-line="219" selection-end-column="0" />
+          <folding>
+            <element signature="e#53#2086#0" expanded="false" />
+            <element signature="e#2136#4079#0" expanded="false" />
+            <element signature="e#4134#4253#0" expanded="false" />
+            <element signature="e#4301#4334#0" expanded="false" />
+            <element signature="e#4382#4456#0" expanded="false" />
+            <element signature="e#4504#4578#0" expanded="false" />
+            <element signature="e#4626#4700#0" expanded="false" />
+            <element signature="e#4752#5183#0" expanded="false" />
+            <element signature="e#5231#5304#0" expanded="false" />
+            <element signature="e#5358#105578#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensorflow1.0/58.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#60#183#0" expanded="false" />
+            <element signature="e#241#1366#0" expanded="false" />
+            <element signature="e#1428#1889#0" expanded="false" />
+            <element signature="e#1953#128222#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensorflow1.0/bms2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="593">
+          <caret line="264" column="0" lean-forward="false" selection-start-line="264" selection-start-column="0" selection-end-line="265" selection-end-column="20" />
+          <folding>
+            <element signature="e#156#174#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensorflow1.0/scoping_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="41" lean-forward="false" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensorflow1.0/10a.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="125" column="3" lean-forward="false" selection-start-line="125" selection-start-column="3" selection-end-line="125" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensorflow1.0/10.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2982">
+          <caret line="3370" column="8" lean-forward="true" selection-start-line="3370" selection-start-column="8" selection-end-line="3370" selection-end-column="8" />
+          <folding>
+            <element signature="e#53#2694#0" expanded="false" />
+            <element signature="e#2768#2862#0" expanded="false" />
+            <element signature="e#2915#2956#0" expanded="false" />
+            <element signature="e#2964#3058#0" expanded="false" />
+            <element signature="e#3115#3183#0" expanded="false" />
+            <element signature="e#3240#3281#0" expanded="false" />
+            <element signature="e#3338#3379#0" expanded="false" />
+            <element signature="e#3442#38956#0" expanded="false" />
+            <element signature="e#39013#41876#0" expanded="false" />
+            <element signature="e#41999#42040#0" expanded="false" />
+            <element signature="e#42097#42138#0" expanded="false" />
+            <element signature="e#42195#42236#0" expanded="false" />
+            <element signature="e#42297#42365#0" expanded="false" />
+            <element signature="e#42422#42463#0" expanded="false" />
+            <element signature="e#42520#42561#0" expanded="false" />
+            <element signature="e#42624#78138#0" expanded="false" />
+            <element signature="e#80940#80981#0" expanded="false" />
+            <element signature="e#81042#81110#0" expanded="false" />
+            <element signature="e#81167#81208#0" expanded="false" />
+            <element signature="e#81265#81306#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensorflow1.0/bms3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-293">
+          <caret line="174" column="34" lean-forward="true" selection-start-line="174" selection-start-column="34" selection-end-line="174" selection-end-column="34" />
+          <folding />
         </state>
       </provider>
     </entry>

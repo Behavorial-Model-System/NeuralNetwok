@@ -11,29 +11,24 @@ import json
 import pickle
 import sys
 
+class networkSetup:
+  #all input and output nodes
+  #COLUMNS = ["auth", "time", "tiltx", "tilty", "tilty", "wifibssid", "wifilevel"]
+  COLUMNS = ["auth"]
+  #input
+  FEATURES = []
+  #output
+  LABEL = "auth"
 
-#all input and output nodes
-#COLUMNS = ["auth", "time", "tiltx", "tilty", "tilty", "wifibssid", "wifilevel"]
-COLUMNS = ["auth"]
-#input
-FEATURES = []
-#output
-LABEL = "auth"
+  lastFeatures = {}
+  sensors = {}
 
-lastFeatures = {}
-sensors = {}
-
-#directory that stores parameters and saves model after training
-MODEL_DIR = "bms2_model"
-lastFeaturesPickle = 'lastFeatures.pckl'
-
-
+  #directory that stores parameters and saves model after training
+  MODEL_DIR = "bms3_model"
+  lastFeaturesPickle = 'lastFeatures.pckl'
 
 #sensor class for wifi, appusagestats,...
-
-
 class sensor:
-
   def __init__(self, name):
     self.name = name
     self.sensorFeatures = []
@@ -44,6 +39,10 @@ class sensor:
 
   def addFeature(self, sensorFeature):
     self.sensorFeatures.append(sensorFeature)
+
+
+
+
 
 #feature within a sensor, ie wifiname, appname,...
 
@@ -59,7 +58,7 @@ class sensorFeature:
 #adds a sensor
 #sensor - sensor to addSensor
 def addSensor(sensor):
-  sensors[sensor.name] = sensor
+  networkSetup.sensors[sensor.name] = sensor
 #adds a feature
 #feature - feature to addSensor
 #sensor - sensor the feature belongs to
@@ -67,10 +66,10 @@ def addSensor(sensor):
 
 def addFeature(feature, sensor):
   #initialize feature value with 1
-  lastFeatures[feature.name] = 1
+  networkSetup.lastFeatures[feature.name] = 1
   sensor.addFeature(feature)
-  COLUMNS.append(feature.name)
-  FEATURES.append(feature.name)
+  networkSetup.COLUMNS.append(feature.name)
+  networkSetup.FEATURES.append(feature.name)
 
 
 #TILT
@@ -80,9 +79,21 @@ addSensor(tiltSensor) #adds to a global array of sensors
 class TiltXFeature(sensorFeature):
   name = 'tiltX'
   def process(self, sensorData):
-    lastFeatures[self.name] = sensorData['tilt'][0]
+    networkSetup.lastFeatures[self.name] = sensorData['tilt'][0]
 tiltXFeature = TiltXFeature() #instantiates TiltXFeature
 addFeature(tiltXFeature, tiltSensor) #adds the X feature to the array inside the sensor
+class TiltYFeature(sensorFeature):
+  name = 'tiltY'
+  def process(self, sensorData):
+    networkSetup.lastFeatures[self.name] = sensorData['tilt'][1]
+tiltYFeature = TiltYFeature()
+addFeature(tiltYFeature, tiltSensor)
+class TiltZFeature(sensorFeature):
+  name = 'tiltZ'
+  def process(self, sensorData):
+    networkSetup.lastFeatures[self.name] = sensorData['tilt'][2]
+tiltZFeature = TiltZFeature()
+addFeature(tiltZFeature, tiltSensor)
 
 #USAGE EVENTS
 usageEventsSensor = sensor('usageEvents') #usage events sensor exists
@@ -91,8 +102,10 @@ addSensor(usageEventsSensor) #add to a global array of sensors
 class UsageEventsNameFeature(sensorFeature):
   name = 'usageEventsName'
   def process(self, sensorData):
+    if(len(sensorData['usageEvents']) == 0):
+      return
     # lastFeatures['usageEventsName'] = len(sensorData['usageEvents'][0]['name'])
-    lastFeatures['usageEventsName'] = stringToBits(sensorData['usageEvents'][0]['name'], 1)
+    networkSetup.lastFeatures['usageEventsName'] = stringToInt(sensorData['usageEvents'][0]['name'], 1)
 usageEventsNameFeature = UsageEventsNameFeature()
 addFeature(usageEventsNameFeature, usageEventsSensor)
 
@@ -103,7 +116,7 @@ addSensor(usageStatsSensor)
 class UsageStatsNameFeature(sensorFeature):
   name = 'usageStatsName'
   def process(self, sensorData):
-    lastFeatures['usageStatsName'] = len(sensorData['usageStats'][0]['name'])
+    networkSetup.lastFeatures['usageStatsName'] = len(sensorData['usageStats'][0]['name'])
 usageStatsNameFeature = UsageStatsNameFeature()
 addFeature(usageStatsNameFeature, usageStatsSensor)
 
@@ -114,32 +127,42 @@ addSensor(wifiSensor)
 class WifiLevelFeature(sensorFeature):
   name = 'wifiLevel'
   def process(self, sensorData):
-    lastFeatures['wifiLevel'] = len(sensorData['wifi'][0]['level'])
+    networkSetup.lastFeatures['wifiLevel'] = sensorData['wifi'][0]['level']
 wifiLevelFeature = WifiLevelFeature()
 addFeature(wifiLevelFeature, wifiSensor)
 
 #LOCATION
 locationSensor = sensor('location')
 addSensor(locationSensor)
-
+class LocationLatitudeFeature(sensorFeature):
+  name = 'locationLatitude'
+  def process(self, sensorData):
+    networkSetup.lastFeatures['latitude'] = sensorData['location']['latitude']
+locationLatitudeFeature = LocationLatitudeFeature()
+addFeature(locationLatitudeFeature, locationSensor)
+class LocationLongitudeFeature(sensorFeature):
+  name = 'locationLongitude'
+  def process(self, sensorData):
+    networkSetup.lastFeatures['longitude'] = sensorData['location']['longitude']
+locationLongitudeFeature = LocationLongitudeFeature()
+addFeature(locationLongitudeFeature, locationSensor)
 
 def pickleLoad(filename):
   try:
     f = open(filename, 'r')
-    object = pickle.load(f)
-    return object
+    networkSetup.lastFeatures = pickle.load(f)
     f.close()
   except(IOError):
     print('lastFeatures.pckl not found, using zeroes as default')
 
-def pickleSave(object, filename):
+def pickleSave(filename):
   # save the last features in a pickle
   f = open(filename, 'w')
-  pickle.dump(object, f)
+  pickle.dump(networkSetup.lastFeatures, f)
   f.close()
 
 #converts string to int
-def stringToBits(str, numBits):
+def stringToInt(str):
   h = 13
   length = len(str)
   for i in range(length):
@@ -155,7 +178,7 @@ def input_fn(data_set, isAuthentic = 1):
   #all list should be same size
   #one neural network input will be one number from each list
   column_data = {}
-  for key in FEATURES:
+  for key in networkSetup.FEATURES:
     column_data[key] = []
 
   script_dir = os.path.dirname(__file__)
@@ -167,20 +190,20 @@ def input_fn(data_set, isAuthentic = 1):
   for index in range(num_examples):
     print('index: %s' % index)
     emptyData = False
-    for key in sensors:
+    for key in networkSetup.sensors:
       if key in data[index]:
         # if(len(data[index][key])==0):
         #   print('empty sensor read in')
         #   emptyData = True
         #   break
         print('matching key found: %s' % key)
-        sensors[key].process(data[index])
+        networkSetup.sensors[key].process(data[index])
         break
     if emptyData:
       continue
     auth_column_data.append(1)
     for key in column_data:
-      column_data[key].append(lastFeatures[key])
+      column_data[key].append(networkSetup.lastFeatures[key])
     #usageEventsName_column_data.append(len(lastFeatures['usageEventsName']))
 
   auth_column_data = np.asarray(auth_column_data)
@@ -203,11 +226,11 @@ def input_fn(data_set, isAuthentic = 1):
   return feature_columns, labels
 
 def getRegressor():
-  feature_cols = [tf.contrib.layers.real_valued_column(k) for k in FEATURES]
+  feature_cols = [tf.contrib.layers.real_valued_column(k) for k in networkSetup.FEATURES]
   # Build 2 layer fully connected DNN with 8, 8 units respectively.
   regressor = tf.contrib.learn.DNNRegressor(feature_columns=feature_cols,
                                             hidden_units=[8, 8],
-                                            model_dir=MODEL_DIR,
+                                            model_dir=networkSetup.MODEL_DIR,
                                             activation_fn=tf.nn.tanh,
                                             optimizer=tf.train.GradientDescentOptimizer(
                                               learning_rate=0.001,
@@ -233,7 +256,7 @@ def predict(filepath):
   print("Predictions: {}".format(str(predictions)))
 
 def printUsage():
-  print('Usage: python bms2.py <filepath> <mode> <isAuthentic>')
+  print('Usage: python bms2.py <mode> <filepath> <isAuthentic>')
   print('Example: python bms2.py train 22.json 1 ')
   print('Example: python bms2.py evaluate 22.json 0 ')
   print('Example: python bms2.py predict 22.json ')
@@ -245,14 +268,14 @@ def main(argv):
     return
   filepath = argv[1]
   if(argv[0]=='train'):
-    lastFeatures = pickleLoad(lastFeaturesPickle)
+    pickleLoad(networkSetup.lastFeaturesPickle)
     train(filepath, argv[2])
-    pickleSave(lastFeatures, lastFeaturesPickle)
+    pickleSave(networkSetup.lastFeaturesPickle)
   elif(argv[0] == 'evaluate'):
-    lastFeatures = pickleLoad(lastFeaturesPickle)
+    pickleLoad(networkSetup.lastFeaturesPickle)
     evaluate(filepath, argv[2])
   elif(argv[0] == 'predict'):
-    lastFeatures = pickleLoad(lastFeaturesPickle)
+    networkSetup.lastFeatures = pickleLoad(networkSetup.lastFeaturesPickle)
     predict(filepath)
   else:
     print('first arguemnt was not "train", "evaluate", or "predict" ')

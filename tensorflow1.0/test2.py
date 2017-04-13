@@ -79,7 +79,7 @@ def main():
   # Print out predictions on the prediction set
   y = regressor.predict(input_fn=lambda:input_fn(PREDICTION_SET))
   # .predict() returns an iterator; convert to a list and print predictions
-  predictions = list(itertools.islice(y, 6))
+  predictions = list(itertools.islice(y, 8))
   print("Predictions: {}".format(str(predictions)))
 
 if __name__== "__main__":
