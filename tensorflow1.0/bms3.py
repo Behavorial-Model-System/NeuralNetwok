@@ -105,7 +105,7 @@ class UsageEventsNameFeature(sensorFeature):
     if(len(sensorData['usageEvents']) == 0):
       return
     # lastFeatures['usageEventsName'] = len(sensorData['usageEvents'][0]['name'])
-    networkSetup.lastFeatures['usageEventsName'] = stringToInt(sensorData['usageEvents'][0]['name'], 1)
+    networkSetup.lastFeatures['usageEventsName'] = stringToInt(sensorData['usageEvents'][0]['name'])
 usageEventsNameFeature = UsageEventsNameFeature()
 addFeature(usageEventsNameFeature, usageEventsSensor)
 
@@ -168,6 +168,7 @@ def stringToInt(str):
   for i in range(length):
     h = 31 * h + ord(str[i])
   return h % 4294967296
+
 
 
 def input_fn(data_set, isAuthentic = 1):
@@ -279,11 +280,6 @@ def main(argv):
     predict(filepath)
   else:
     print('first arguemnt was not "train", "evaluate", or "predict" ')
-
-
-
-
-
 
 if __name__ == "__main__":
   main(sys.argv[1:])

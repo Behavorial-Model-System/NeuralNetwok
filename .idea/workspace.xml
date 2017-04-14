@@ -2,109 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c5dffacb-03cb-4f30-957b-4ece54662737" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tensorflow1.0/10.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tensorflow1.0/bms3.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tensorflow1.0/scoping_test.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/bms2_model/checkpoint" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/bms2_model/eval/events.out.tfevents.1491271470.ubuntu" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/bms2_model/eval/events.out.tfevents.1491271762.ubuntu" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/bms2_model/eval/events.out.tfevents.1491272053.ubuntu" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/bms2_model/eval/events.out.tfevents.1491272134.ubuntu" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/bms2_model/eval/events.out.tfevents.1491272179.ubuntu" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/bms2_model/eval/events.out.tfevents.1491272221.ubuntu" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/bms2_model/eval/events.out.tfevents.1491272231.ubuntu" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/bms2_model/eval/events.out.tfevents.1491272514.ubuntu" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/bms2_model/eval/events.out.tfevents.1491272722.ubuntu" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/bms2_model/events.out.tfevents.1491270779.ubuntu" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/bms2_model/events.out.tfevents.1491271467.ubuntu" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/bms2_model/events.out.tfevents.1491271759.ubuntu" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/bms2_model/events.out.tfevents.1491272050.ubuntu" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/bms2_model/events.out.tfevents.1491272131.ubuntu" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/bms2_model/events.out.tfevents.1491272177.ubuntu" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/bms2_model/events.out.tfevents.1491272219.ubuntu" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/bms2_model/events.out.tfevents.1491272229.ubuntu" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/bms2_model/events.out.tfevents.1491272512.ubuntu" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/bms2_model/events.out.tfevents.1491272720.ubuntu" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/bms2_model/graph.pbtxt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/bms2_model/model.ckpt-16.data-00000-of-00001" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/bms2_model/model.ckpt-16.index" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/bms2_model/model.ckpt-16.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/bms2_model/model.ckpt-17.data-00000-of-00001" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/bms2_model/model.ckpt-17.index" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/bms2_model/model.ckpt-17.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/bms2_model/model.ckpt-18.data-00000-of-00001" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/bms2_model/model.ckpt-18.index" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/bms2_model/model.ckpt-18.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/bms2_model/model.ckpt-19.data-00000-of-00001" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/bms2_model/model.ckpt-19.index" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/bms2_model/model.ckpt-19.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/bms2_model/model.ckpt-20.data-00000-of-00001" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/bms2_model/model.ckpt-20.index" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/bms2_model/model.ckpt-20.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/checkpoint" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/eval/events.out.tfevents.1489265582.ubuntu" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/eval/events.out.tfevents.1489265614.ubuntu" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/eval/events.out.tfevents.1489265619.ubuntu" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/eval/events.out.tfevents.1489265624.ubuntu" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/eval/events.out.tfevents.1489265628.ubuntu" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/eval/events.out.tfevents.1489265632.ubuntu" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/eval/events.out.tfevents.1489265636.ubuntu" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/eval/events.out.tfevents.1489265639.ubuntu" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/eval/events.out.tfevents.1489265643.ubuntu" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/eval/events.out.tfevents.1489265648.ubuntu" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/eval/events.out.tfevents.1489265652.ubuntu" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/eval/events.out.tfevents.1489265656.ubuntu" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/eval/events.out.tfevents.1489265660.ubuntu" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/eval/events.out.tfevents.1489265665.ubuntu" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/eval/events.out.tfevents.1489265670.ubuntu" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/eval/events.out.tfevents.1489265675.ubuntu" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/eval/events.out.tfevents.1489265694.ubuntu" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/eval/events.out.tfevents.1489265806.ubuntu" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/eval/events.out.tfevents.1489266700.ubuntu" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/eval/events.out.tfevents.1489266840.ubuntu" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/eval/events.out.tfevents.1489266880.ubuntu" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/eval/events.out.tfevents.1489268970.ubuntu" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/eval/events.out.tfevents.1489269214.ubuntu" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/events.out.tfevents.1489265580.ubuntu" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/events.out.tfevents.1489265612.ubuntu" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/events.out.tfevents.1489265617.ubuntu" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/events.out.tfevents.1489265622.ubuntu" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/events.out.tfevents.1489265626.ubuntu" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/events.out.tfevents.1489265630.ubuntu" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/events.out.tfevents.1489265634.ubuntu" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/events.out.tfevents.1489265638.ubuntu" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/events.out.tfevents.1489265642.ubuntu" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/events.out.tfevents.1489265647.ubuntu" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/events.out.tfevents.1489265651.ubuntu" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/events.out.tfevents.1489265655.ubuntu" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/events.out.tfevents.1489265659.ubuntu" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/events.out.tfevents.1489265663.ubuntu" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/events.out.tfevents.1489265669.ubuntu" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/events.out.tfevents.1489265673.ubuntu" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/events.out.tfevents.1489265693.ubuntu" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/events.out.tfevents.1489265804.ubuntu" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/events.out.tfevents.1489266301.ubuntu" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/events.out.tfevents.1489266697.ubuntu" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/events.out.tfevents.1489266838.ubuntu" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/events.out.tfevents.1489266867.ubuntu" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/events.out.tfevents.1489266878.ubuntu" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/events.out.tfevents.1489268968.ubuntu" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/events.out.tfevents.1489269212.ubuntu" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/graph.pbtxt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/model.ckpt-44-00000-of-00001" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/model.ckpt-44.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/model.ckpt-45-00000-of-00001" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/model.ckpt-45.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/model.ckpt-46-00000-of-00001" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/model.ckpt-46.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/model.ckpt-47-00000-of-00001" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/model.ckpt-47.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/model.ckpt-48-00000-of-00001" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tensorflow1.0/test2_model/model.ckpt-48.meta" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testing/analysisScript.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tensorflow1.0/bms2.py" afterPath="$PROJECT_DIR$/tensorflow1.0/bms2.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tensorflow1.0/lastFeatures.pckl" afterPath="$PROJECT_DIR$/tensorflow1.0/lastFeatures.pckl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tensorflow1.0/test2.py" afterPath="$PROJECT_DIR$/tensorflow1.0/test2.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tensorflow1.0/bms3.py" afterPath="$PROJECT_DIR$/tensorflow1.0/bms3.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -119,12 +19,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="bms3.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/tensorflow1.0/bms3.py">
+      <file leaf-file-name="analysisScript.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/testing/analysisScript.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-293">
-              <caret line="174" column="34" lean-forward="true" selection-start-line="174" selection-start-column="34" selection-end-line="174" selection-end-column="34" />
-              <folding />
+            <state relative-caret-position="440">
+              <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+              <folding>
+                <element signature="e#26#37#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -132,8 +34,8 @@
       <file leaf-file-name="10.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tensorflow1.0/10.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2982">
-              <caret line="3370" column="8" lean-forward="true" selection-start-line="3370" selection-start-column="8" selection-end-line="3370" selection-end-column="8" />
+            <state relative-caret-position="640">
+              <caret line="3362" column="12" lean-forward="false" selection-start-line="3362" selection-start-column="12" selection-end-line="3362" selection-end-column="33" />
               <folding>
                 <element signature="e#53#2694#0" expanded="false" />
                 <element signature="e#2768#2862#0" expanded="false" />
@@ -160,6 +62,18 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="bms3.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testing/bms3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5900">
+              <caret line="307" column="47" lean-forward="false" selection-start-line="307" selection-start-column="47" selection-end-line="307" selection-end-column="47" />
+              <folding>
+                <element signature="e#156#174#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -172,17 +86,23 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>usage</find>
-      <find>usagest</find>
-      <find>wifi</find>
       <find>location</find>
       <find>lastFea</find>
-      <find>print</find>
       <find>learn</find>
       <find>training_set</find>
       <find>string to</find>
       <find>stringto</find>
       <find>not fou</find>
+      <find>string</find>
+      <find>tilt</find>
+      <find>wifi</find>
+      <find>js</find>
+      <find>usageEvents</find>
+      <find>len</find>
+      <find>usagest</find>
       <find>stringTo</find>
+      <find>hour</find>
+      <find>print</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -199,15 +119,20 @@
         <option value="$PROJECT_DIR$/tensorflow1.0/bms2.py" />
         <option value="$PROJECT_DIR$/tensorflow1.0/scoping_test.py" />
         <option value="$PROJECT_DIR$/tensorflow1.0/10a.json" />
+        <option value="$PROJECT_DIR$/testing/861712030624678Data/2017-04-10 19_00.json" />
+        <option value="$PROJECT_DIR$/testing/861712030624678Data/2017-04-09 20_21.json" />
         <option value="$PROJECT_DIR$/tensorflow1.0/bms3.py" />
+        <option value="$PROJECT_DIR$/testing/86768602162866Data/2017-04-12 00_34.json" />
+        <option value="$PROJECT_DIR$/testing/bms3.py" />
+        <option value="$PROJECT_DIR$/testing/analysisScript.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="65" />
     <option name="y" value="24" />
-    <option name="width" value="1248" />
-    <option name="height" value="959" />
+    <option name="width" value="1436" />
+    <option name="height" value="834" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -224,6 +149,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -246,14 +173,12 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="tensorflow1.0" />
+              <option name="myItemId" value="testing" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -262,6 +187,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/testing" />
       <recent name="$PROJECT_DIR$/tensorflow1.0" />
     </key>
   </component>
@@ -277,7 +203,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.bms2">
+  <component name="RunManager" selected="Python.analysisScript">
     <configuration default="false" name="bms2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -327,6 +253,24 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="BMS" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tensorflow1.0/bms1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="analysisScript" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testing" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="BMS" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testing/analysisScript.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -417,17 +361,19 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <list size="4">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.test2" />
       <item index="1" class="java.lang.String" itemvalue="Python.bms2" />
       <item index="2" class="java.lang.String" itemvalue="Python.pickle" />
       <item index="3" class="java.lang.String" itemvalue="Python.bms1" />
+      <item index="4" class="java.lang.String" itemvalue="Python.analysisScript" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Python.bms2" />
-        <item index="1" class="java.lang.String" itemvalue="Python.bms1" />
-        <item index="2" class="java.lang.String" itemvalue="Python.pickle" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Python.analysisScript" />
+        <item index="1" class="java.lang.String" itemvalue="Python.bms2" />
+        <item index="2" class="java.lang.String" itemvalue="Python.bms1" />
+        <item index="3" class="java.lang.String" itemvalue="Python.pickle" />
       </list>
     </recent_temporary>
   </component>
@@ -454,19 +400,17 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="24" width="1248" height="959" extended-state="4" />
-    <editor active="true" />
+    <frame x="65" y="24" width="1436" height="834" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20432693" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17688023" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32943925" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2978972" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32968536" sideWeight="0.5027855" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32968536" sideWeight="0.4972145" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39932886" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -474,6 +418,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32943925" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -482,279 +427,29 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="5" />
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/testing/analysisScript.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="7" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/tensorflow1.0/bms2.py">
+    <entry file="file://$PROJECT_DIR$/tensorflow1.0/bms3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#156#174#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tensorflow1.0/bms1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tensorflow1.0/lastFeatures.pckl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tensorflow1.0/pickle_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="16" column="23" lean-forward="false" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/lib/python2.7/dist-packages/pandas/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="840">
-          <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tensorflow1.0/22a.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="18" column="1" lean-forward="false" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tensorflow1.0/22.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4660">
-          <caret line="233" column="11" lean-forward="false" selection-start-line="233" selection-start-column="3" selection-end-line="233" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tensorflow1.0/bms2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#156#174#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tensorflow1.0/22a.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="18" column="1" lean-forward="false" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tensorflow1.0/22.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4660">
-          <caret line="233" column="11" lean-forward="false" selection-start-line="233" selection-start-column="3" selection-end-line="233" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/lib/python2.7/dist-packages/tensorflow/python/util/deprecation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="755">
-          <caret line="190" column="0" lean-forward="false" selection-start-line="190" selection-start-column="0" selection-end-line="190" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tensorflow1.0/22a.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="18" column="1" lean-forward="false" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tensorflow1.0/lastFeatures.pckl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/lib/python2.7/dist-packages/pandas/compat/pickle_compat.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1140">
-          <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
-          <folding>
-            <element signature="e#70#80#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tensorflow1.0/bms1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1320">
-          <caret line="9" column="9" lean-forward="false" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/lib/python2.7/dist-packages/tensorflow/contrib/layers/python/layers/feature_column.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="1514" column="0" lean-forward="false" selection-start-line="1514" selection-start-column="0" selection-end-line="1514" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/lib/python2.7/importlib/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="487">
-          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/lib/python2.7/dist-packages/pandas/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tensorflow1.0/pickle_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="8" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sample/food_to_record.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sample/simple_reader.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1680">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tensorflow1.0/simple_test.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tensorflow1.0/food_test.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tensorflow1.0/test2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="68" column="39" lean-forward="false" selection-start-line="68" selection-start-column="39" selection-end-line="68" selection-end-column="39" />
-          <folding>
-            <element signature="e#156#174#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/lib/python2.7/dist-packages/tensorflow/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tensorflow1.0/22.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="219" column="0" lean-forward="false" selection-start-line="219" selection-start-column="0" selection-end-line="219" selection-end-column="0" />
-          <folding>
-            <element signature="e#53#2086#0" expanded="false" />
-            <element signature="e#2136#4079#0" expanded="false" />
-            <element signature="e#4134#4253#0" expanded="false" />
-            <element signature="e#4301#4334#0" expanded="false" />
-            <element signature="e#4382#4456#0" expanded="false" />
-            <element signature="e#4504#4578#0" expanded="false" />
-            <element signature="e#4626#4700#0" expanded="false" />
-            <element signature="e#4752#5183#0" expanded="false" />
-            <element signature="e#5231#5304#0" expanded="false" />
-            <element signature="e#5358#105578#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tensorflow1.0/58.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#60#183#0" expanded="false" />
-            <element signature="e#241#1366#0" expanded="false" />
-            <element signature="e#1428#1889#0" expanded="false" />
-            <element signature="e#1953#128222#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tensorflow1.0/bms2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="593">
-          <caret line="264" column="0" lean-forward="false" selection-start-line="264" selection-start-column="0" selection-end-line="265" selection-end-column="20" />
-          <folding>
-            <element signature="e#156#174#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tensorflow1.0/scoping_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" column="41" lean-forward="false" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tensorflow1.0/10a.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="125" column="3" lean-forward="false" selection-start-line="125" selection-start-column="3" selection-end-line="125" selection-end-column="3" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tensorflow1.0/10.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2982">
+        <state relative-caret-position="67400">
           <caret line="3370" column="8" lean-forward="true" selection-start-line="3370" selection-start-column="8" selection-end-line="3370" selection-end-column="8" />
           <folding>
             <element signature="e#53#2694#0" expanded="false" />
@@ -781,11 +476,353 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/tensorflow1.0/bms2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensorflow1.0/bms1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensorflow1.0/lastFeatures.pckl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensorflow1.0/pickle_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" column="23" lean-forward="false" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/pandas/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensorflow1.0/22a.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" column="1" lean-forward="false" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensorflow1.0/22.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4660">
+          <caret line="233" column="11" lean-forward="false" selection-start-line="233" selection-start-column="3" selection-end-line="233" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensorflow1.0/bms2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensorflow1.0/22a.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" column="1" lean-forward="false" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensorflow1.0/22.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4660">
+          <caret line="233" column="11" lean-forward="false" selection-start-line="233" selection-start-column="3" selection-end-line="233" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/tensorflow/python/util/deprecation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="755">
+          <caret line="190" column="0" lean-forward="false" selection-start-line="190" selection-start-column="0" selection-end-line="190" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensorflow1.0/22a.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" column="1" lean-forward="false" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensorflow1.0/lastFeatures.pckl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/pandas/compat/pickle_compat.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1140">
+          <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensorflow1.0/bms1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1320">
+          <caret line="9" column="9" lean-forward="false" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/tensorflow/contrib/layers/python/layers/feature_column.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="1514" column="0" lean-forward="false" selection-start-line="1514" selection-start-column="0" selection-end-line="1514" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python2.7/importlib/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="487">
+          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/pandas/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensorflow1.0/pickle_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sample/food_to_record.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sample/simple_reader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1680">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensorflow1.0/simple_test.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensorflow1.0/food_test.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensorflow1.0/test2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="68" column="39" lean-forward="false" selection-start-line="68" selection-start-column="39" selection-end-line="68" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/tensorflow/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensorflow1.0/22.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="219" column="0" lean-forward="false" selection-start-line="219" selection-start-column="0" selection-end-line="219" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensorflow1.0/58.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensorflow1.0/bms2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="593">
+          <caret line="264" column="0" lean-forward="false" selection-start-line="264" selection-start-column="0" selection-end-line="265" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensorflow1.0/scoping_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="41" lean-forward="false" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensorflow1.0/10a.json" />
+    <entry file="file://$PROJECT_DIR$/testing/10.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testing/861712030624678Data/2017-04-11 12_46.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="5710" column="9" lean-forward="false" selection-start-line="5710" selection-start-column="5" selection-end-line="5710" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testing/861712030624678Data/2017-04-10 21_41.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="5498" column="32" lean-forward="true" selection-start-line="5498" selection-start-column="32" selection-end-line="5498" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testing/861712030624678Data/2017-04-10 19_00.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="33892" column="9" lean-forward="false" selection-start-line="33892" selection-start-column="9" selection-end-line="33892" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testing/861712030624678Data/2017-04-09 20_21.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="5184" column="8" lean-forward="false" selection-start-line="5184" selection-start-column="8" selection-end-line="5184" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testing/861712030624678Data/2017-04-09 13_08.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5537" column="12" lean-forward="false" selection-start-line="5537" selection-start-column="5" selection-end-line="5537" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testing/861712030624678Data/2017-04-09 13_39.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="503" column="12" lean-forward="false" selection-start-line="503" selection-start-column="5" selection-end-line="503" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testing/861712030624678Data/2017-04-10 06_34.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="163" column="12" lean-forward="true" selection-start-line="163" selection-start-column="12" selection-end-line="163" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/tensorflow1.0/bms3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-293">
-          <caret line="174" column="34" lean-forward="true" selection-start-line="174" selection-start-column="34" selection-end-line="174" selection-end-column="34" />
+        <state relative-caret-position="197">
+          <caret line="171" column="0" lean-forward="true" selection-start-line="171" selection-start-column="0" selection-end-line="171" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testing/861712030624678Data/2017-04-09 13_26.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="239" column="4" lean-forward="false" selection-start-line="239" selection-start-column="4" selection-end-line="239" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testing/86768602162866Data/2017-04-08 19_18.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="132" column="10" lean-forward="false" selection-start-line="132" selection-start-column="10" selection-end-line="132" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testing/86768602162866Data/2017-04-12 00_34.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="6037" column="4" lean-forward="false" selection-start-line="6037" selection-start-column="4" selection-end-line="6037" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensorflow1.0/10.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="640">
+          <caret line="3362" column="12" lean-forward="false" selection-start-line="3362" selection-start-column="12" selection-end-line="3362" selection-end-column="33" />
+          <folding>
+            <element signature="e#53#2694#0" expanded="false" />
+            <element signature="e#2768#2862#0" expanded="false" />
+            <element signature="e#2915#2956#0" expanded="false" />
+            <element signature="e#2964#3058#0" expanded="false" />
+            <element signature="e#3115#3183#0" expanded="false" />
+            <element signature="e#3240#3281#0" expanded="false" />
+            <element signature="e#3338#3379#0" expanded="false" />
+            <element signature="e#3442#38956#0" expanded="false" />
+            <element signature="e#39013#41876#0" expanded="false" />
+            <element signature="e#41999#42040#0" expanded="false" />
+            <element signature="e#42097#42138#0" expanded="false" />
+            <element signature="e#42195#42236#0" expanded="false" />
+            <element signature="e#42297#42365#0" expanded="false" />
+            <element signature="e#42422#42463#0" expanded="false" />
+            <element signature="e#42520#42561#0" expanded="false" />
+            <element signature="e#42624#78138#0" expanded="false" />
+            <element signature="e#80940#80981#0" expanded="false" />
+            <element signature="e#81042#81110#0" expanded="false" />
+            <element signature="e#81167#81208#0" expanded="false" />
+            <element signature="e#81265#81306#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testing/bms3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5900">
+          <caret line="307" column="47" lean-forward="false" selection-start-line="307" selection-start-column="47" selection-end-line="307" selection-end-column="47" />
+          <folding>
+            <element signature="e#156#174#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testing/analysisScript.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding>
+            <element signature="e#26#37#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
