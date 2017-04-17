@@ -10,7 +10,7 @@ Goes through a folder and deletes json files that are invalid
 
 def main(argv):
   if(len(argv)!=1):
-    print('usage: deleteCorruptedScript.py <folder filepath>')
+    print('usage: deleteCorrupted.py <folder filepath>')
     return
   folderPath = argv[0]
 

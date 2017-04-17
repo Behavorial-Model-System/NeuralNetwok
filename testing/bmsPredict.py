@@ -10,8 +10,8 @@ and stopping when the given fraction of files is completed
 
 def main(argv):
   if(len(argv)!=2):
-    print('usage: predictFolder.py <folder filepath> <fraction to train>')
-    print('usage example: predictFolder.py 86768602162866Data 0.25')
+    print('usage: bmsPredict.py <folder filepath> <fraction to train>')
+    print('usage example: bmsPredict.py 86768602162866Data 0.25')
     return
   folderPath = argv[0]
   fraction = float(argv[1])

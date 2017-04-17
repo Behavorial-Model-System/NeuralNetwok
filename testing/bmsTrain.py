@@ -10,8 +10,8 @@ and stopping when the given fraction of files is completed
 
 def main(argv):
   if(len(argv)!=3):
-    print('usage: trainFolder.py <folder filepath> <is authentic> <fraction to train>')
-    print('usage example: trainFolder.py 86768602162866Data 1 0.75')
+    print('usage: bmsTrain.py <folder filepath> <is authentic> <fraction to train>')
+    print('usage example: bmsTrain.py 86768602162866Data 1 0.75')
     return
   folderPath = argv[0]
   isAuthentic = argv[1]

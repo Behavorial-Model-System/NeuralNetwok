@@ -38,10 +38,24 @@ class NetworkSetup:
     self.lastFeatures[featureName] = 0
     self.column_data[featureName] = []
 
+  def addStringFeature(self, featureName, numBits):
+    for b in range(numBits):
+      self.addFeature(featureName+str(b))
+
+  def updateLastFeature(self, featureName, value):
+    self.lastFeatures[featureName] = value
+
+  def updateLastFeatureString(self, featureName, featureString, numBits):
+    bitArray = stringToBits(featureString, numBits)
+    for b in range(numBits):
+      networkSetup.lastFeatures[featureName + str(b)] = bitArray[b]
+
   def feedLastFeatures(self):
     for key in self.FEATURES:
       self.column_data[key].append(self.lastFeatures[key])
     self.numTrainingPoints += 1
+  def getNumRows(self):
+    return len(self.column_data['hour'])
 
 networkSetup = NetworkSetup()
 
@@ -77,44 +91,46 @@ class TiltSensor(Sensor):
     networkSetup.addFeature('tiltY')
     networkSetup.addFeature('tiltZ')
   def process(self, sensorData):
-    print('tilt processing')
-    networkSetup.lastFeatures['tiltX'] = sensorData['tilt'][0]
-    networkSetup.lastFeatures['tiltY'] = sensorData['tilt'][1]
-    networkSetup.lastFeatures['tiltZ'] = sensorData['tilt'][2]
+    #print('tilt processing')
+    networkSetup.updateLastFeature('tiltX', sensorData['tilt'][0])
+    networkSetup.updateLastFeature('tiltY', sensorData['tilt'][1])
+    networkSetup.updateLastFeature('tiltZ', sensorData['tilt'][2])
     networkSetup.feedLastFeatures()
 tiltSensor = TiltSensor()
 
 #USAGE EVENTS
 class AppUsageEventsSensor(Sensor):
-  def __init__(self):
+  def __init__(self, numBits):
     self.name = 'usageEvents'
+    self.numBits = numBits
     networkSetup.addSensor(self)
-    networkSetup.addFeature('usageEventsName')
+    networkSetup.addStringFeature('usageEventsName', numBits)
     networkSetup.addFeature('usageEventsType')
   def process(self, sensorData):
-    print('usage events processing')
+    #print('usage events processing')
     numEvents = len(sensorData['usageEvents'])
     for i in range(numEvents):
-      networkSetup.lastFeatures['usageEventsName'] = len(sensorData['usageEvents'][i]['name'])
-      networkSetup.lastFeatures['usageEventsType'] = sensorData['usageEvents'][i]['type']
+      networkSetup.updateLastFeatureString('usageEventsName', sensorData['usageEvents'][i]['name'], self.numBits)
+      networkSetup.updateLastFeature('usageEventsType', sensorData['usageEvents'][i]['type'])
       networkSetup.feedLastFeatures()
-appUsageEventsSensor = AppUsageEventsSensor()
+appUsageEventsSensor = AppUsageEventsSensor(4)
 
 #WIFI
 class WifiSensor(Sensor):
-  def __init__(self):
+  def __init__(self, numBits):
     self.name = 'wifi'
+    self.numBits = numBits
     networkSetup.addSensor(self)
-    networkSetup.addFeature('wifiBssid')
+    networkSetup.addStringFeature('wifiBssid', numBits)
     networkSetup.addFeature('wifiLevel')
   def process(self, sensorData):
-    print('wifi processing')
+    #print('wifi processing')
     numWifis = len(sensorData['wifi'])
-    for i in range(numWifis):
-      networkSetup.lastFeatures['wifiBssid'] = len(sensorData['wifi'][i]['bssid'])
-      networkSetup.lastFeatures['wifiLevel'] = sensorData['wifi'][i]['level']
+    for w in range(numWifis):
+      networkSetup.updateLastFeatureString('wifiBssid', sensorData['wifi'][w]['bssid'], self.numBits)
+      networkSetup.updateLastFeature('wifiLevel', sensorData['wifi'][w]['level'])
       networkSetup.feedLastFeatures()
-wifiSensor = WifiSensor()
+wifiSensor = WifiSensor(4)
 
 #LOCATION
 class LocationSensor(Sensor):
@@ -124,9 +140,9 @@ class LocationSensor(Sensor):
     networkSetup.addFeature('longitude')
     networkSetup.addFeature('latitude')
   def process(self, sensorData):
-    print('location processing')
-    networkSetup.lastFeatures['longitude'] = sensorData['location']['longitude']
-    networkSetup.lastFeatures['latitude'] = sensorData['location']['latitude']
+    #print('location processing')
+    networkSetup.updateLastFeature('longitude', sensorData['location']['longitude'])
+    networkSetup.updateLastFeature('latitude', sensorData['location']['latitude'])
     networkSetup.feedLastFeatures()
 locationSensor = LocationSensor()
 
@@ -146,18 +162,31 @@ def pickleSave(filename):
   f.close()
 
 #converts string to int
-def stringToInt(str):
+def stringToInt(string):
   h = 13
-  length = len(str)
+  length = len(string)
   for i in range(length):
-    h = 31 * h + ord(str[i])
+    h = 31 * h + ord(string[i])
   return h % 4294967296
 
+def stringToBits(string, numBits):
+  result = []
+  h = 13
+  length = len(string)
+  for i in range(length):
+    h = 31 * h + ord(string[i])
+  #h has become an int representation of the string
+  #take repeated modulo two to get bits
+  for _ in range(numBits):
+    result.append(h%2)
+    h/=2
+  return result
+
 # "time": "09-04-2017 01:26:27"
-def stampToTimeUnits(str):
-  hour = int(str[11:13])
-  minute = int(str[14:16])
-  #second = int(str[17:19])
+def stampToTimeUnits(string):
+  hour = int(string[11:13])
+  minute = int(string[14:16])
+  #second = int(string[17:19])
   return hour, minute
 
 
@@ -184,7 +213,7 @@ def input_fn(data_set, isAuthentic = 1):
       continue
 
 
-  for _ in range(networkSetup.numTrainingPoints):
+  for _ in range(networkSetup.getNumRows()):
     auth_column_data.append(isAuthentic)
   column_data = networkSetup.column_data
   column_data_np = {}
@@ -216,8 +245,9 @@ def getRegressor():
                                             model_dir=networkSetup.MODEL_DIR,
                                             activation_fn=tf.nn.sigmoid,
                                             optimizer=tf.train.GradientDescentOptimizer(
-                                              #learning_rate=0.001
-                                              learning_rate=0.1
+                                              learning_rate=0.001
+                                              #use higher learning rate for debugging:
+                                              #learning_rate=0.1
                                             )
                                             )
   return regressor
@@ -229,19 +259,20 @@ def train(filepath, isAuthentic):
 def evaluate(filepath, isAuthentic):
   regressor = getRegressor()
   # evaluate on testting set
-  ev = regressor.evaluate(input_fn=lambda: input_fn(filepath), steps=1)
+  ev = regressor.evaluate(input_fn=lambda: input_fn(filepath, isAuthentic), steps=1)
   loss_score = ev["loss"]
   print("Loss: {0:f}".format(loss_score))
 def predict(filepath):
   regressor = getRegressor()
   y = regressor.predict(input_fn=lambda: input_fn(filepath))
   # .predict() returns an iterator; convert to a list and print predictions
-  predictions = list(itertools.islice(y, networkSetup.numTrainingPoints))
+  predictions = list(itertools.islice(y, networkSetup.getNumRows()))
   #print("Predictions: {}".format(str(predictions)))
   sum = 0
   for p in predictions:
     sum+= p
   average = float(sum)/len(predictions)
+  #if predictions are outside expected range of activation function, decrease learning rate
   print('average prediction over sensor objects: %f' %(average))
   return average
 
@@ -260,7 +291,7 @@ def main(argv):
   mode = argv[0]
   filepath = argv[1]
   isAuthentic = None
-  if(argv>2):
+  if(len(argv)>2):
     isAuthentic = int(argv[2])
   if(mode=='train'):
     pickleLoad(networkSetup.lastFeaturesPickle)
