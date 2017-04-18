@@ -246,11 +246,17 @@ def getRegressor():
                                             activation_fn=tf.nn.sigmoid,
                                             optimizer=tf.train.GradientDescentOptimizer(
                                               learning_rate=0.001
+                                              
                                               #use higher learning rate for debugging:
                                               #learning_rate=0.1
-                                            )
-                                            )
+                                            ),
+                                            config = tf.contrib.learn.RunConfig(
+                                            #save_summary_steps = 10000
+                                            save_checkpoints_steps = 10000,
+                                            save_checkpoints_secs = None
+                                            ))
   return regressor
+
 def train(filepath, isAuthentic):
   regressor = getRegressor()
   # training on training set

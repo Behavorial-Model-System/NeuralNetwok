@@ -25,12 +25,22 @@ def main(argv):
   numberToPredict = int(len(filePathList) * fraction)
   total = 0
   count = 0
+  #opening the file
+  target = open('predictions.txt', 'w')
+  predictionList = []
+
   for i in range(len(filePathList) - numberToPredict, len(filePathList)):
     print('progress: %f' %(float(count)/numberToPredict))
     prediction = bms4.main(['predict', filePathList[i]])
+    predictionList.append(prediction)
     total += prediction
     count += 1
   average = total / (numberToPredict)
+
+  target.write('average prediction over {0} json files: {1}'.format(count, average))
+  for prediction in predictionList:
+    target.write(str(prediction))
+  target.close()
   print('prediction: %f' %average)
 
 
