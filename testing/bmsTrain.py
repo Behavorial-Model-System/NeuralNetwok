@@ -3,6 +3,7 @@ import json
 import sys
 import bms4
 
+
 '''
 Runs bms4.py training on json files in given folder, starting at the beginning
 and stopping when the given fraction of files is completed
@@ -18,13 +19,14 @@ def deleteEvents(folderPath):
   print('deleted {0} files'.format(numDeleted))
 
 def main(argv):
-  if(len(argv)!=3):
-    print('usage: bmsTrain.py <folder filepath> <is authentic> <fraction to train>')
+  if(len(argv)!=4):
+    print('usage: bmsTrain.py <folder filepath> <is authentic> <start fraction> <end fraction')
     print('usage example: bmsTrain.py 86768602162866Data 1 0.75')
     return
   folderPath = argv[0]
   isAuthentic = argv[1]
-  fraction = float(argv[2])
+  startFraction = float(argv[2])
+  endFraction = float(argv[3])
 
   filePathList = []
 
@@ -32,14 +34,17 @@ def main(argv):
     filePathList.append(folderPath + '/' + filename)
   filePathList.sort()
 
-  numberToTrain = len(filePathList) * fraction
+  startIndex = len(filePathList) * startFraction
+  endIndex = len(filePathList) * endFraction
 
-  for i in range(0, int(numberToTrain)):
-    print('progress: %f' % (i/ numberToTrain))
+  for i in range(int(startIndex), int(endIndex)):
+    print('progress: %f' % ((i - startIndex)/ (endIndex- startIndex)))
     bms4.main(['train', filePathList[i], isAuthentic])
-    if(i%20 == 0):
+    if(i%10 == 0):
       deleteEvents('bms4_model')
   deleteEvents('bms4_model')
+
+
 
 
 
