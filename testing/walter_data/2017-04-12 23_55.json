@@ -1,0 +1,394 @@
+[
+  {
+    "time": "12-04-2017 11:55:28",
+    "wifi": [
+      {
+        "ssid": "eduroam",
+        "bssid": "ac:a3:1e:f3:6c:72",
+        "level": -53
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "ac:a3:1e:f3:6c:70",
+        "level": -53
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "ac:a3:1e:f3:6c:73",
+        "level": -53
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "ac:a3:1e:f3:6c:71",
+        "level": -53
+      },
+      {
+        "ssid": "hot durger it",
+        "bssid": "54:27:1e:f7:03:bb",
+        "level": -65
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "ac:a3:1e:f3:6c:61",
+        "level": -72
+      },
+      {
+        "ssid": "DIRECT-B7-HP ENVY 7640 series",
+        "bssid": "b0:5a:da:68:84:b8",
+        "level": -73
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "ac:a3:1e:f3:6c:62",
+        "level": -73
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "ac:a3:1e:f3:6c:60",
+        "level": -73
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "ac:a3:1e:f3:6c:20",
+        "level": -79
+      },
+      {
+        "ssid": "HP-Print-FC-ENVY 4500 series",
+        "bssid": "30:8d:99:2a:34:fc",
+        "level": -80
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "ac:a3:1e:f3:6c:33",
+        "level": -80
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "ac:a3:1e:f3:6c:32",
+        "level": -80
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "ac:a3:1e:f3:6c:30",
+        "level": -80
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "ac:a3:1e:f3:6c:31",
+        "level": -80
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "ac:a3:1e:f3:6c:23",
+        "level": -80
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "ac:a3:1e:f3:6c:22",
+        "level": -80
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "ac:a3:1e:f3:6c:21",
+        "level": -80
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "ac:a3:1e:f3:6c:63",
+        "level": -81
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "ac:a3:1e:f3:62:32",
+        "level": -83
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "ac:a3:1e:f3:62:30",
+        "level": -84
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "ac:a3:1e:f3:62:33",
+        "level": -84
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "ac:a3:1e:f3:62:31",
+        "level": -84
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "ac:a3:1e:f3:62:23",
+        "level": -88
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "ac:a3:1e:f3:62:22",
+        "level": -88
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "ac:a3:1e:f3:62:21",
+        "level": -89
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "ac:a3:1e:f3:62:20",
+        "level": -89
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "ac:a3:1e:f3:5b:43",
+        "level": -95
+      }
+    ]
+  },
+  {
+    "time": "12-04-2017 11:55:28",
+    "usageEvents": []
+  },
+  {
+    "time": "12-04-2017 11:55:28",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "12-04-2017 11:55:28",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "12-04-2017 11:55:28",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "12-04-2017 11:55:28",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "12-04-2017 11:55:28",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "12-04-2017 11:55:28",
+    "location": {
+      "latitude": 42.2727741,
+      "longitude": -71.8094625
+    }
+  },
+  {
+    "time": "12-04-2017 11:56:28",
+    "usageEvents": []
+  },
+  {
+    "time": "12-04-2017 11:56:28",
+    "wifi": [
+      {
+        "ssid": "eduroam",
+        "bssid": "ac:a3:1e:f3:6c:72",
+        "level": -55
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "ac:a3:1e:f3:6c:70",
+        "level": -55
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "ac:a3:1e:f3:6c:73",
+        "level": -55
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "ac:a3:1e:f3:6c:71",
+        "level": -55
+      },
+      {
+        "ssid": "hot durger it",
+        "bssid": "54:27:1e:f7:03:bb",
+        "level": -64
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "ac:a3:1e:f3:6c:60",
+        "level": -72
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "ac:a3:1e:f3:6c:63",
+        "level": -73
+      },
+      {
+        "ssid": "DIRECT-B7-HP ENVY 7640 series",
+        "bssid": "b0:5a:da:68:84:b8",
+        "level": -75
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "ac:a3:1e:f3:6c:62",
+        "level": -76
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "ac:a3:1e:f3:6c:61",
+        "level": -76
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "ac:a3:1e:f3:6c:23",
+        "level": -77
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "ac:a3:1e:f3:6c:22",
+        "level": -78
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "ac:a3:1e:f3:6c:21",
+        "level": -78
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "ac:a3:1e:f3:6c:20",
+        "level": -79
+      },
+      {
+        "ssid": "HP-Print-FC-ENVY 4500 series",
+        "bssid": "30:8d:99:2a:34:fc",
+        "level": -80
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "ac:a3:1e:f3:6c:33",
+        "level": -80
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "ac:a3:1e:f3:6c:32",
+        "level": -80
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "ac:a3:1e:f3:6c:30",
+        "level": -80
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "ac:a3:1e:f3:6c:31",
+        "level": -80
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "ac:a3:1e:f3:62:30",
+        "level": -81
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "ac:a3:1e:f3:62:32",
+        "level": -81
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "ac:a3:1e:f3:62:33",
+        "level": -81
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "ac:a3:1e:f3:62:31",
+        "level": -81
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "ac:a3:1e:f3:62:23",
+        "level": -84
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "ac:a3:1e:f3:62:22",
+        "level": -88
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "ac:a3:1e:f3:62:20",
+        "level": -88
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "ac:a3:1e:f3:62:21",
+        "level": -89
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "ac:a3:1e:f3:5b:43",
+        "level": -95
+      }
+    ]
+  },
+  {
+    "time": "12-04-2017 11:56:28",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "12-04-2017 11:56:28",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "12-04-2017 11:56:28",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "12-04-2017 11:56:28",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "12-04-2017 11:56:28",
+    "location": {
+      "latitude": 42.2727741,
+      "longitude": -71.8094625
+    }
+  },
+  {
+    "time": "12-04-2017 11:56:28",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  }
+]
