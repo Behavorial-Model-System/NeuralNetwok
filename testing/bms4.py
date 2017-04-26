@@ -93,6 +93,8 @@ class TiltSensor(Sensor):
     networkSetup.addFeature('tiltZ')
   def process(self, sensorData):
     #print('tilt processing')
+    if(sensorData['tilt'][0] == 0):
+      return
     networkSetup.updateLastFeature('tiltX', sensorData['tilt'][0])
     networkSetup.updateLastFeature('tiltY', sensorData['tilt'][1])
     networkSetup.updateLastFeature('tiltZ', sensorData['tilt'][2])
