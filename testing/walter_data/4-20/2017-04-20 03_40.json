@@ -1,0 +1,203 @@
+[
+  {
+    "time": "20-04-2017 03:40:14",
+    "usageEvents": []
+  },
+  {
+    "time": "20-04-2017 03:40:14",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "20-04-2017 03:40:14",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "20-04-2017 03:40:14",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "20-04-2017 03:40:14",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "20-04-2017 03:40:14",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "20-04-2017 03:40:15",
+    "wifi": [
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "ac:a3:1e:f3:6c:70",
+        "level": -45
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "ac:a3:1e:f3:6c:72",
+        "level": -45
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "ac:a3:1e:f3:6c:71",
+        "level": -45
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "ac:a3:1e:f3:6c:73",
+        "level": -45
+      },
+      {
+        "ssid": "hot durger it",
+        "bssid": "54:27:1e:f7:03:bb",
+        "level": -47
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "ac:a3:1e:f3:6c:63",
+        "level": -52
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "ac:a3:1e:f3:6c:62",
+        "level": -56
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "ac:a3:1e:f3:6c:60",
+        "level": -56
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "ac:a3:1e:f3:6c:61",
+        "level": -56
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "ac:a3:1e:f3:6c:21",
+        "level": -64
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "ac:a3:1e:f3:6c:22",
+        "level": -64
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "ac:a3:1e:f3:6c:20",
+        "level": -64
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "ac:a3:1e:f3:62:23",
+        "level": -68
+      },
+      {
+        "ssid": "DIRECT-B7-HP ENVY 7640 series",
+        "bssid": "b0:5a:da:68:84:b8",
+        "level": -72
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "ac:a3:1e:f3:6c:32",
+        "level": -72
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "ac:a3:1e:f3:6c:23",
+        "level": -72
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "ac:a3:1e:f3:6c:30",
+        "level": -73
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "ac:a3:1e:f3:6c:33",
+        "level": -73
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "ac:a3:1e:f3:6c:31",
+        "level": -73
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "ac:a3:1e:f3:62:22",
+        "level": -73
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "ac:a3:1e:f3:62:21",
+        "level": -73
+      },
+      {
+        "ssid": "HP-Print-FC-ENVY 4500 series",
+        "bssid": "30:8d:99:2a:34:fc",
+        "level": -76
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "ac:a3:1e:f3:62:32",
+        "level": -80
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "ac:a3:1e:f3:62:30",
+        "level": -80
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "ac:a3:1e:f3:62:31",
+        "level": -80
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "ac:a3:1e:f3:62:33",
+        "level": -80
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "ac:a3:1e:f3:5b:41",
+        "level": -85
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "ac:a3:1e:f3:5b:42",
+        "level": -86
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "ac:a3:1e:f3:5b:43",
+        "level": -89
+      }
+    ]
+  },
+  {
+    "time": "20-04-2017 03:40:40",
+    "location": {
+      "latitude": 42.2727246,
+      "longitude": -71.8094819
+    }
+  }
+]

@@ -1,0 +1,1907 @@
+[
+  {
+    "time": "19-04-2017 05:19:17",
+    "wifi": [
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:27:76:70",
+        "level": -75
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:2c:e9:f2",
+        "level": -76
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:2c:e9:f0",
+        "level": -76
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:2c:e9:f1",
+        "level": -76
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:2c:e9:f3",
+        "level": -77
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:0f:c8:12",
+        "level": -78
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:0f:c8:10",
+        "level": -78
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:c8:13",
+        "level": -78
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:0f:c8:11",
+        "level": -78
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:2b:a9:10",
+        "level": -78
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:2b:a9:11",
+        "level": -78
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:2b:a9:12",
+        "level": -79
+      },
+      {
+        "ssid": "HP-Print-EC-Photosmart 7520",
+        "bssid": "c4:34:6b:40:53:ec",
+        "level": -79
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:2b:a9:14",
+        "level": -79
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:2b:a9:04",
+        "level": -80
+      },
+      {
+        "ssid": "hideyokidshideyoWiFi",
+        "bssid": "b0:b2:8f:7b:a0:a6",
+        "level": -81
+      },
+      {
+        "ssid": "Linksys 152",
+        "bssid": "00:13:10:b9:16:e4",
+        "level": -81
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:2c:ea:d0",
+        "level": -81
+      },
+      {
+        "ssid": "Boaty McBoatFace",
+        "bssid": "a2:63:91:2e:56:33",
+        "level": -81
+      },
+      {
+        "ssid": "Hollyweed",
+        "bssid": "a0:63:91:2e:56:32",
+        "level": -81
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "18:64:72:38:95:33",
+        "level": -81
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:2c:ea:d1",
+        "level": -81
+      },
+      {
+        "ssid": "WWFD-5G",
+        "bssid": "6c:b0:ce:bc:3c:8e",
+        "level": -82
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:2c:ea:d2",
+        "level": -82
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "18:64:72:38:95:32",
+        "level": -82
+      },
+      {
+        "ssid": "Blink 152",
+        "bssid": "c0:56:27:0a:c9:7b",
+        "level": -82
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:2c:ea:d4",
+        "level": -82
+      },
+      {
+        "ssid": "MySpectrumWiFi2a-5G",
+        "bssid": "2c:30:33:cb:b6:28",
+        "level": -83
+      },
+      {
+        "ssid": "MyCharterWiFi42-5G",
+        "bssid": "e8:fc:af:93:63:41",
+        "level": -83
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:10:8b:52",
+        "level": -85
+      },
+      {
+        "ssid": "MySpectrumWiFic8-2G",
+        "bssid": "b0:b2:8f:7a:95:ce",
+        "level": -85
+      },
+      {
+        "ssid": "NETGEAR79",
+        "bssid": "a0:63:91:49:f0:47",
+        "level": -85
+      },
+      {
+        "ssid": "MySpectrumWiFi2a-2G",
+        "bssid": "2c:30:33:cb:b6:29",
+        "level": -85
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:10:8b:53",
+        "level": -85
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:10:8b:51",
+        "level": -85
+      },
+      {
+        "ssid": "hideyokidshideyoWiFi",
+        "bssid": "b0:b2:8f:7b:a0:a7",
+        "level": -85
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "18:64:72:38:97:d2",
+        "level": -85
+      },
+      {
+        "ssid": "YellowLion",
+        "bssid": "94:10:3e:07:c1:d9",
+        "level": -85
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "18:64:72:38:97:d3",
+        "level": -85
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:27:76:72",
+        "level": -86
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:10:8b:50",
+        "level": -86
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "ac:a3:1e:f3:3b:12",
+        "level": -86
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "18:64:72:38:97:d1",
+        "level": -86
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "ac:a3:1e:f3:3b:13",
+        "level": -86
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:27:76:60",
+        "level": -87
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:27:76:73",
+        "level": -87
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:0f:c8:01",
+        "level": -87
+      },
+      {
+        "ssid": "148#3",
+        "bssid": "bc:16:f5:da:f3:02",
+        "level": -87
+      },
+      {
+        "ssid": "MySpectrumWiFi85-5G",
+        "bssid": "84:a4:23:f1:08:8c",
+        "level": -87
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "18:64:72:38:97:d0",
+        "level": -87
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "ac:a3:1e:f3:3b:10",
+        "level": -87
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "ac:a3:1e:f3:3b:11",
+        "level": -87
+      },
+      {
+        "ssid": "YellowLion-guest",
+        "bssid": "96:10:3e:07:c1:da",
+        "level": -87
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:2b:a7:d0",
+        "level": -88
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:2b:a7:d4",
+        "level": -88
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:2b:a7:d2",
+        "level": -88
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:2b:a7:d1",
+        "level": -88
+      },
+      {
+        "ssid": "NETGEAR26",
+        "bssid": "b0:7f:b9:fd:4d:91",
+        "level": -88
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:0f:c8:02",
+        "level": -88
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:0f:c8:00",
+        "level": -88
+      },
+      {
+        "ssid": "Blink 152",
+        "bssid": "c0:56:27:0a:c9:7c",
+        "level": -88
+      },
+      {
+        "ssid": "148_MGT",
+        "bssid": "bc:16:f5:da:f3:00",
+        "level": -88
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:0f:b4:32",
+        "level": -88
+      },
+      {
+        "ssid": "MyCharterWiFi74-2G",
+        "bssid": "c4:04:15:97:b2:74",
+        "level": -88
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:29:62:93",
+        "level": -88
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:10:8a:30",
+        "level": -89
+      },
+      {
+        "ssid": "NETGEAR79-5G",
+        "bssid": "a0:63:91:49:f0:46",
+        "level": -89
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:27:76:61",
+        "level": -89
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:0f:b4:30",
+        "level": -89
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:0f:b4:31",
+        "level": -89
+      },
+      {
+        "ssid": "MyCharterWiFic0-5G",
+        "bssid": "a4:2b:8c:9c:59:bf",
+        "level": -90
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:10:8a:32",
+        "level": -90
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:10:8a:33",
+        "level": -90
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:c8:03",
+        "level": -90
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:b4:33",
+        "level": -90
+      },
+      {
+        "ssid": "NETGEAR95",
+        "bssid": "44:94:fc:98:fb:70",
+        "level": -91
+      }
+    ]
+  },
+  {
+    "time": "19-04-2017 05:19:17",
+    "usageEvents": []
+  },
+  {
+    "time": "19-04-2017 05:19:17",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "19-04-2017 05:19:17",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "19-04-2017 05:19:17",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "19-04-2017 05:19:17",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "19-04-2017 05:19:17",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "19-04-2017 05:19:18",
+    "location": {
+      "latitude": 42.271489,
+      "longitude": -71.8084432
+    }
+  },
+  {
+    "time": "19-04-2017 05:20:18",
+    "usageEvents": []
+  },
+  {
+    "time": "19-04-2017 05:20:18",
+    "wifi": [
+      {
+        "ssid": "MyCharterWiFi09-2G",
+        "bssid": "a0:63:91:cb:dd:09",
+        "level": -60
+      },
+      {
+        "ssid": "MyCharterWiFi42-2G",
+        "bssid": "e8:fc:af:93:63:42",
+        "level": -62
+      },
+      {
+        "ssid": "MyCharterWiFi09-5G",
+        "bssid": "a0:63:91:cb:dd:08",
+        "level": -65
+      },
+      {
+        "ssid": "MyCharterWiFi42-5G",
+        "bssid": "e8:fc:af:93:63:41",
+        "level": -74
+      },
+      {
+        "ssid": "WWFD-5G",
+        "bssid": "6c:b0:ce:bc:3c:8e",
+        "level": -77
+      },
+      {
+        "ssid": "ArmSaltSprinkle",
+        "bssid": "a0:63:91:2e:56:31",
+        "level": -77
+      },
+      {
+        "ssid": "WWFD",
+        "bssid": "6c:b0:ce:bc:3c:8f",
+        "level": -79
+      },
+      {
+        "ssid": "FBISurvVan1",
+        "bssid": "10:0d:7f:98:83:cc",
+        "level": -79
+      },
+      {
+        "ssid": "NETGEAR77-5G",
+        "bssid": "04:a1:51:e8:cf:9b",
+        "level": -81
+      },
+      {
+        "ssid": "The Goat House 2G",
+        "bssid": "40:c7:29:49:e1:ca",
+        "level": -81
+      },
+      {
+        "ssid": "drop it like a hot spot",
+        "bssid": "48:f8:b3:d0:bb:dc",
+        "level": -82
+      },
+      {
+        "ssid": "OFT-one",
+        "bssid": "16:18:d6:97:29:9b",
+        "level": -82
+      },
+      {
+        "ssid": "MyCharterWiFic2-2G",
+        "bssid": "a0:63:91:e2:d9:c2",
+        "level": -83
+      },
+      {
+        "ssid": "NETGEAR26",
+        "bssid": "b0:7f:b9:fd:4d:91",
+        "level": -84
+      },
+      {
+        "ssid": "shipmate_5",
+        "bssid": "1e:ab:c0:81:36:10",
+        "level": -84
+      },
+      {
+        "ssid": "NETGEAR26-5G",
+        "bssid": "b0:7f:b9:fd:4d:93",
+        "level": -84
+      },
+      {
+        "ssid": "MySpectrumWiFi50-2G",
+        "bssid": "48:83:c7:cd:b8:56",
+        "level": -84
+      },
+      {
+        "ssid": "Linksysrachael",
+        "bssid": "b4:75:0e:47:69:d2",
+        "level": -84
+      },
+      {
+        "ssid": "HP-Print-FB-ENVY 5530 series",
+        "bssid": "5c:b9:01:63:88:fb",
+        "level": -84
+      },
+      {
+        "ssid": "Gompei_the_Great",
+        "bssid": "14:91:82:33:15:41",
+        "level": -86
+      },
+      {
+        "ssid": "MyCharterWiFi07-2G",
+        "bssid": "a4:2b:8c:92:b3:07",
+        "level": -86
+      },
+      {
+        "ssid": "MySpectrumWiFied-2G",
+        "bssid": "84:a4:23:f1:69:f3",
+        "level": -86
+      },
+      {
+        "ssid": "MyCharterWiFiac-5G",
+        "bssid": "dc:ef:09:95:e0:ab",
+        "level": -86
+      },
+      {
+        "ssid": "Salon_Thread",
+        "bssid": "40:3d:ec:9d:09:80",
+        "level": -86
+      },
+      {
+        "ssid": "148#3",
+        "bssid": "bc:16:f5:da:f3:02",
+        "level": -87
+      },
+      {
+        "ssid": "Senpai-notice-me",
+        "bssid": "e0:3f:49:a7:3e:14",
+        "level": -87
+      },
+      {
+        "ssid": "MySpectrumWiFied-5G",
+        "bssid": "84:a4:23:f1:69:f4",
+        "level": -87
+      },
+      {
+        "ssid": "Boaty McBoatFace",
+        "bssid": "a2:63:91:2e:56:33",
+        "level": -88
+      },
+      {
+        "ssid": "148_MGT",
+        "bssid": "bc:16:f5:da:f3:00",
+        "level": -88
+      },
+      {
+        "ssid": "DIRECT-roku-EF8DA1",
+        "bssid": "dc:3a:5e:b3:2a:a9",
+        "level": -88
+      },
+      {
+        "ssid": "drop it like a hot spot_5Ghz",
+        "bssid": "48:f8:b3:d0:bb:dd",
+        "level": -88
+      },
+      {
+        "ssid": "NETGEAR19",
+        "bssid": "a0:63:91:d8:7a:70",
+        "level": -88
+      },
+      {
+        "ssid": "MyCharterWiFi5b-2G",
+        "bssid": "c4:04:15:9b:00:5b",
+        "level": -88
+      },
+      {
+        "ssid": "Hollyweed",
+        "bssid": "a0:63:91:2e:56:32",
+        "level": -89
+      },
+      {
+        "ssid": "The Goat House 5G",
+        "bssid": "40:c7:29:49:e1:cb",
+        "level": -89
+      },
+      {
+        "ssid": "",
+        "bssid": "fa:8f:ca:65:cc:a2",
+        "level": -89
+      },
+      {
+        "ssid": "MySpectrumWiFi50-5G",
+        "bssid": "48:83:c7:cd:b8:57",
+        "level": -89
+      },
+      {
+        "ssid": "GoodWitches/BadWitches",
+        "bssid": "a0:63:91:e2:86:0e",
+        "level": -89
+      },
+      {
+        "ssid": "MyCharterWiFiea-5G",
+        "bssid": "2c:30:33:4d:dd:e9",
+        "level": -90
+      },
+      {
+        "ssid": "MyCharterWiFic5-5G",
+        "bssid": "6c:b0:ce:9a:d6:c4",
+        "level": -90
+      },
+      {
+        "ssid": "MyCharterWiFia3-5G",
+        "bssid": "a0:63:91:33:a1:a2",
+        "level": -90
+      },
+      {
+        "ssid": "DIRECT-roku-999-66A1FA",
+        "bssid": "ac:3a:7a:d4:1d:07",
+        "level": -91
+      },
+      {
+        "ssid": "NETGEAR91",
+        "bssid": "e4:f4:c6:e0:90:b8",
+        "level": -91
+      },
+      {
+        "ssid": "",
+        "bssid": "62:45:b1:0b:3f:44",
+        "level": -91
+      },
+      {
+        "ssid": "MySpectrumWiFied-2G_EXT",
+        "bssid": "2c:30:33:a5:a7:95",
+        "level": -91
+      },
+      {
+        "ssid": "OFT-special",
+        "bssid": "06:18:d6:97:29:9b",
+        "level": -93
+      }
+    ]
+  },
+  {
+    "time": "19-04-2017 05:20:18",
+    "location": {
+      "latitude": 42.271489,
+      "longitude": -71.8084432
+    }
+  },
+  {
+    "time": "19-04-2017 05:20:18",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "19-04-2017 05:20:18",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "19-04-2017 05:20:18",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "19-04-2017 05:20:18",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "19-04-2017 05:20:18",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "19-04-2017 05:21:19",
+    "usageEvents": []
+  },
+  {
+    "time": "19-04-2017 05:21:19",
+    "wifi": [
+      {
+        "ssid": "SPACEBALLS THE NETWORK",
+        "bssid": "60:e3:27:b7:82:f2",
+        "level": -69
+      },
+      {
+        "ssid": "Highland Home Network",
+        "bssid": "04:a1:51:ac:89:a7",
+        "level": -75
+      },
+      {
+        "ssid": "Ayo Technology-guest",
+        "bssid": "4a:f8:b3:fd:88:0b",
+        "level": -75
+      },
+      {
+        "ssid": "MyCharterWiFic2-5G",
+        "bssid": "a0:63:91:e2:d9:c1",
+        "level": -77
+      },
+      {
+        "ssid": "",
+        "bssid": "fa:8f:ca:3c:54:4f",
+        "level": -77
+      },
+      {
+        "ssid": "STOP_N_SAVE",
+        "bssid": "c4:39:3a:82:6e:b0",
+        "level": -78
+      },
+      {
+        "ssid": "HP-Print-93-Officejet Pro 8620",
+        "bssid": "fc:3f:db:77:67:93",
+        "level": -79
+      },
+      {
+        "ssid": "MySpectrumWiFi95-2G",
+        "bssid": "84:a4:23:f1:6c:9b",
+        "level": -79
+      },
+      {
+        "ssid": "RambunctiousRapier5G",
+        "bssid": "30:5a:3a:71:43:c4",
+        "level": -80
+      },
+      {
+        "ssid": "Dope Apartment 2G",
+        "bssid": "08:3e:5d:8c:2a:4e",
+        "level": -80
+      },
+      {
+        "ssid": "Ayo Technology_5GHz",
+        "bssid": "48:f8:b3:fd:88:0b",
+        "level": -81
+      },
+      {
+        "ssid": "RambunctiousRapier",
+        "bssid": "30:5a:3a:71:43:c0",
+        "level": -81
+      },
+      {
+        "ssid": "1616",
+        "bssid": "10:da:43:8f:1b:04",
+        "level": -82
+      },
+      {
+        "ssid": "HOME_0BFA50_2G",
+        "bssid": "e4:95:6e:0b:fa:50",
+        "level": -82
+      },
+      {
+        "ssid": "1616",
+        "bssid": "10:da:43:8f:1b:05",
+        "level": -82
+      },
+      {
+        "ssid": "MySpectrumWiFi95-5G",
+        "bssid": "84:a4:23:f1:6c:9c",
+        "level": -82
+      },
+      {
+        "ssid": "thehamburgerproject_5",
+        "bssid": "c4:39:3a:82:71:d8",
+        "level": -83
+      },
+      {
+        "ssid": "ZZFOK78",
+        "bssid": "46:d9:e7:f8:09:31",
+        "level": -84
+      },
+      {
+        "ssid": "1616",
+        "bssid": "fa:7b:8c:86:f3:5b",
+        "level": -84
+      },
+      {
+        "ssid": "Ayo Technology",
+        "bssid": "48:f8:b3:fd:88:0a",
+        "level": -84
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "ac:a3:1e:f3:38:10",
+        "level": -85
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "ac:a3:1e:f3:38:11",
+        "level": -85
+      },
+      {
+        "ssid": "MySpectrumWiFi3d-2G",
+        "bssid": "84:a4:23:f1:07:43",
+        "level": -85
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "ac:a3:1e:f3:38:12",
+        "level": -86
+      },
+      {
+        "ssid": "MySpectrumWiFic8-5G",
+        "bssid": "b0:b2:8f:7a:91:cf",
+        "level": -86
+      },
+      {
+        "ssid": "VIZIO HD",
+        "bssid": "00:19:9d:4d:37:dc",
+        "level": -86
+      },
+      {
+        "ssid": "MySpectrumWiFied-5G",
+        "bssid": "84:a4:23:f1:69:f4",
+        "level": -87
+      },
+      {
+        "ssid": "Highland 157 ",
+        "bssid": "a0:63:91:42:0e:3f",
+        "level": -87
+      },
+      {
+        "ssid": "HOME_0BFA58_5G",
+        "bssid": "e4:95:6e:0b:fa:58",
+        "level": -87
+      },
+      {
+        "ssid": "drop it like a hot spot",
+        "bssid": "48:f8:b3:d0:bb:dc",
+        "level": -88
+      },
+      {
+        "ssid": "Linksysrachael",
+        "bssid": "b4:75:0e:47:69:d2",
+        "level": -88
+      },
+      {
+        "ssid": "2 Trowbridge Bigger",
+        "bssid": "14:91:82:10:c9:a4",
+        "level": -88
+      },
+      {
+        "ssid": "Gronkspike5ghz",
+        "bssid": "10:da:43:81:20:9d",
+        "level": -88
+      },
+      {
+        "ssid": "Norman Ringdahl's Wi-Fi Network",
+        "bssid": "28:cf:da:ba:53:c3",
+        "level": -88
+      },
+      {
+        "ssid": "ArmSaltSprinkle",
+        "bssid": "a0:63:91:2e:56:31",
+        "level": -89
+      },
+      {
+        "ssid": "165HL1_5G",
+        "bssid": "9c:5c:8e:b9:9a:4c",
+        "level": -89
+      },
+      {
+        "ssid": "NETGEAR09-5G",
+        "bssid": "10:da:43:7f:e8:0d",
+        "level": -90
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "ac:a3:1e:f3:3c:32",
+        "level": -90
+      },
+      {
+        "ssid": "NETGEAR99-5G",
+        "bssid": "28:c6:8e:c1:e0:52",
+        "level": -90
+      },
+      {
+        "ssid": "NETGEAR99",
+        "bssid": "28:c6:8e:c1:e0:50",
+        "level": -93
+      }
+    ]
+  },
+  {
+    "time": "19-04-2017 05:21:19",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "19-04-2017 05:21:19",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "19-04-2017 05:21:19",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "19-04-2017 05:21:19",
+    "location": {
+      "latitude": 42.2707597,
+      "longitude": -71.8089992
+    }
+  },
+  {
+    "time": "19-04-2017 05:21:19",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "19-04-2017 05:21:19",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "19-04-2017 05:21:41",
+    "usageEvents": []
+  },
+  {
+    "time": "19-04-2017 05:21:41",
+    "wifi": [
+      {
+        "ssid": "MySpectrumWiFie0-2G",
+        "bssid": "b0:b2:8f:7d:a7:e6",
+        "level": -69
+      },
+      {
+        "ssid": "ZZFOK78",
+        "bssid": "44:d9:e7:f7:09:31",
+        "level": -73
+      },
+      {
+        "ssid": "2 Trowbridge Bigger",
+        "bssid": "14:91:82:10:c9:a4",
+        "level": -74
+      },
+      {
+        "ssid": "HP-Print-97-Deskjet 3510 series",
+        "bssid": "2c:59:e5:c6:7c:97",
+        "level": -76
+      },
+      {
+        "ssid": "ZZFOK78",
+        "bssid": "46:d9:e7:f8:09:31",
+        "level": -77
+      },
+      {
+        "ssid": "Dope Apartment 2G",
+        "bssid": "08:3e:5d:8c:2a:4e",
+        "level": -77
+      },
+      {
+        "ssid": "Gronkspike5ghz",
+        "bssid": "10:da:43:81:20:9d",
+        "level": -81
+      },
+      {
+        "ssid": "MySpectrumWiFie0-5G",
+        "bssid": "b0:b2:8f:7d:a7:e7",
+        "level": -81
+      },
+      {
+        "ssid": "MedStar_M45",
+        "bssid": "40:e2:30:0e:fb:d8",
+        "level": -81
+      },
+      {
+        "ssid": "La Catedral",
+        "bssid": "b0:b2:8f:7b:f7:b6",
+        "level": -83
+      },
+      {
+        "ssid": "MyCharterWiFi29-5G",
+        "bssid": "a0:63:91:2e:56:28",
+        "level": -83
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "ac:a3:1e:f3:3c:32",
+        "level": -84
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "ac:a3:1e:f3:3c:30",
+        "level": -84
+      },
+      {
+        "ssid": "MyCharterWiFi8b-5G",
+        "bssid": "80:37:73:dd:c2:8a",
+        "level": -84
+      },
+      {
+        "ssid": "NETGEAR09",
+        "bssid": "10:da:43:7f:e8:0e",
+        "level": -84
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "ac:a3:1e:f3:3c:31",
+        "level": -84
+      },
+      {
+        "ssid": "NETGEAR09-5G",
+        "bssid": "10:da:43:7f:e8:0d",
+        "level": -85
+      },
+      {
+        "ssid": "3A 2.4GHz",
+        "bssid": "c4:6e:1f:ff:ea:d2",
+        "level": -85
+      },
+      {
+        "ssid": "",
+        "bssid": "fa:8f:ca:86:b8:e8",
+        "level": -86
+      },
+      {
+        "ssid": "RambunctiousRapier",
+        "bssid": "30:5a:3a:71:43:c0",
+        "level": -87
+      },
+      {
+        "ssid": "MySpectrumWiFib0-5G",
+        "bssid": "b0:b2:8f:7b:f7:b7",
+        "level": -87
+      },
+      {
+        "ssid": "2 trowbridge big",
+        "bssid": "e4:f4:c6:dd:7d:1a",
+        "level": -88
+      },
+      {
+        "ssid": "3A 5GHz",
+        "bssid": "c4:6e:1f:ff:ea:d3",
+        "level": -88
+      },
+      {
+        "ssid": "MyCharterWiFid6-2G",
+        "bssid": "6c:b0:ce:ad:2e:d6",
+        "level": -88
+      },
+      {
+        "ssid": "",
+        "bssid": "62:45:b1:cc:3a:05",
+        "level": -88
+      },
+      {
+        "ssid": "Hide yo kids hide yo wifi",
+        "bssid": "24:a2:e1:f1:e8:24",
+        "level": -88
+      },
+      {
+        "ssid": "RambunctiousRapier5G",
+        "bssid": "30:5a:3a:71:43:c4",
+        "level": -90
+      },
+      {
+        "ssid": "TB12isGOAT",
+        "bssid": "10:da:43:81:20:9e",
+        "level": -91
+      },
+      {
+        "ssid": "mid-century eclectic",
+        "bssid": "d8:50:e6:e9:6c:8c",
+        "level": -92
+      }
+    ]
+  },
+  {
+    "time": "19-04-2017 05:21:41",
+    "location": {
+      "latitude": 42.270807,
+      "longitude": -71.8099721
+    }
+  },
+  {
+    "time": "19-04-2017 05:22:20",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "19-04-2017 05:22:20",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "19-04-2017 05:22:20",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "19-04-2017 05:22:20",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "19-04-2017 05:22:20",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "19-04-2017 05:23:03",
+    "usageEvents": []
+  },
+  {
+    "time": "19-04-2017 05:23:03",
+    "wifi": [
+      {
+        "ssid": "Alpha Fedora Dorito NITROUS",
+        "bssid": "10:c3:7b:51:67:1c",
+        "level": -65
+      },
+      {
+        "ssid": "Pride Rock-5",
+        "bssid": "e8:fc:af:8f:91:a6",
+        "level": -73
+      },
+      {
+        "ssid": "MyCharterWiFi4e-5G",
+        "bssid": "a0:63:91:42:0f:4d",
+        "level": -73
+      },
+      {
+        "ssid": "NETGEAR22",
+        "bssid": "c0:ff:d4:89:5c:f6",
+        "level": -73
+      },
+      {
+        "ssid": "MySpectrumWiFid4-5G",
+        "bssid": "2c:30:33:e6:3c:d2",
+        "level": -75
+      },
+      {
+        "ssid": "MyCharterWiFi28-5G",
+        "bssid": "80:37:73:ce:fa:27",
+        "level": -76
+      },
+      {
+        "ssid": "MySpectrumWiFi38-2G",
+        "bssid": "48:83:c7:cd:4c:3e",
+        "level": -78
+      },
+      {
+        "ssid": "MySpectrumWiFi38-5G",
+        "bssid": "48:83:c7:cd:4c:3f",
+        "level": -79
+      },
+      {
+        "ssid": "Chinatown",
+        "bssid": "ac:9e:17:b0:5c:a8",
+        "level": -80
+      },
+      {
+        "ssid": "NETGEAR31-5G-1",
+        "bssid": "50:6a:03:c7:96:e7",
+        "level": -81
+      },
+      {
+        "ssid": "D.E.R_5GHz",
+        "bssid": "48:f8:b3:ea:96:d2",
+        "level": -81
+      },
+      {
+        "ssid": "Alpha Fedora Dorito NITROUS",
+        "bssid": "00:90:4c:03:21:23",
+        "level": -82
+      },
+      {
+        "ssid": "MyCharterWiFi4e-2G",
+        "bssid": "a0:63:91:42:0f:4e",
+        "level": -83
+      },
+      {
+        "ssid": "Chinatown 5GHz",
+        "bssid": "ac:9e:17:b0:5c:ac",
+        "level": -83
+      },
+      {
+        "ssid": "D.E.R_5GHz",
+        "bssid": "48:f8:b3:ea:96:d1",
+        "level": -85
+      },
+      {
+        "ssid": "Wooglen's Den_5GHz-guest",
+        "bssid": "4a:f8:b3:f5:94:39",
+        "level": -88
+      },
+      {
+        "ssid": "Wooglen's Den_5GHz",
+        "bssid": "48:f8:b3:f5:94:37",
+        "level": -89
+      },
+      {
+        "ssid": "Wooglen's Den_5GHz",
+        "bssid": "48:f8:b3:f5:94:38",
+        "level": -89
+      },
+      {
+        "ssid": "Mahabharatha_bgn",
+        "bssid": "80:37:73:ef:81:91",
+        "level": -90
+      },
+      {
+        "ssid": "NETGEAR36",
+        "bssid": "50:6a:03:ae:17:64",
+        "level": -91
+      },
+      {
+        "ssid": "11FX03004827",
+        "bssid": "0c:d5:02:8f:ff:26",
+        "level": -91
+      }
+    ]
+  },
+  {
+    "time": "19-04-2017 05:23:03",
+    "location": {
+      "latitude": 42.2708252,
+      "longitude": -71.811223
+    }
+  },
+  {
+    "time": "19-04-2017 05:23:06",
+    "usageStats": [
+      {
+        "name": "com.google.android.ext.services",
+        "first": 1492590181808,
+        "last": 1492590190852,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.providers.telephony",
+        "first": 1492590181808,
+        "last": 1492590186683,
+        "recent": 1484529774823,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.googlequicksearchbox",
+        "first": 1492590181808,
+        "last": 1492636348985,
+        "recent": 1492636237358,
+        "foreground": 112867
+      },
+      {
+        "name": "com.android.providers.calendar",
+        "first": 1492590181808,
+        "last": 1492592899196,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "org.telegram.messenger",
+        "first": 1492590181808,
+        "last": 1492636494108,
+        "recent": 1492636494108,
+        "foreground": 58931
+      },
+      {
+        "name": "com.android.providers.media",
+        "first": 1492590181808,
+        "last": 1492634566837,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.apps.docs.editors.docs",
+        "first": 1492590181808,
+        "last": 1492592120175,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.teslacoilsw.launcher",
+        "first": 1492590181808,
+        "last": 1492636496687,
+        "recent": 1492636496687,
+        "foreground": 1329102
+      },
+      {
+        "name": "com.quicinc.cne.CNEService",
+        "first": 1492590181808,
+        "last": 1492590191108,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.thetileapp.tile",
+        "first": 1492590181808,
+        "last": 1492616938029,
+        "recent": 1492616938029,
+        "foreground": 67687
+      },
+      {
+        "name": "com.google.android.apps.paidtasks",
+        "first": 1492590181808,
+        "last": 1492620436603,
+        "recent": 1492620436603,
+        "foreground": 18843
+      },
+      {
+        "name": "com.android.documentsui",
+        "first": 1492590181808,
+        "last": 1492625131080,
+        "recent": 1492625131080,
+        "foreground": 4161
+      },
+      {
+        "name": "com.journey.app",
+        "first": 1492590181808,
+        "last": 1492592358677,
+        "recent": 1492592358677,
+        "foreground": 22644
+      },
+      {
+        "name": "com.google.android.apps.docs.editors.sheets",
+        "first": 1492590181808,
+        "last": 1492592121030,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.apps.docs.editors.slides",
+        "first": 1492590181808,
+        "last": 1492592121899,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.providers.downloads",
+        "first": 1492590181808,
+        "last": 1492634566837,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.oristats.habitbull",
+        "first": 1492590181808,
+        "last": 1492592307853,
+        "recent": 1492592307853,
+        "foreground": 41634
+      },
+      {
+        "name": "reddit.news",
+        "first": 1492590181808,
+        "last": 1492592587815,
+        "recent": 1492592587815,
+        "foreground": 8690
+      },
+      {
+        "name": "com.google.android.apps.messaging",
+        "first": 1492590181808,
+        "last": 1492632643635,
+        "recent": 1492591781046,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.apps.genie.geniewidget",
+        "first": 1492590181808,
+        "last": 1492619511337,
+        "recent": 1492619511337,
+        "foreground": 12057
+      },
+      {
+        "name": "com.android.defcontainer",
+        "first": 1492590181808,
+        "last": 1492628240346,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.northpark.drinkwaterpro",
+        "first": 1492590181808,
+        "last": 1492636232833,
+        "recent": 1492636232833,
+        "foreground": 52623
+      },
+      {
+        "name": "com.android.providers.downloads.ui",
+        "first": 1492590181808,
+        "last": 1492625131143,
+        "recent": 1492625131143,
+        "foreground": 55
+      },
+      {
+        "name": "com.android.vending",
+        "first": 1492590181808,
+        "last": 1492635637911,
+        "recent": 1492628289986,
+        "foreground": 1799503
+      },
+      {
+        "name": "com.backdrops.wallpapers",
+        "first": 1492590181808,
+        "last": 1492591179147,
+        "recent": 1492591179147,
+        "foreground": 42668
+      },
+      {
+        "name": "net.dinglisch.android.taskerm",
+        "first": 1492590181808,
+        "last": 1492592515936,
+        "recent": 1492592515936,
+        "foreground": 7468
+      },
+      {
+        "name": "android",
+        "first": 1492590181808,
+        "last": 1492625202167,
+        "recent": 1492625202167,
+        "foreground": 9475
+      },
+      {
+        "name": "com.lastpass.lpandroid",
+        "first": 1492590181808,
+        "last": 1492636480790,
+        "recent": 1492625164842,
+        "foreground": 172077
+      },
+      {
+        "name": "com.android.nfc",
+        "first": 1492590181808,
+        "last": 1492590191142,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.mint",
+        "first": 1492590181808,
+        "last": 1492592863725,
+        "recent": 1492592863725,
+        "foreground": 18631
+      },
+      {
+        "name": "net.cloudpath.xpressconnect",
+        "first": 1492590181808,
+        "last": 1492625198549,
+        "recent": 1492625198549,
+        "foreground": 23150
+      },
+      {
+        "name": "com.google.android.deskclock",
+        "first": 1492590181808,
+        "last": 1492592084458,
+        "recent": 1492592084458,
+        "foreground": 2526
+      },
+      {
+        "name": "com.google.android.gm",
+        "first": 1492590181808,
+        "last": 1492636245502,
+        "recent": 1492636232833,
+        "foreground": 3107
+      },
+      {
+        "name": "com.joaomgcd.autoappshub",
+        "first": 1492590181808,
+        "last": 1492592020307,
+        "recent": 1492592020307,
+        "foreground": 1448
+      },
+      {
+        "name": "com.google.android.music",
+        "first": 1492590181808,
+        "last": 1492632676302,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.printspooler",
+        "first": 1492590181808,
+        "last": 1492634074987,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.apps.docs",
+        "first": 1492590181808,
+        "last": 1492625127015,
+        "recent": 1492592122457,
+        "foreground": 3164
+      },
+      {
+        "name": "com.google.android.apps.maps",
+        "first": 1492590181808,
+        "last": 1492636235560,
+        "recent": 1492636235560,
+        "foreground": 7900
+      },
+      {
+        "name": "com.google.android.apps.plus",
+        "first": 1492590181808,
+        "last": 1492630203206,
+        "recent": 1492630203206,
+        "foreground": 72773
+      },
+      {
+        "name": "com.urbandroid.sleep",
+        "first": 1492590181808,
+        "last": 1492616273949,
+        "recent": 1492616273949,
+        "foreground": 131881
+      },
+      {
+        "name": "com.android.cellbroadcastreceiver",
+        "first": 1492590181808,
+        "last": 1492619359964,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.contacts",
+        "first": 1492590181808,
+        "last": 1492592100096,
+        "recent": 1492592100096,
+        "foreground": 9786
+      },
+      {
+        "name": "com.google.android.syncadapters.contacts",
+        "first": 1492590181808,
+        "last": 1492591650100,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.keychain",
+        "first": 1492590181808,
+        "last": 1492590191199,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.chrome",
+        "first": 1492590181808,
+        "last": 1492635391005,
+        "recent": 1492630162440,
+        "foreground": 90054
+      },
+      {
+        "name": "com.google.android.packageinstaller",
+        "first": 1492590181808,
+        "last": 1492625177072,
+        "recent": 1492625177072,
+        "foreground": 41743
+      },
+      {
+        "name": "com.google.android.gms",
+        "first": 1492590181808,
+        "last": 1492634065192,
+        "recent": 1492617698946,
+        "foreground": 46519
+      },
+      {
+        "name": "com.google.android.gsf",
+        "first": 1492590181808,
+        "last": 1492636628198,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.ims",
+        "first": 1492590181808,
+        "last": 1492632642803,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.partnersetup",
+        "first": 1492590181808,
+        "last": 1492625060572,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.videos",
+        "first": 1492590181808,
+        "last": 1492632643927,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.netflix.mediaclient",
+        "first": 1492590181808,
+        "last": 1492592684534,
+        "recent": 1492592684534,
+        "foreground": 28074
+      },
+      {
+        "name": "com.google.android.apps.photos",
+        "first": 1492590181808,
+        "last": 1492592961249,
+        "recent": 1492592961249,
+        "foreground": 4146
+      },
+      {
+        "name": "com.google.android.calendar",
+        "first": 1492590181808,
+        "last": 1492592155482,
+        "recent": 1492592062544,
+        "foreground": 23480
+      },
+      {
+        "name": "com.spotify.music",
+        "first": 1492590181808,
+        "last": 1492593131772,
+        "recent": 1492592925840,
+        "foreground": 33215
+      },
+      {
+        "name": "com.launchertheme.kxnt.click",
+        "first": 1492590181808,
+        "last": 1492593955444,
+        "recent": 1492593955444,
+        "foreground": 24972
+      },
+      {
+        "name": "com.android.providers.partnerbookmarks",
+        "first": 1492590181808,
+        "last": 1492625061252,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.facebook.orca",
+        "first": 1492590181808,
+        "last": 1492635100054,
+        "recent": 1492635100054,
+        "foreground": 157840
+      },
+      {
+        "name": "com.android.settings",
+        "first": 1492590181808,
+        "last": 1492636259989,
+        "recent": 1492636259989,
+        "foreground": 150300
+      },
+      {
+        "name": "com.textra",
+        "first": 1492590181808,
+        "last": 1492636485028,
+        "recent": 1492636485028,
+        "foreground": 121039
+      },
+      {
+        "name": "com.tinder",
+        "first": 1492590181808,
+        "last": 1492635646119,
+        "recent": 1492635646119,
+        "foreground": 342938
+      },
+      {
+        "name": "com.google.android.projection.gearhead",
+        "first": 1492590181808,
+        "last": 1492591740673,
+        "recent": 1492591740673,
+        "foreground": 21038
+      },
+      {
+        "name": "pl.solidexplorer2",
+        "first": 1492590181808,
+        "last": 1492635629983,
+        "recent": 1492633872916,
+        "foreground": 20697
+      },
+      {
+        "name": "com.google.android.apps.chromecast.app",
+        "first": 1492590181808,
+        "last": 1492592150951,
+        "recent": 1492592150951,
+        "foreground": 19906
+      },
+      {
+        "name": "com.google.android.talk",
+        "first": 1492590181808,
+        "last": 1492592326654,
+        "recent": 1492592326654,
+        "foreground": 6563
+      },
+      {
+        "name": "com.android.phone",
+        "first": 1492590181808,
+        "last": 1492590212254,
+        "recent": 1492590212254,
+        "foreground": 7737
+      },
+      {
+        "name": "com.google.vr.vrcore",
+        "first": 1492590181808,
+        "last": 1492590191205,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.providers.blockednumber",
+        "first": 1492590181808,
+        "last": 1492636486239,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.providers.userdictionary",
+        "first": 1492590181808,
+        "last": 1492636486239,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.mlssoccer",
+        "first": 1492590181808,
+        "last": 1492628354641,
+        "recent": 1492628354641,
+        "foreground": 59020
+      },
+      {
+        "name": "com.android.systemui",
+        "first": 1492590181808,
+        "last": 1492636485994,
+        "recent": 1492636485994,
+        "foreground": 39894
+      },
+      {
+        "name": "com.authy.authy",
+        "first": 1492590181808,
+        "last": 1492592620167,
+        "recent": 1492592620167,
+        "foreground": 103686
+      },
+      {
+        "name": "com.google.android.play.games",
+        "first": 1492590181808,
+        "last": 1492590431924,
+        "recent": 1492590350049,
+        "foreground": 5725
+      },
+      {
+        "name": "com.android.bluetooth",
+        "first": 1492590181808,
+        "last": 1492590191736,
+        "recent": 1484529774823,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.providers.contacts",
+        "first": 1492590181808,
+        "last": 1492636486240,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.riteshsahu.SMSBackupRestore",
+        "first": 1492590181808,
+        "last": 1492619277220,
+        "recent": 1492619277220,
+        "foreground": 107334
+      },
+      {
+        "name": "com.google.android.GoogleCamera",
+        "first": 1492590181808,
+        "last": 1492610575796,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.snapchat.android",
+        "first": 1492590181808,
+        "last": 1492592633330,
+        "recent": 1492592633330,
+        "foreground": 32799
+      },
+      {
+        "name": "com.bms.mqp.behaviormodelsystem",
+        "first": 1492590181808,
+        "last": 1492619425020,
+        "recent": 1492619425020,
+        "foreground": 11816
+      },
+      {
+        "name": "com.google.android.inputmethod.latin",
+        "first": 1492590181808,
+        "last": 1492623825238,
+        "recent": 1492592704705,
+        "foreground": 10255
+      }
+    ]
+  },
+  {
+    "time": "19-04-2017 05:23:10",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "19-04-2017 05:23:10",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "19-04-2017 05:23:10",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "19-04-2017 05:23:10",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "19-04-2017 05:23:10",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  }
+]

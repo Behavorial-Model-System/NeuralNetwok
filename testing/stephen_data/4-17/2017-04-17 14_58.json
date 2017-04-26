@@ -1,0 +1,643 @@
+[
+  {
+    "time": "17-04-2017 02:58:51",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "17-04-2017 02:58:51",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "17-04-2017 02:58:51",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "17-04-2017 02:58:51",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "17-04-2017 02:58:51",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "17-04-2017 03:00:04",
+    "usageEvents": [
+      {
+        "name": "com.textra",
+        "time": 1492455508681,
+        "type": 7
+      },
+      {
+        "name": "com.teslacoilsw.launcher",
+        "time": 1492455512559,
+        "type": 1
+      },
+      {
+        "name": "flar2.exkernelmanager",
+        "time": 1492455514023,
+        "type": 7
+      },
+      {
+        "name": "com.teslacoilsw.launcher",
+        "time": 1492455514252,
+        "type": 2
+      },
+      {
+        "name": "com.textra",
+        "time": 1492455514272,
+        "type": 1
+      },
+      {
+        "name": "com.textra",
+        "time": 1492455517838,
+        "type": 2
+      },
+      {
+        "name": "com.teslacoilsw.launcher",
+        "time": 1492455518073,
+        "type": 1
+      },
+      {
+        "name": "com.teslacoilsw.launcher",
+        "time": 1492455518141,
+        "type": 2
+      },
+      {
+        "name": "com.textra",
+        "time": 1492455518177,
+        "type": 1
+      },
+      {
+        "name": "com.textra",
+        "time": 1492455518272,
+        "type": 2
+      },
+      {
+        "name": "com.textra",
+        "time": 1492455518319,
+        "type": 1
+      },
+      {
+        "name": "com.textra",
+        "time": 1492455558891,
+        "type": 2
+      }
+    ]
+  },
+  {
+    "time": "17-04-2017 03:00:04",
+    "wifi": [
+      {
+        "ssid": "Alpha Fedora Dorito",
+        "bssid": "10:c3:7b:51:67:18",
+        "level": -62
+      },
+      {
+        "ssid": "Alpha Fedora Dorito NITROUS",
+        "bssid": "10:c3:7b:51:67:1c",
+        "level": -66
+      },
+      {
+        "ssid": "",
+        "bssid": "fa:8f:ca:9d:48:f9",
+        "level": -69
+      },
+      {
+        "ssid": "Chinatown",
+        "bssid": "ac:9e:17:b0:5c:a8",
+        "level": -79
+      },
+      {
+        "ssid": "",
+        "bssid": "fa:8f:ca:70:60:f4",
+        "level": -79
+      },
+      {
+        "ssid": "NETGEAR31-5G-1",
+        "bssid": "50:6a:03:c7:96:e7",
+        "level": -83
+      },
+      {
+        "ssid": "MyCharterWiFi4e-5G",
+        "bssid": "a0:63:91:42:0f:4d",
+        "level": -83
+      },
+      {
+        "ssid": "Alpha Fedora Dorito",
+        "bssid": "e0:3f:49:ec:00:13",
+        "level": -84
+      },
+      {
+        "ssid": "MySpectrumWiFi38-2G",
+        "bssid": "48:83:c7:cd:4c:3e",
+        "level": -84
+      },
+      {
+        "ssid": "Alpha Fedora Dorito NITROUS",
+        "bssid": "00:90:4c:03:21:23",
+        "level": -84
+      },
+      {
+        "ssid": "Bill Wi the Science Fi",
+        "bssid": "e8:fc:af:7b:0f:31",
+        "level": -85
+      },
+      {
+        "ssid": "NETGEAR31",
+        "bssid": "50:6a:03:c7:96:e8",
+        "level": -87
+      },
+      {
+        "ssid": "MyCharterWiFice-2G",
+        "bssid": "a0:63:91:e2:84:ce",
+        "level": -87
+      },
+      {
+        "ssid": "Chinatown 5GHz",
+        "bssid": "ac:9e:17:b0:5c:ac",
+        "level": -91
+      },
+      {
+        "ssid": "D.E.R",
+        "bssid": "48:f8:b3:ea:96:d0",
+        "level": -91
+      }
+    ]
+  },
+  {
+    "time": "17-04-2017 03:00:04",
+    "location": {
+      "latitude": 42.2703814,
+      "longitude": -71.8126129
+    }
+  },
+  {
+    "time": "17-04-2017 03:00:04",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "17-04-2017 03:00:04",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "17-04-2017 03:00:04",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "17-04-2017 03:00:04",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "17-04-2017 03:00:04",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "17-04-2017 03:01:00",
+    "usageEvents": []
+  },
+  {
+    "time": "17-04-2017 03:01:00",
+    "wifi": [
+      {
+        "ssid": "Alpha Fedora Dorito",
+        "bssid": "10:c3:7b:51:67:18",
+        "level": -64
+      },
+      {
+        "ssid": "Alpha Fedora Dorito NITROUS",
+        "bssid": "10:c3:7b:51:67:1c",
+        "level": -67
+      },
+      {
+        "ssid": "",
+        "bssid": "fa:8f:ca:9d:48:f9",
+        "level": -73
+      },
+      {
+        "ssid": "Alpha Fedora Dorito",
+        "bssid": "e0:3f:49:ec:00:13",
+        "level": -74
+      },
+      {
+        "ssid": "MySpectrumWiFid4-2G",
+        "bssid": "2c:30:33:e6:3c:d3",
+        "level": -79
+      },
+      {
+        "ssid": "MyCharterWiFi4e-5G",
+        "bssid": "a0:63:91:42:0f:4d",
+        "level": -83
+      },
+      {
+        "ssid": "Chinatown",
+        "bssid": "ac:9e:17:b0:5c:a8",
+        "level": -84
+      },
+      {
+        "ssid": "NETGEAR31",
+        "bssid": "50:6a:03:c7:96:e8",
+        "level": -86
+      },
+      {
+        "ssid": "Alpha Fedora Dorito NITROUS",
+        "bssid": "00:90:4c:03:21:23",
+        "level": -86
+      },
+      {
+        "ssid": "MyCharterWiFice-5G",
+        "bssid": "a0:63:91:e2:84:cd",
+        "level": -86
+      },
+      {
+        "ssid": "NETGEAR31-5G-2",
+        "bssid": "50:6a:03:c7:96:e9",
+        "level": -89
+      },
+      {
+        "ssid": "Chinatown 5GHz",
+        "bssid": "ac:9e:17:b0:5c:ac",
+        "level": -90
+      }
+    ]
+  },
+  {
+    "time": "17-04-2017 03:01:00",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "17-04-2017 03:01:00",
+    "location": {
+      "latitude": 42.2704359,
+      "longitude": -71.8119755
+    }
+  },
+  {
+    "time": "17-04-2017 03:01:00",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "17-04-2017 03:01:00",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "17-04-2017 03:01:00",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "17-04-2017 03:01:00",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "17-04-2017 03:01:47",
+    "wifi": [
+      {
+        "ssid": "Alpha Fedora Dorito",
+        "bssid": "10:c3:7b:51:67:18",
+        "level": -61
+      },
+      {
+        "ssid": "Alpha Fedora Dorito NITROUS",
+        "bssid": "10:c3:7b:51:67:1c",
+        "level": -67
+      },
+      {
+        "ssid": "Alpha Fedora Dorito",
+        "bssid": "e0:3f:49:ec:00:13",
+        "level": -74
+      },
+      {
+        "ssid": "MyCharterWiFi4e-2G",
+        "bssid": "a0:63:91:42:0f:4e",
+        "level": -78
+      },
+      {
+        "ssid": "MySpectrumWiFid4-2G",
+        "bssid": "2c:30:33:e6:3c:d3",
+        "level": -79
+      },
+      {
+        "ssid": "MyCharterWiFi4e-5G",
+        "bssid": "a0:63:91:42:0f:4d",
+        "level": -81
+      },
+      {
+        "ssid": "Chinatown",
+        "bssid": "ac:9e:17:b0:5c:a8",
+        "level": -83
+      },
+      {
+        "ssid": "NETGEAR31",
+        "bssid": "50:6a:03:c7:96:e8",
+        "level": -86
+      },
+      {
+        "ssid": "Alpha Fedora Dorito NITROUS",
+        "bssid": "00:90:4c:03:21:23",
+        "level": -86
+      },
+      {
+        "ssid": "MyCharterWiFice-5G",
+        "bssid": "a0:63:91:e2:84:cd",
+        "level": -86
+      },
+      {
+        "ssid": "D.E.R",
+        "bssid": "48:f8:b3:ea:96:d0",
+        "level": -87
+      },
+      {
+        "ssid": "MySpectrumWiFi38-2G",
+        "bssid": "48:83:c7:cd:4c:3e",
+        "level": -88
+      },
+      {
+        "ssid": "Chinatown 5GHz",
+        "bssid": "ac:9e:17:b0:5c:ac",
+        "level": -89
+      },
+      {
+        "ssid": "jmmckinney-2",
+        "bssid": "c0:56:27:b8:41:9e",
+        "level": -92
+      },
+      {
+        "ssid": "Bill Wi the Science Fi",
+        "bssid": "e8:fc:af:7b:0f:31",
+        "level": -94
+      }
+    ]
+  },
+  {
+    "time": "17-04-2017 03:01:47",
+    "usageEvents": []
+  },
+  {
+    "time": "17-04-2017 03:01:47",
+    "location": {
+      "latitude": 42.2704359,
+      "longitude": -71.8119755
+    }
+  },
+  {
+    "time": "17-04-2017 03:01:47",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "17-04-2017 03:01:47",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "17-04-2017 03:01:47",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "17-04-2017 03:01:47",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "17-04-2017 03:01:47",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "17-04-2017 03:02:47",
+    "wifi": [
+      {
+        "ssid": "Alpha Fedora Dorito NITROUS",
+        "bssid": "10:c3:7b:51:67:1c",
+        "level": -65
+      },
+      {
+        "ssid": "Alpha Fedora Dorito",
+        "bssid": "10:c3:7b:51:67:18",
+        "level": -66
+      },
+      {
+        "ssid": "MyCharterWiFi4e-2G",
+        "bssid": "a0:63:91:42:0f:4e",
+        "level": -72
+      },
+      {
+        "ssid": "Chinatown",
+        "bssid": "ac:9e:17:b0:5c:a8",
+        "level": -76
+      },
+      {
+        "ssid": "MyCharterWiFice-2G",
+        "bssid": "a0:63:91:e2:84:ce",
+        "level": -76
+      },
+      {
+        "ssid": "MyCharterWiFi4e-5G",
+        "bssid": "a0:63:91:42:0f:4d",
+        "level": -80
+      },
+      {
+        "ssid": "Alpha Fedora Dorito",
+        "bssid": "e0:3f:49:ec:00:13",
+        "level": -81
+      },
+      {
+        "ssid": "MySpectrumWiFid4-5G",
+        "bssid": "2c:30:33:e6:3c:d2",
+        "level": -84
+      },
+      {
+        "ssid": "Alpha Fedora Dorito NITROUS",
+        "bssid": "00:90:4c:03:21:23",
+        "level": -85
+      },
+      {
+        "ssid": "Bill Wi the Science Fi",
+        "bssid": "e8:fc:af:7b:0f:31",
+        "level": -85
+      },
+      {
+        "ssid": "D.E.R",
+        "bssid": "48:f8:b3:ea:96:d0",
+        "level": -86
+      },
+      {
+        "ssid": "MySpectrumWiFi38-2G",
+        "bssid": "48:83:c7:cd:4c:3e",
+        "level": -86
+      },
+      {
+        "ssid": "MyCharterWiFice-5G",
+        "bssid": "a0:63:91:e2:84:cd",
+        "level": -86
+      },
+      {
+        "ssid": "DIRECT-roku-050-D098F3",
+        "bssid": "94:e9:79:4f:c3:e3",
+        "level": -87
+      },
+      {
+        "ssid": "MySpectrumWiFi38-5G",
+        "bssid": "48:83:c7:cd:4c:3f",
+        "level": -87
+      },
+      {
+        "ssid": "WPI187",
+        "bssid": "c0:c1:c0:cc:fc:7b",
+        "level": -88
+      },
+      {
+        "ssid": "NETGEAR22",
+        "bssid": "c0:ff:d4:89:5c:f6",
+        "level": -89
+      },
+      {
+        "ssid": "Chinatown 5GHz",
+        "bssid": "ac:9e:17:b0:5c:ac",
+        "level": -91
+      }
+    ]
+  },
+  {
+    "time": "17-04-2017 03:02:47",
+    "usageEvents": [
+      {
+        "name": "com.northpark.drinkwaterpro",
+        "time": 1492455728993,
+        "type": 7
+      },
+      {
+        "name": "com.textra",
+        "time": 1492455731080,
+        "type": 1
+      },
+      {
+        "name": "com.textra",
+        "time": 1492455737267,
+        "type": 2
+      }
+    ]
+  },
+  {
+    "time": "17-04-2017 03:02:47",
+    "location": {
+      "latitude": 42.2704359,
+      "longitude": -71.8119755
+    }
+  },
+  {
+    "time": "17-04-2017 03:02:47",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "17-04-2017 03:02:47",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "17-04-2017 03:02:48",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "17-04-2017 03:02:48",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "17-04-2017 03:02:48",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  }
+]

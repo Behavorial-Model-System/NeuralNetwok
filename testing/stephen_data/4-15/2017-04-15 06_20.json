@@ -1,0 +1,244 @@
+[
+  {
+    "time": "15-04-2017 06:20:35",
+    "usageEvents": []
+  },
+  {
+    "time": "15-04-2017 06:20:35",
+    "wifi": [
+      {
+        "ssid": "Alpha Fedora Dorito NITROUS",
+        "bssid": "10:c3:7b:51:67:1c",
+        "level": -41
+      },
+      {
+        "ssid": "MyCharterWiFice-5G",
+        "bssid": "a0:63:91:e2:84:cd",
+        "level": -71
+      },
+      {
+        "ssid": "Alpha Fedora Dorito NITROUS",
+        "bssid": "00:90:4c:03:21:23",
+        "level": -72
+      },
+      {
+        "ssid": "MyCharterWiFic9-5G",
+        "bssid": "2c:30:33:55:42:c8",
+        "level": -83
+      },
+      {
+        "ssid": "Chinatown 5GHz",
+        "bssid": "ac:9e:17:b0:5c:ac",
+        "level": -85
+      },
+      {
+        "ssid": "jmmckinney-5GHz-2",
+        "bssid": "c0:56:27:b8:41:9f",
+        "level": -89
+      },
+      {
+        "ssid": "",
+        "bssid": "fa:8f:ca:79:cf:66",
+        "level": -89
+      },
+      {
+        "ssid": "NETGEAR31",
+        "bssid": "50:6a:03:c7:96:e8",
+        "level": -91
+      }
+    ]
+  },
+  {
+    "time": "15-04-2017 06:20:35",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "15-04-2017 06:20:35",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "15-04-2017 06:20:35",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "15-04-2017 06:20:35",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "15-04-2017 06:20:35",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "15-04-2017 06:20:35",
+    "location": {
+      "latitude": 42.2705597,
+      "longitude": -71.812335
+    }
+  },
+  {
+    "time": "15-04-2017 06:21:26",
+    "wifi": [
+      {
+        "ssid": "Alpha Fedora Dorito NITROUS",
+        "bssid": "10:c3:7b:51:67:1c",
+        "level": -41
+      },
+      {
+        "ssid": "MyCharterWiFice-5G",
+        "bssid": "a0:63:91:e2:84:cd",
+        "level": -71
+      },
+      {
+        "ssid": "Alpha Fedora Dorito NITROUS",
+        "bssid": "00:90:4c:03:21:23",
+        "level": -72
+      },
+      {
+        "ssid": "MyCharterWiFic9-5G",
+        "bssid": "2c:30:33:55:42:c8",
+        "level": -83
+      },
+      {
+        "ssid": "Andrea",
+        "bssid": "e0:91:f5:ef:37:ea",
+        "level": -84
+      },
+      {
+        "ssid": "Chinatown 5GHz",
+        "bssid": "ac:9e:17:b0:5c:ac",
+        "level": -86
+      },
+      {
+        "ssid": "ikikereiki",
+        "bssid": "08:62:66:c0:49:44",
+        "level": -87
+      },
+      {
+        "ssid": "jmmckinney-5GHz-2",
+        "bssid": "c0:56:27:b8:41:9f",
+        "level": -89
+      },
+      {
+        "ssid": "",
+        "bssid": "fa:8f:ca:79:cf:66",
+        "level": -89
+      },
+      {
+        "ssid": "NETGEAR31",
+        "bssid": "50:6a:03:c7:96:e8",
+        "level": -91
+      }
+    ]
+  },
+  {
+    "time": "15-04-2017 06:21:26",
+    "usageEvents": []
+  },
+  {
+    "time": "15-04-2017 06:21:26",
+    "location": {
+      "latitude": 42.2705597,
+      "longitude": -71.812335
+    }
+  },
+  {
+    "time": "15-04-2017 06:21:26",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "15-04-2017 06:21:26",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "15-04-2017 06:21:26",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "15-04-2017 06:21:26",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "15-04-2017 06:21:26",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "15-04-2017 06:22:00",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "15-04-2017 06:22:00",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "15-04-2017 06:22:00",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "15-04-2017 06:22:00",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "15-04-2017 06:22:00",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  }
+]

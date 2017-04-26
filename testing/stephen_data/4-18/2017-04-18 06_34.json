@@ -1,0 +1,455 @@
+[
+  {
+    "time": "18-04-2017 06:34:32",
+    "usageEvents": []
+  },
+  {
+    "time": "18-04-2017 06:34:32",
+    "wifi": [
+      {
+        "ssid": "Alpha Fedora Dorito",
+        "bssid": "10:c3:7b:51:67:18",
+        "level": -31
+      },
+      {
+        "ssid": "Alpha Fedora Dorito NITROUS",
+        "bssid": "10:c3:7b:51:67:1c",
+        "level": -41
+      },
+      {
+        "ssid": "MyCharterWiFice-2G",
+        "bssid": "a0:63:91:e2:84:ce",
+        "level": -54
+      },
+      {
+        "ssid": "Alpha Fedora Dorito",
+        "bssid": "e0:3f:49:ec:00:13",
+        "level": -60
+      },
+      {
+        "ssid": "Chinatown",
+        "bssid": "ac:9e:17:b0:5c:a8",
+        "level": -70
+      },
+      {
+        "ssid": "Alpha Fedora Dorito NITROUS",
+        "bssid": "00:90:4c:03:21:23",
+        "level": -72
+      },
+      {
+        "ssid": "MyCharterWiFice-5G",
+        "bssid": "a0:63:91:e2:84:cd",
+        "level": -73
+      },
+      {
+        "ssid": "WPI187",
+        "bssid": "c0:c1:c0:cc:fc:7b",
+        "level": -76
+      },
+      {
+        "ssid": "MyCharterWiFic9-5G",
+        "bssid": "2c:30:33:55:42:c8",
+        "level": -82
+      },
+      {
+        "ssid": "DIRECT-m0-FireTV_1b73",
+        "bssid": "ae:63:be:f4:13:c7",
+        "level": -83
+      },
+      {
+        "ssid": "NINI",
+        "bssid": "00:18:01:96:eb:c5",
+        "level": -84
+      },
+      {
+        "ssid": "MyCharterWiFi4e-5G",
+        "bssid": "a0:63:91:42:0f:4d",
+        "level": -85
+      },
+      {
+        "ssid": "Chinatown 5GHz",
+        "bssid": "ac:9e:17:b0:5c:ac",
+        "level": -87
+      },
+      {
+        "ssid": "NETGEAR31",
+        "bssid": "50:6a:03:c7:96:e8",
+        "level": -87
+      },
+      {
+        "ssid": "Bill Wi the Science Fi",
+        "bssid": "e8:fc:af:7b:0f:31",
+        "level": -88
+      },
+      {
+        "ssid": "64FL2_2.4",
+        "bssid": "20:aa:4b:6d:41:f5",
+        "level": -88
+      },
+      {
+        "ssid": "DIRECT-roku-050-D098F3",
+        "bssid": "94:e9:79:4f:c3:e3",
+        "level": -88
+      },
+      {
+        "ssid": "",
+        "bssid": "fa:8f:ca:3b:bb:8d",
+        "level": -89
+      },
+      {
+        "ssid": "MyCharterWiFi28-2G",
+        "bssid": "80:37:73:ce:fa:28",
+        "level": -89
+      },
+      {
+        "ssid": "TP-LINK_667CA8",
+        "bssid": "30:b5:c2:66:7c:a8",
+        "level": -90
+      },
+      {
+        "ssid": "jmmckinney",
+        "bssid": "20:aa:4b:f8:a8:47",
+        "level": -91
+      },
+      {
+        "ssid": "D.E.R",
+        "bssid": "48:f8:b3:ea:96:d0",
+        "level": -91
+      },
+      {
+        "ssid": "HP-Print-C0-Officejet 4630",
+        "bssid": "28:80:23:f5:b8:c0",
+        "level": -92
+      }
+    ]
+  },
+  {
+    "time": "18-04-2017 06:34:32",
+    "location": {
+      "latitude": 42.2707822,
+      "longitude": -71.8118717
+    }
+  },
+  {
+    "time": "18-04-2017 06:34:32",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "18-04-2017 06:34:32",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "18-04-2017 06:34:32",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "18-04-2017 06:34:32",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "18-04-2017 06:34:32",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "18-04-2017 06:35:32",
+    "wifi": [
+      {
+        "ssid": "Alpha Fedora Dorito",
+        "bssid": "10:c3:7b:51:67:18",
+        "level": -32
+      },
+      {
+        "ssid": "Alpha Fedora Dorito NITROUS",
+        "bssid": "10:c3:7b:51:67:1c",
+        "level": -41
+      },
+      {
+        "ssid": "Alpha Fedora Dorito",
+        "bssid": "e0:3f:49:ec:00:13",
+        "level": -60
+      },
+      {
+        "ssid": "MyCharterWiFice-2G",
+        "bssid": "a0:63:91:e2:84:ce",
+        "level": -60
+      },
+      {
+        "ssid": "Chinatown",
+        "bssid": "ac:9e:17:b0:5c:a8",
+        "level": -67
+      },
+      {
+        "ssid": "Alpha Fedora Dorito NITROUS",
+        "bssid": "00:90:4c:03:21:23",
+        "level": -72
+      },
+      {
+        "ssid": "MyCharterWiFice-5G",
+        "bssid": "a0:63:91:e2:84:cd",
+        "level": -73
+      },
+      {
+        "ssid": "jmmckinney-2",
+        "bssid": "c0:56:27:b8:41:9e",
+        "level": -75
+      },
+      {
+        "ssid": "WPI187",
+        "bssid": "c0:c1:c0:cc:fc:7b",
+        "level": -77
+      },
+      {
+        "ssid": "",
+        "bssid": "ae:63:be:f4:13:c7",
+        "level": -82
+      },
+      {
+        "ssid": "MyCharterWiFic9-5G",
+        "bssid": "2c:30:33:55:42:c8",
+        "level": -83
+      },
+      {
+        "ssid": "DIRECT-m0-FireTV_1b73",
+        "bssid": "ae:63:be:f4:13:c7",
+        "level": -83
+      },
+      {
+        "ssid": "D.E.R",
+        "bssid": "48:f8:b3:ea:96:d0",
+        "level": -86
+      },
+      {
+        "ssid": "Chinatown 5GHz",
+        "bssid": "ac:9e:17:b0:5c:ac",
+        "level": -88
+      },
+      {
+        "ssid": "TP-LINK_667CA8",
+        "bssid": "30:b5:c2:66:7c:a8",
+        "level": -88
+      },
+      {
+        "ssid": "Sever643",
+        "bssid": "48:f8:b3:09:ab:31",
+        "level": -89
+      },
+      {
+        "ssid": "Sever643-guest",
+        "bssid": "48:f8:b3:09:ab:33",
+        "level": -90
+      }
+    ]
+  },
+  {
+    "time": "18-04-2017 06:35:32",
+    "usageEvents": []
+  },
+  {
+    "time": "18-04-2017 06:35:32",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "18-04-2017 06:35:32",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "18-04-2017 06:35:32",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "18-04-2017 06:35:32",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "18-04-2017 06:35:32",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "18-04-2017 06:35:32",
+    "location": {
+      "latitude": 42.2703948,
+      "longitude": -71.8120107
+    }
+  },
+  {
+    "time": "18-04-2017 06:36:32",
+    "wifi": [
+      {
+        "ssid": "Alpha Fedora Dorito",
+        "bssid": "10:c3:7b:51:67:18",
+        "level": -32
+      },
+      {
+        "ssid": "Alpha Fedora Dorito NITROUS",
+        "bssid": "10:c3:7b:51:67:1c",
+        "level": -41
+      },
+      {
+        "ssid": "Alpha Fedora Dorito",
+        "bssid": "e0:3f:49:ec:00:13",
+        "level": -59
+      },
+      {
+        "ssid": "Chinatown",
+        "bssid": "ac:9e:17:b0:5c:a8",
+        "level": -66
+      },
+      {
+        "ssid": "Alpha Fedora Dorito NITROUS",
+        "bssid": "00:90:4c:03:21:23",
+        "level": -72
+      },
+      {
+        "ssid": "MyCharterWiFice-5G",
+        "bssid": "a0:63:91:e2:84:cd",
+        "level": -73
+      },
+      {
+        "ssid": "jmmckinney-2",
+        "bssid": "c0:56:27:b8:41:9e",
+        "level": -75
+      },
+      {
+        "ssid": "WPI187",
+        "bssid": "c0:c1:c0:cc:fc:7b",
+        "level": -76
+      },
+      {
+        "ssid": "MyCharterWiFice-2G",
+        "bssid": "a0:63:91:e2:84:ce",
+        "level": -77
+      },
+      {
+        "ssid": "",
+        "bssid": "ae:63:be:f4:13:c7",
+        "level": -82
+      },
+      {
+        "ssid": "MyCharterWiFic9-5G",
+        "bssid": "2c:30:33:55:42:c8",
+        "level": -83
+      },
+      {
+        "ssid": "DIRECT-m0-FireTV_1b73",
+        "bssid": "ae:63:be:f4:13:c7",
+        "level": -83
+      },
+      {
+        "ssid": "D.E.R",
+        "bssid": "48:f8:b3:ea:96:d0",
+        "level": -86
+      },
+      {
+        "ssid": "Chinatown 5GHz",
+        "bssid": "ac:9e:17:b0:5c:ac",
+        "level": -87
+      },
+      {
+        "ssid": "MySpectrumWiFi38-2G",
+        "bssid": "48:83:c7:cd:4c:3e",
+        "level": -87
+      },
+      {
+        "ssid": "TP-LINK_667CA8",
+        "bssid": "30:b5:c2:66:7c:a8",
+        "level": -90
+      },
+      {
+        "ssid": "ASUS101",
+        "bssid": "40:16:7e:eb:61:a8",
+        "level": -92
+      }
+    ]
+  },
+  {
+    "time": "18-04-2017 06:36:32",
+    "usageEvents": []
+  },
+  {
+    "time": "18-04-2017 06:36:32",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "18-04-2017 06:36:32",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "18-04-2017 06:36:32",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "18-04-2017 06:36:32",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "18-04-2017 06:36:32",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "18-04-2017 06:36:32",
+    "location": {
+      "latitude": 42.2703948,
+      "longitude": -71.8120107
+    }
+  }
+]

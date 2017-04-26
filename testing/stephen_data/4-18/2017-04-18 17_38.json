@@ -1,0 +1,741 @@
+[
+  {
+    "time": "18-04-2017 05:38:56",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "18-04-2017 05:38:56",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "18-04-2017 05:38:56",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "18-04-2017 05:38:56",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "18-04-2017 05:38:56",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "18-04-2017 05:39:41",
+    "usageEvents": []
+  },
+  {
+    "time": "18-04-2017 05:39:41",
+    "wifi": [
+      {
+        "ssid": "NETGEAR79",
+        "bssid": "a0:63:91:49:f0:47",
+        "level": -77
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:27:76:70",
+        "level": -79
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:27:76:72",
+        "level": -79
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:27:76:71",
+        "level": -79
+      },
+      {
+        "ssid": "MySpectrumWiFi2a-5G",
+        "bssid": "2c:30:33:cb:b6:28",
+        "level": -82
+      },
+      {
+        "ssid": "MyCharterWiFi42-5G",
+        "bssid": "e8:fc:af:93:63:41",
+        "level": -82
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:2b:a7:d0",
+        "level": -84
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:29:66:f3",
+        "level": -84
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:29:66:f1",
+        "level": -84
+      },
+      {
+        "ssid": "ArmSaltSprinkle",
+        "bssid": "a0:63:91:2e:56:31",
+        "level": -84
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:2c:e9:f2",
+        "level": -85
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:29:66:f0",
+        "level": -85
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:29:66:f2",
+        "level": -85
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:2c:e9:f0",
+        "level": -86
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:2c:e9:f3",
+        "level": -86
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:2c:e9:f1",
+        "level": -86
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:10:8a:23",
+        "level": -86
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:0f:af:31",
+        "level": -86
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:2b:a7:d4",
+        "level": -87
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:b4:c3",
+        "level": -87
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:0f:af:30",
+        "level": -87
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:0f:af:32",
+        "level": -87
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:27:76:61",
+        "level": -88
+      },
+      {
+        "ssid": "MySpectrumWiFi85-5G",
+        "bssid": "84:a4:23:f1:08:8c",
+        "level": -88
+      },
+      {
+        "ssid": "hideyokidshideyoWiFi",
+        "bssid": "b0:b2:8f:7b:a0:a7",
+        "level": -88
+      },
+      {
+        "ssid": "MyCharterWiFic0-2G",
+        "bssid": "a4:2b:8c:9c:59:c0",
+        "level": -88
+      },
+      {
+        "ssid": "NETGEAR79-5G",
+        "bssid": "a0:63:91:49:f0:46",
+        "level": -89
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:10:8a:33",
+        "level": -90
+      },
+      {
+        "ssid": "MySpectrumWiFic8-5G",
+        "bssid": "b0:b2:8f:7a:95:cf",
+        "level": -90
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:c8:03",
+        "level": -90
+      }
+    ]
+  },
+  {
+    "time": "18-04-2017 05:39:41",
+    "location": {
+      "latitude": 42.2728232,
+      "longitude": -71.807994
+    }
+  },
+  {
+    "time": "18-04-2017 05:40:05",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "18-04-2017 05:40:05",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "18-04-2017 05:40:05",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "18-04-2017 05:40:05",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "18-04-2017 05:40:05",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "18-04-2017 05:40:20",
+    "usageEvents": []
+  },
+  {
+    "time": "18-04-2017 05:40:20",
+    "wifi": [
+      {
+        "ssid": "NETGEAR26",
+        "bssid": "b0:7f:b9:fd:4d:91",
+        "level": -57
+      },
+      {
+        "ssid": "Hollyweed",
+        "bssid": "a0:63:91:2e:56:32",
+        "level": -67
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:2c:e9:f0",
+        "level": -70
+      },
+      {
+        "ssid": "NETGEAR26-5G",
+        "bssid": "b0:7f:b9:fd:4d:93",
+        "level": -71
+      },
+      {
+        "ssid": "MyCharterWiFi10-2G",
+        "bssid": "e8:fc:af:95:af:10",
+        "level": -71
+      },
+      {
+        "ssid": "WWFD",
+        "bssid": "6c:b0:ce:bc:3c:8f",
+        "level": -72
+      },
+      {
+        "ssid": "ArmSaltSprinkle",
+        "bssid": "a0:63:91:2e:56:31",
+        "level": -74
+      },
+      {
+        "ssid": "MySpectrumWiFic8-2G",
+        "bssid": "b0:b2:8f:7a:95:ce",
+        "level": -75
+      },
+      {
+        "ssid": "shipmate_5",
+        "bssid": "1e:ab:c0:81:36:10",
+        "level": -77
+      },
+      {
+        "ssid": "WWFD-5G",
+        "bssid": "6c:b0:ce:bc:3c:8e",
+        "level": -78
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:27:76:70",
+        "level": -79
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:27:76:72",
+        "level": -79
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:27:76:71",
+        "level": -79
+      },
+      {
+        "ssid": "NETGEAR95",
+        "bssid": "44:94:fc:98:fb:70",
+        "level": -80
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "18:64:72:37:c8:30",
+        "level": -83
+      },
+      {
+        "ssid": "MySpectrumWiFi50-5G",
+        "bssid": "48:83:c7:cd:b8:57",
+        "level": -84
+      },
+      {
+        "ssid": "The Goat House 5G",
+        "bssid": "40:c7:29:49:e1:cb",
+        "level": -85
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:0f:af:31",
+        "level": -86
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:0f:af:30",
+        "level": -87
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:0f:af:32",
+        "level": -87
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "ac:a3:1e:f3:3b:10",
+        "level": -87
+      },
+      {
+        "ssid": "DIRECT-P3-FireTV_1e6e",
+        "bssid": "6a:37:e9:f4:00:00",
+        "level": -87
+      },
+      {
+        "ssid": "drop it like a hot spot_5Ghz",
+        "bssid": "48:f8:b3:d0:bb:dd",
+        "level": -87
+      },
+      {
+        "ssid": "I Hope WiFi Notices Me-5G",
+        "bssid": "c0:ff:d4:7d:95:32",
+        "level": -88
+      },
+      {
+        "ssid": "MySpectrumWiFi60-2G",
+        "bssid": "b0:b2:8f:7c:3e:66",
+        "level": -89
+      },
+      {
+        "ssid": "MyCharterWiFi74-2G",
+        "bssid": "c4:04:15:97:b2:74",
+        "level": -90
+      },
+      {
+        "ssid": "SPACEBALLS THE NETWORK",
+        "bssid": "60:e3:27:b7:82:f2",
+        "level": -90
+      },
+      {
+        "ssid": "NETGEAR77",
+        "bssid": "04:a1:51:a0:63:b0",
+        "level": -93
+      }
+    ]
+  },
+  {
+    "time": "18-04-2017 05:40:20",
+    "location": {
+      "latitude": 42.2728232,
+      "longitude": -71.807994
+    }
+  },
+  {
+    "time": "18-04-2017 05:41:17",
+    "usageEvents": []
+  },
+  {
+    "time": "18-04-2017 05:41:17",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "18-04-2017 05:41:17",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "18-04-2017 05:41:17",
+    "wifi": [
+      {
+        "ssid": "SPACEBALLS THE NETWORK",
+        "bssid": "60:e3:27:b7:82:f2",
+        "level": -68
+      },
+      {
+        "ssid": "Ayo Technology",
+        "bssid": "48:f8:b3:fd:88:0a",
+        "level": -70
+      },
+      {
+        "ssid": "Ayo Technology-guest",
+        "bssid": "4a:f8:b3:fd:88:0b",
+        "level": -70
+      },
+      {
+        "ssid": "1616",
+        "bssid": "10:da:43:8f:1b:04",
+        "level": -71
+      },
+      {
+        "ssid": "1616",
+        "bssid": "10:da:43:8f:1b:05",
+        "level": -72
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "ac:a3:1e:f3:38:10",
+        "level": -77
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "ac:a3:1e:f3:38:12",
+        "level": -78
+      },
+      {
+        "ssid": "Ayo Technology_5GHz",
+        "bssid": "48:f8:b3:fd:88:0b",
+        "level": -78
+      },
+      {
+        "ssid": "VIZIO",
+        "bssid": "00:19:9d:4d:37:dd",
+        "level": -79
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "ac:a3:1e:f3:38:11",
+        "level": -80
+      },
+      {
+        "ssid": "VIZIO HD",
+        "bssid": "00:19:9d:4d:37:dc",
+        "level": -82
+      },
+      {
+        "ssid": "2 Trowbridge Bigger",
+        "bssid": "14:91:82:10:c9:a4",
+        "level": -83
+      },
+      {
+        "ssid": "165HL1_5G",
+        "bssid": "9c:5c:8e:b9:9a:4c",
+        "level": -83
+      },
+      {
+        "ssid": "Dope Apartment 2G",
+        "bssid": "08:3e:5d:8c:2a:4e",
+        "level": -83
+      },
+      {
+        "ssid": "",
+        "bssid": "d8:96:85:7e:3c:c5",
+        "level": -83
+      },
+      {
+        "ssid": "MySpectrumWiFi95-5G",
+        "bssid": "84:a4:23:f1:6c:9c",
+        "level": -84
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "ac:a3:1e:f3:3c:d0",
+        "level": -84
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "ac:a3:1e:f3:3c:d2",
+        "level": -84
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "ac:a3:1e:f3:38:02",
+        "level": -84
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "ac:a3:1e:f3:38:01",
+        "level": -84
+      },
+      {
+        "ssid": "MySpectrumWiFied-5G",
+        "bssid": "84:a4:23:f1:69:f4",
+        "level": -85
+      },
+      {
+        "ssid": "RambunctiousRapier5G",
+        "bssid": "30:5a:3a:71:43:c4",
+        "level": -85
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "ac:a3:1e:f3:3c:d1",
+        "level": -85
+      },
+      {
+        "ssid": "Highland 157 ",
+        "bssid": "a0:63:91:42:0e:3f",
+        "level": -86
+      },
+      {
+        "ssid": "ZZFOK78",
+        "bssid": "46:d9:e7:f8:09:31",
+        "level": -87
+      },
+      {
+        "ssid": "thehamburgerproject_5",
+        "bssid": "c4:39:3a:82:71:d8",
+        "level": -87
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "ac:a3:1e:f3:3c:30",
+        "level": -88
+      },
+      {
+        "ssid": "NETGEAR65-5G",
+        "bssid": "a0:63:91:21:0f:72",
+        "level": -88
+      },
+      {
+        "ssid": "drop it like a hot spot_5Ghz",
+        "bssid": "48:f8:b3:d0:bb:dd",
+        "level": -89
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "ac:a3:1e:f3:3c:32",
+        "level": -89
+      },
+      {
+        "ssid": "Pikachu",
+        "bssid": "e0:46:9a:84:c1:ba",
+        "level": -89
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "ac:a3:1e:f3:3c:31",
+        "level": -89
+      },
+      {
+        "ssid": "HP-Print-97-Deskjet 3510 series",
+        "bssid": "2c:59:e5:c6:7c:97",
+        "level": -90
+      }
+    ]
+  },
+  {
+    "time": "18-04-2017 05:41:17",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "18-04-2017 05:41:18",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "18-04-2017 05:41:18",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "18-04-2017 05:41:18",
+    "location": {
+      "latitude": 42.2712501,
+      "longitude": -71.8083505
+    }
+  },
+  {
+    "time": "18-04-2017 05:42:07",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "18-04-2017 05:42:07",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "18-04-2017 05:42:07",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "18-04-2017 05:42:07",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "18-04-2017 05:42:07",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "18-04-2017 05:42:18",
+    "usageEvents": []
+  },
+  {
+    "time": "18-04-2017 05:42:18",
+    "wifi": [
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:2c:ea:d0",
+        "level": -83
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "ac:a3:1e:f3:3c:31",
+        "level": -87
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "ac:a3:1e:f3:3c:32",
+        "level": -88
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "ac:a3:1e:f3:3c:30",
+        "level": -89
+      }
+    ]
+  },
+  {
+    "time": "18-04-2017 05:42:18",
+    "location": {
+      "latitude": 42.2712501,
+      "longitude": -71.8083505
+    }
+  },
+  {
+    "time": "18-04-2017 05:43:02",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "18-04-2017 05:43:02",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "18-04-2017 05:43:02",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "18-04-2017 05:43:02",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "18-04-2017 05:43:02",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  }
+]

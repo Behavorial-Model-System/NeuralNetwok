@@ -1,0 +1,652 @@
+[
+  {
+    "time": "20-04-2017 05:13:08",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "20-04-2017 05:13:08",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "20-04-2017 05:13:08",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "20-04-2017 05:13:08",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "20-04-2017 05:13:08",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "20-04-2017 05:14:00",
+    "wifi": [
+      {
+        "ssid": "Capelli Avanti-5G",
+        "bssid": "a0:63:91:eb:f5:0d",
+        "level": -54
+      },
+      {
+        "ssid": "Fix-Public",
+        "bssid": "88:dc:96:45:85:7b",
+        "level": -56
+      },
+      {
+        "ssid": "Capelli Avanti",
+        "bssid": "a0:63:91:eb:f5:0e",
+        "level": -58
+      },
+      {
+        "ssid": "dd-wrt",
+        "bssid": "00:1d:73:de:ca:1e",
+        "level": -68
+      },
+      {
+        "ssid": "DIRECT-roku-129-A38008",
+        "bssid": "c8:ff:28:c3:df:03",
+        "level": -72
+      },
+      {
+        "ssid": "Escape_Games",
+        "bssid": "e4:95:6e:13:a4:e0",
+        "level": -79
+      },
+      {
+        "ssid": "NETGEAR26",
+        "bssid": "74:44:01:86:aa:30",
+        "level": -81
+      },
+      {
+        "ssid": "HP-Print-4A-Officejet Pro 8630",
+        "bssid": "fc:3f:db:6b:a2:4a",
+        "level": -83
+      },
+      {
+        "ssid": "DIRECT-C8-HP ENVY 5540 series",
+        "bssid": "5c:b9:01:33:a1:c9",
+        "level": -83
+      },
+      {
+        "ssid": "wirelessmg",
+        "bssid": "2c:36:f8:0e:e2:21",
+        "level": -86
+      },
+      {
+        "ssid": "wirelessmn",
+        "bssid": "2c:36:f8:42:26:c0",
+        "level": -86
+      },
+      {
+        "ssid": "phreesia",
+        "bssid": "10:6f:3f:64:0a:a3",
+        "level": -88
+      }
+    ]
+  },
+  {
+    "time": "20-04-2017 05:14:00",
+    "usageEvents": [
+      {
+        "name": "com.android.chrome",
+        "time": 1492722795962,
+        "type": 2
+      },
+      {
+        "name": "com.android.chrome",
+        "time": 1492722805560,
+        "type": 1
+      },
+      {
+        "name": "com.google.android.gm",
+        "time": 1492722816990,
+        "type": 7
+      }
+    ]
+  },
+  {
+    "time": "20-04-2017 05:14:00",
+    "location": {
+      "latitude": 42.2764794,
+      "longitude": -71.8011229
+    }
+  },
+  {
+    "time": "20-04-2017 05:14:21",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "20-04-2017 05:14:21",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "20-04-2017 05:14:21",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "20-04-2017 05:14:21",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "20-04-2017 05:14:21",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "20-04-2017 05:15:08",
+    "wifi": [
+      {
+        "ssid": "Fix-Public",
+        "bssid": "88:dc:96:45:85:7b",
+        "level": -54
+      },
+      {
+        "ssid": "Capelli Avanti-5G",
+        "bssid": "a0:63:91:eb:f5:0d",
+        "level": -56
+      },
+      {
+        "ssid": "Capelli Avanti",
+        "bssid": "a0:63:91:eb:f5:0e",
+        "level": -57
+      },
+      {
+        "ssid": "DIRECT-roku-129-A38008",
+        "bssid": "c8:ff:28:c3:df:03",
+        "level": -67
+      },
+      {
+        "ssid": "dd-wrt",
+        "bssid": "00:1d:73:de:ca:1e",
+        "level": -79
+      },
+      {
+        "ssid": "HP84CB6F",
+        "bssid": "02:2c:dc:c2:4b:54",
+        "level": -80
+      },
+      {
+        "ssid": "NETGEAR26",
+        "bssid": "74:44:01:86:aa:30",
+        "level": -82
+      },
+      {
+        "ssid": "Escape_Games",
+        "bssid": "e4:95:6e:13:a4:e0",
+        "level": -82
+      },
+      {
+        "ssid": "DIRECT-YwM262x 282x Series",
+        "bssid": "02:15:99:e5:c7:f2",
+        "level": -82
+      },
+      {
+        "ssid": "DIRECT-C8-HP ENVY 5540 series",
+        "bssid": "5c:b9:01:33:a1:c9",
+        "level": -83
+      },
+      {
+        "ssid": "wirelessmg",
+        "bssid": "2c:36:f8:42:26:c1",
+        "level": -84
+      },
+      {
+        "ssid": "HP-Print-4A-Officejet Pro 8630",
+        "bssid": "fc:3f:db:6b:a2:4a",
+        "level": -86
+      },
+      {
+        "ssid": "wirelessmn",
+        "bssid": "2c:36:f8:42:26:c0",
+        "level": -88
+      },
+      {
+        "ssid": "phreesia",
+        "bssid": "10:6f:3f:64:0a:a3",
+        "level": -88
+      }
+    ]
+  },
+  {
+    "time": "20-04-2017 05:15:08",
+    "usageEvents": []
+  },
+  {
+    "time": "20-04-2017 05:15:09",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "20-04-2017 05:15:09",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "20-04-2017 05:15:09",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "20-04-2017 05:15:09",
+    "location": {
+      "latitude": 42.2764794,
+      "longitude": -71.8011229
+    }
+  },
+  {
+    "time": "20-04-2017 05:15:09",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "20-04-2017 05:15:09",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "20-04-2017 05:16:00",
+    "wifi": [
+      {
+        "ssid": "Capelli Avanti-5G",
+        "bssid": "a0:63:91:eb:f5:0d",
+        "level": -53
+      },
+      {
+        "ssid": "Capelli Avanti",
+        "bssid": "a0:63:91:eb:f5:0e",
+        "level": -54
+      },
+      {
+        "ssid": "Fix-Public",
+        "bssid": "88:dc:96:45:85:7b",
+        "level": -58
+      },
+      {
+        "ssid": "Fix-Function",
+        "bssid": "8a:dc:96:45:83:2c",
+        "level": -63
+      },
+      {
+        "ssid": "Fix-Public",
+        "bssid": "88:dc:96:45:83:2c",
+        "level": -63
+      },
+      {
+        "ssid": "DIRECT-roku-129-A38008",
+        "bssid": "c8:ff:28:c3:df:03",
+        "level": -67
+      },
+      {
+        "ssid": "",
+        "bssid": "c8:ff:28:c3:df:03",
+        "level": -71
+      },
+      {
+        "ssid": "Fix-Function",
+        "bssid": "8a:dc:96:45:83:2f",
+        "level": -72
+      },
+      {
+        "ssid": "Fix-Public",
+        "bssid": "88:dc:96:45:83:2f",
+        "level": -72
+      },
+      {
+        "ssid": "NETGEAR26",
+        "bssid": "74:44:01:86:aa:30",
+        "level": -78
+      },
+      {
+        "ssid": "dd-wrt",
+        "bssid": "00:1d:73:de:ca:1e",
+        "level": -79
+      },
+      {
+        "ssid": "DIRECT-YwM262x 282x Series",
+        "bssid": "02:15:99:e5:c7:f2",
+        "level": -80
+      },
+      {
+        "ssid": "HP84CB6F",
+        "bssid": "02:2c:dc:c2:4b:54",
+        "level": -80
+      },
+      {
+        "ssid": "Fix-Function",
+        "bssid": "8a:dc:96:45:85:7e",
+        "level": -81
+      },
+      {
+        "ssid": "Fix-Public",
+        "bssid": "88:dc:96:45:85:7e",
+        "level": -81
+      },
+      {
+        "ssid": "wirelessmg",
+        "bssid": "2c:36:f8:0e:e2:21",
+        "level": -86
+      },
+      {
+        "ssid": "HP-Print-4A-Officejet Pro 8630",
+        "bssid": "fc:3f:db:6b:a2:4a",
+        "level": -88
+      },
+      {
+        "ssid": "wirelessmn",
+        "bssid": "2c:36:f8:42:26:c0",
+        "level": -88
+      },
+      {
+        "ssid": "wirelessmg",
+        "bssid": "2c:36:f8:42:26:c1",
+        "level": -88
+      },
+      {
+        "ssid": "NETGEAR59",
+        "bssid": "a0:04:60:01:17:cf",
+        "level": -88
+      },
+      {
+        "ssid": "wirelessmn",
+        "bssid": "2c:36:f8:42:26:cf",
+        "level": -90
+      },
+      {
+        "ssid": "DIRECT-C8-HP ENVY 5540 series",
+        "bssid": "5c:b9:01:33:a1:c9",
+        "level": -91
+      },
+      {
+        "ssid": "Escape_Games",
+        "bssid": "e4:95:6e:13:a4:e0",
+        "level": -93
+      }
+    ]
+  },
+  {
+    "time": "20-04-2017 05:16:00",
+    "usageEvents": []
+  },
+  {
+    "time": "20-04-2017 05:16:00",
+    "location": {
+      "latitude": 42.27642,
+      "longitude": -71.8012155
+    }
+  },
+  {
+    "time": "20-04-2017 05:16:45",
+    "wifi": [
+      {
+        "ssid": "Capelli Avanti-5G",
+        "bssid": "a0:63:91:eb:f5:0d",
+        "level": -54
+      },
+      {
+        "ssid": "Capelli Avanti",
+        "bssid": "a0:63:91:eb:f5:0e",
+        "level": -54
+      },
+      {
+        "ssid": "Fix-Public",
+        "bssid": "88:dc:96:45:85:7b",
+        "level": -56
+      },
+      {
+        "ssid": "Fix-Function",
+        "bssid": "8a:dc:96:45:83:2c",
+        "level": -68
+      },
+      {
+        "ssid": "Fix-Public",
+        "bssid": "88:dc:96:45:83:2c",
+        "level": -68
+      },
+      {
+        "ssid": "",
+        "bssid": "c8:ff:28:c3:df:03",
+        "level": -71
+      },
+      {
+        "ssid": "dd-wrt",
+        "bssid": "00:1d:73:de:ca:1e",
+        "level": -75
+      },
+      {
+        "ssid": "Fix-Function",
+        "bssid": "8a:dc:96:45:83:2f",
+        "level": -76
+      },
+      {
+        "ssid": "Fix-Public",
+        "bssid": "88:dc:96:45:83:2f",
+        "level": -77
+      },
+      {
+        "ssid": "NETGEAR26",
+        "bssid": "74:44:01:86:aa:30",
+        "level": -78
+      },
+      {
+        "ssid": "",
+        "bssid": "00:1e:e5:7a:6b:e6",
+        "level": -80
+      },
+      {
+        "ssid": "HP84CB6F",
+        "bssid": "02:2c:dc:c2:4b:54",
+        "level": -81
+      },
+      {
+        "ssid": "DIRECT-YwM262x 282x Series",
+        "bssid": "02:15:99:e5:c7:f2",
+        "level": -82
+      },
+      {
+        "ssid": "Fix-Function",
+        "bssid": "8a:dc:96:45:85:7e",
+        "level": -82
+      },
+      {
+        "ssid": "Fix-Public",
+        "bssid": "88:dc:96:45:85:7e",
+        "level": -83
+      },
+      {
+        "ssid": "wirelessmg",
+        "bssid": "2c:36:f8:42:26:c1",
+        "level": -85
+      },
+      {
+        "ssid": "wirelessmg",
+        "bssid": "2c:36:f8:0e:e2:21",
+        "level": -86
+      },
+      {
+        "ssid": "HP-Print-4A-Officejet Pro 8630",
+        "bssid": "fc:3f:db:6b:a2:4a",
+        "level": -88
+      },
+      {
+        "ssid": "wirelessmn",
+        "bssid": "2c:36:f8:42:26:c0",
+        "level": -88
+      },
+      {
+        "ssid": "NETGEAR59",
+        "bssid": "a0:04:60:01:17:cf",
+        "level": -89
+      },
+      {
+        "ssid": "wirelessmn",
+        "bssid": "2c:36:f8:42:26:cf",
+        "level": -90
+      },
+      {
+        "ssid": "DIRECT-C8-HP ENVY 5540 series",
+        "bssid": "5c:b9:01:33:a1:c9",
+        "level": -91
+      },
+      {
+        "ssid": "Escape_Games",
+        "bssid": "e4:95:6e:13:a4:e0",
+        "level": -93
+      }
+    ]
+  },
+  {
+    "time": "20-04-2017 05:16:45",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "20-04-2017 05:16:45",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "20-04-2017 05:16:45",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "20-04-2017 05:16:45",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "20-04-2017 05:16:45",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "20-04-2017 05:16:45",
+    "usageEvents": [
+      {
+        "name": "com.android.chrome",
+        "time": 1492723001784,
+        "type": 2
+      }
+    ]
+  },
+  {
+    "time": "20-04-2017 05:16:45",
+    "location": {
+      "latitude": 42.27642,
+      "longitude": -71.8012155
+    }
+  },
+  {
+    "time": "20-04-2017 05:17:09",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "20-04-2017 05:17:09",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "20-04-2017 05:17:09",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "20-04-2017 05:17:09",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "20-04-2017 05:17:09",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "20-04-2017 05:18:08",
+    "usageEvents": []
+  }
+]

@@ -1,0 +1,5358 @@
+[
+  {
+    "time": "12-04-2017 08:08:37",
+    "wifi": [
+      {
+        "ssid": "ClickShare- M.I.T. Room",
+        "bssid": "28:24:ff:16:3d:62",
+        "level": -89
+      },
+      {
+        "ssid": "ClickShare-1871994105",
+        "bssid": "28:24:ff:16:4f:fa",
+        "level": -90
+      },
+      {
+        "ssid": "FiOS-G5K2G",
+        "bssid": "c8:a7:0a:c2:98:c6",
+        "level": -92
+      },
+      {
+        "ssid": "redroof",
+        "bssid": "80:2a:a8:11:86:b0",
+        "level": -93
+      },
+      {
+        "ssid": "HP-Print-43-Officejet Pro 8620",
+        "bssid": "58:20:b1:5f:8a:43",
+        "level": -94
+      }
+    ]
+  },
+  {
+    "time": "12-04-2017 08:08:37",
+    "usageEvents": [
+      {
+        "name": "org.telegram.messenger",
+        "time": 1492041908213,
+        "type": 2
+      },
+      {
+        "name": "org.telegram.messenger",
+        "time": 1492041946476,
+        "type": 7
+      },
+      {
+        "name": "org.telegram.messenger",
+        "time": 1492041950248,
+        "type": 1
+      },
+      {
+        "name": "org.telegram.messenger",
+        "time": 1492041992516,
+        "type": 2
+      },
+      {
+        "name": "com.android.systemui",
+        "time": 1492041992524,
+        "type": 1
+      },
+      {
+        "name": "com.android.systemui",
+        "time": 1492041995007,
+        "type": 2
+      },
+      {
+        "name": "org.telegram.messenger",
+        "time": 1492041995029,
+        "type": 1
+      },
+      {
+        "name": "com.facebook.orca",
+        "time": 1492042061551,
+        "type": 7
+      },
+      {
+        "name": "android",
+        "time": 1492042061571,
+        "type": 7
+      }
+    ]
+  },
+  {
+    "time": "12-04-2017 08:08:37",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "12-04-2017 08:08:37",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "12-04-2017 08:08:37",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "12-04-2017 08:08:37",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "12-04-2017 08:08:37",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "12-04-2017 08:08:37",
+    "location": {
+      "latitude": 42.2895819,
+      "longitude": -71.5621024
+    }
+  },
+  {
+    "time": "12-04-2017 08:08:44",
+    "usageStats": [
+      {
+        "name": "com.sec.android.providers.mapcon",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 25842,
+        "foreground": 0
+      },
+      {
+        "name": "com.skype.raider",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 25842,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.youtube",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 1491487790971,
+        "foreground": 0
+      },
+      {
+        "name": "com.sec.android.app.chromecustomizations",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 23318,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.providers.telephony",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 25842,
+        "foreground": 0
+      },
+      {
+        "name": "com.sec.android.providers.iwlansettings",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 25842,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.googlequicksearchbox",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 1491522616137,
+        "foreground": 193499
+      },
+      {
+        "name": "com.android.providers.calendar",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 25842,
+        "foreground": 0
+      },
+      {
+        "name": "net.dheera.wearcamera",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 25842,
+        "foreground": 0
+      },
+      {
+        "name": "org.telegram.messenger",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 1491522341293,
+        "foreground": 232135
+      },
+      {
+        "name": "com.android.providers.media",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 25842,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.apps.docs.editors.docs",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 21294,
+        "foreground": 0
+      },
+      {
+        "name": "jp.konami.duellinks",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 1491450522146,
+        "foreground": 0
+      },
+      {
+        "name": "com.teslacoilsw.launcher",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 1491522731154,
+        "foreground": 1539137
+      },
+      {
+        "name": "com.samsung.android.provider.shootingmodeprovider",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 18954,
+        "foreground": 0
+      },
+      {
+        "name": "com.sec.android.app.wfdbroker",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 25842,
+        "foreground": 0
+      },
+      {
+        "name": "org.simalliance.openmobileapi.service",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 25842,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.android.easysetup",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 18954,
+        "foreground": 0
+      },
+      {
+        "name": "com.whatsapp",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 1491504987467,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.mms.service",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 25842,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.apps.docs.editors.sheets",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 21294,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.providers.downloads",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 1491446725080,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.android.qconnect",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 1491512244700,
+        "foreground": 1744
+      },
+      {
+        "name": "com.google.android.apps.messaging",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 1491511114543,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.ucs.agent.boot",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 25842,
+        "foreground": 0
+      },
+      {
+        "name": "com.sec.android.Kies",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 18954,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.faceservice",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 25842,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.android.email.provider",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 25842,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.android.MtpApplication",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 1491445680118,
+        "foreground": 340
+      },
+      {
+        "name": "slide.watchFrenzy.premium",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 25842,
+        "foreground": 0
+      },
+      {
+        "name": "com.sec.android.emergencymode.service",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 18954,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.defcontainer",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 23318,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.android.slinkcloud",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 18954,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.vending",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 1491511061039,
+        "foreground": 0
+      },
+      {
+        "name": "com.dsi.ant.service.socket",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 18954,
+        "foreground": 0
+      },
+      {
+        "name": "com.microsoft.skydrive",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 1491522412323,
+        "foreground": 6614
+      },
+      {
+        "name": "com.sec.android.provider.badge",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 18954,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.SMT",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 18954,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.cmh",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 25842,
+        "foreground": 0
+      },
+      {
+        "name": "android",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 1491520293909,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.hs20provider",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 18954,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.nfc",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 25842,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.stk",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 25842,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.android.app.memo",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 1491504989460,
+        "foreground": 179933
+      },
+      {
+        "name": "com.microsoft.office.onenote",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 25842,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.gm",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 1491522339069,
+        "foreground": 111337
+      },
+      {
+        "name": "com.android.calendar",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 1491445575615,
+        "foreground": 2196
+      },
+      {
+        "name": "com.samsung.android.providers.context",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 25842,
+        "foreground": 0
+      },
+      {
+        "name": "com.sec.android.gallery3d",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 18954,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.music",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 25842,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.printspooler",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 18954,
+        "foreground": 0
+      },
+      {
+        "name": "com.htc.vivephoneservice",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 25842,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.storyservice",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 25842,
+        "foreground": 0
+      },
+      {
+        "name": "com.sec.app.samsungprintservice",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 1491512316320,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.stk2",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 25842,
+        "foreground": 0
+      },
+      {
+        "name": "com.sec.smartcard.manager",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 25842,
+        "foreground": 0
+      },
+      {
+        "name": "com.twitter.android",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 1491504986273,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.apps.docs",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 1491487514060,
+        "foreground": 58769
+      },
+      {
+        "name": "com.google.android.apps.maps",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 1491511832618,
+        "foreground": 0
+      },
+      {
+        "name": "com.dsi.ant.plugins.antplus",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 25842,
+        "foreground": 0
+      },
+      {
+        "name": "com.sec.android.app.simsettingmgr",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 25842,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.server.telecom",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 1491509461184,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.syncadapters.contacts",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 25842,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.keychain",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 18954,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.gm.exchange",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 25842,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.chrome",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 1491522560961,
+        "foreground": 1550163
+      },
+      {
+        "name": "com.samsung.android.themecenter",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 25842,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.android.sm",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 1491501884270,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.gms",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 1491512873410,
+        "foreground": 1847
+      },
+      {
+        "name": "com.google.android.gsf",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 25842,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.partnersetup",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 23318,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.packageinstaller",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 1491512870709,
+        "foreground": 6201
+      },
+      {
+        "name": "com.sec.android.app.myfiles",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 1491513255550,
+        "foreground": 1477974
+      },
+      {
+        "name": "com.samsung.android.allshare.service.fileshare",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 18954,
+        "foreground": 0
+      },
+      {
+        "name": "com.spotify.music",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 25842,
+        "foreground": 0
+      },
+      {
+        "name": "com.facebook.katana",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 1491513717551,
+        "foreground": 31376
+      },
+      {
+        "name": "com.samsung.enhanceservice",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 25842,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.android.beaconmanager",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 25842,
+        "foreground": 0
+      },
+      {
+        "name": "com.sec.enterprise.mdm.services.simpin",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 25842,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.ucs.ucspinpad",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 25842,
+        "foreground": 0
+      },
+      {
+        "name": "com.facebook.orca",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 1491520297519,
+        "foreground": 115193
+      },
+      {
+        "name": "com.amazon.mShop.android",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 25842,
+        "foreground": 0
+      },
+      {
+        "name": "com.sec.android.app.shealth",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 1491494189275,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.android.scloud",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 25842,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.settings",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 1491522379713,
+        "foreground": 10565
+      },
+      {
+        "name": "com.sec.android.app.bluetoothtest",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 25842,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.android.sm.policy",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 18954,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.wearable.app",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 25842,
+        "foreground": 0
+      },
+      {
+        "name": "com.wssnps",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 18954,
+        "foreground": 0
+      },
+      {
+        "name": "com.andrewshu.android.reddit",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 1491523218953,
+        "foreground": 7119874
+      },
+      {
+        "name": "com.google.android.keep",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 1491522463275,
+        "foreground": 17844
+      },
+      {
+        "name": "com.google.android.talk",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 23318,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.dcmservice",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 25842,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.phone",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 25842,
+        "foreground": 0
+      },
+      {
+        "name": "com.appjel.fixburgerbar",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 1491522719886,
+        "foreground": 70801
+      },
+      {
+        "name": "com.android.providers.userdictionary",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 25842,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.android.sm.provider",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 25842,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.systemui",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 1491522732147,
+        "foreground": 45329
+      },
+      {
+        "name": "com.ebay.mobile",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 1491522339069,
+        "foreground": 0
+      },
+      {
+        "name": "com.sec.android.app.SamsungContentsAgent",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 25842,
+        "foreground": 0
+      },
+      {
+        "name": "com.groupme.android",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 1491511110877,
+        "foreground": 278374
+      },
+      {
+        "name": "com.samsung.android.allshare.service.mediashare",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 18954,
+        "foreground": 0
+      },
+      {
+        "name": "com.sec.android.provider.emergencymode",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 18954,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.play.games",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 25842,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.android.fingerprint.service",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 23318,
+        "foreground": 0
+      },
+      {
+        "name": "com.sec.android.app.camera",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 1491516346852,
+        "foreground": 7935
+      },
+      {
+        "name": "com.android.bluetooth",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 25842,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.providers.contacts",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 25842,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.ipservice",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 25842,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.sec.android.application.csc",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 25842,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.android.coreapps",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 25842,
+        "foreground": 0
+      },
+      {
+        "name": "com.bms.mqp.behaviormodelsystem",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 1491522722508,
+        "foreground": 1172351
+      },
+      {
+        "name": "com.google.android.inputmethod.latin",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 23318,
+        "foreground": 0
+      },
+      {
+        "name": "com.amazon.kindle",
+        "first": 1491436825842,
+        "last": 1491523218953,
+        "recent": 25842,
+        "foreground": 0
+      },
+      {
+        "name": "com.sec.android.providers.mapcon",
+        "first": 1491523218954,
+        "last": 1491609611398,
+        "recent": 13582,
+        "foreground": 0
+      },
+      {
+        "name": "com.skype.raider",
+        "first": 1491523218954,
+        "last": 1491609611398,
+        "recent": 18954,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.youtube",
+        "first": 1491523218954,
+        "last": 1491609611398,
+        "recent": 1491603370957,
+        "foreground": 482293
+      },
+      {
+        "name": "com.sec.android.app.chromecustomizations",
+        "first": 1491523218954,
+        "last": 1491609611398,
+        "recent": 18954,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.providers.telephony",
+        "first": 1491523218954,
+        "last": 1491609611398,
+        "recent": 13582,
+        "foreground": 0
+      },
+      {
+        "name": "com.sec.android.providers.iwlansettings",
+        "first": 1491523218954,
+        "last": 1491609611398,
+        "recent": 13582,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.googlequicksearchbox",
+        "first": 1491523218954,
+        "last": 1491609611398,
+        "recent": 1491603520737,
+        "foreground": 242504
+      },
+      {
+        "name": "com.android.providers.calendar",
+        "first": 1491523218954,
+        "last": 1491609611398,
+        "recent": 18954,
+        "foreground": 0
+      },
+      {
+        "name": "net.dheera.wearcamera",
+        "first": 1491523218954,
+        "last": 1491609611398,
+        "recent": 18954,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.providers.media",
+        "first": 1491523218954,
+        "last": 1491609611398,
+        "recent": 16455,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.apps.docs.editors.docs",
+        "first": 1491523218954,
+        "last": 1491609611398,
+        "recent": 18954,
+        "foreground": 0
+      },
+      {
+        "name": "com.teslacoilsw.launcher",
+        "first": 1491523218954,
+        "last": 1491609611398,
+        "recent": 1491608558829,
+        "foreground": 824598
+      },
+      {
+        "name": "com.samsung.android.provider.shootingmodeprovider",
+        "first": 1491523218954,
+        "last": 1491609611398,
+        "recent": 16455,
+        "foreground": 0
+      },
+      {
+        "name": "com.sec.android.app.wfdbroker",
+        "first": 1491523218954,
+        "last": 1491609611398,
+        "recent": 13582,
+        "foreground": 0
+      },
+      {
+        "name": "org.simalliance.openmobileapi.service",
+        "first": 1491523218954,
+        "last": 1491609611398,
+        "recent": 13582,
+        "foreground": 0
+      },
+      {
+        "name": "com.whatsapp",
+        "first": 1491523218954,
+        "last": 1491609611398,
+        "recent": 1491608902312,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.mms.service",
+        "first": 1491523218954,
+        "last": 1491609611398,
+        "recent": 13582,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.apps.docs.editors.sheets",
+        "first": 1491523218954,
+        "last": 1491609611398,
+        "recent": 18954,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.providers.downloads",
+        "first": 1491523218954,
+        "last": 1491609611398,
+        "recent": 16455,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.android.qconnect",
+        "first": 1491523218954,
+        "last": 1491609611398,
+        "recent": 13582,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.ucs.agent.boot",
+        "first": 1491523218954,
+        "last": 1491609611398,
+        "recent": 13582,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.faceservice",
+        "first": 1491523218954,
+        "last": 1491609611398,
+        "recent": 13582,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.android.email.provider",
+        "first": 1491523218954,
+        "last": 1491609611398,
+        "recent": 18954,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.android.MtpApplication",
+        "first": 1491523218954,
+        "last": 1491609611398,
+        "recent": 16455,
+        "foreground": 0
+      },
+      {
+        "name": "slide.watchFrenzy.premium",
+        "first": 1491523218954,
+        "last": 1491609611398,
+        "recent": 18954,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.defcontainer",
+        "first": 1491523218954,
+        "last": 1491609611398,
+        "recent": 16455,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.vending",
+        "first": 1491523218954,
+        "last": 1491609611398,
+        "recent": 1491608902312,
+        "foreground": 0
+      },
+      {
+        "name": "com.microsoft.skydrive",
+        "first": 1491523218954,
+        "last": 1491609611398,
+        "recent": 16455,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.SMT",
+        "first": 1491523218954,
+        "last": 1491609611398,
+        "recent": 18954,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.cmh",
+        "first": 1491523218954,
+        "last": 1491609611398,
+        "recent": 13582,
+        "foreground": 0
+      },
+      {
+        "name": "android",
+        "first": 1491523218954,
+        "last": 1491609611398,
+        "recent": 1491585129352,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.hs20provider",
+        "first": 1491523218954,
+        "last": 1491609611398,
+        "recent": 13582,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.nfc",
+        "first": 1491523218954,
+        "last": 1491609611398,
+        "recent": 13582,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.stk",
+        "first": 1491523218954,
+        "last": 1491609611398,
+        "recent": 13582,
+        "foreground": 0
+      },
+      {
+        "name": "com.microsoft.office.onenote",
+        "first": 1491523218954,
+        "last": 1491609611398,
+        "recent": 18954,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.gm",
+        "first": 1491523218954,
+        "last": 1491609611398,
+        "recent": 1491585146343,
+        "foreground": 66881
+      },
+      {
+        "name": "com.melodis.midomiMusicIdentifier.freemium",
+        "first": 1491523218954,
+        "last": 1491609611398,
+        "recent": 1491603366663,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.calendar",
+        "first": 1491523218954,
+        "last": 1491609611398,
+        "recent": 1491580215455,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.android.providers.context",
+        "first": 1491523218954,
+        "last": 1491609611398,
+        "recent": 13582,
+        "foreground": 0
+      },
+      {
+        "name": "com.sec.android.gallery3d",
+        "first": 1491523218954,
+        "last": 1491609611398,
+        "recent": 16455,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.music",
+        "first": 1491523218954,
+        "last": 1491609611398,
+        "recent": 16455,
+        "foreground": 0
+      },
+      {
+        "name": "com.htc.vivephoneservice",
+        "first": 1491523218954,
+        "last": 1491609611398,
+        "recent": 13582,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.storyservice",
+        "first": 1491523218954,
+        "last": 1491609611398,
+        "recent": 13582,
+        "foreground": 0
+      },
+      {
+        "name": "com.dominospizza",
+        "first": 1491523218954,
+        "last": 1491609611398,
+        "recent": 1491588891445,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.stk2",
+        "first": 1491523218954,
+        "last": 1491609611398,
+        "recent": 13582,
+        "foreground": 0
+      },
+      {
+        "name": "com.sec.smartcard.manager",
+        "first": 1491523218954,
+        "last": 1491609611398,
+        "recent": 13582,
+        "foreground": 0
+      },
+      {
+        "name": "com.twitter.android",
+        "first": 1491523218954,
+        "last": 1491609611398,
+        "recent": 1491583076436,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.apps.docs",
+        "first": 1491523218954,
+        "last": 1491609611398,
+        "recent": 1491530218830,
+        "foreground": 26731
+      },
+      {
+        "name": "com.google.android.apps.maps",
+        "first": 1491523218954,
+        "last": 1491609611398,
+        "recent": 1491608904461,
+        "foreground": 0
+      },
+      {
+        "name": "com.dsi.ant.plugins.antplus",
+        "first": 1491523218954,
+        "last": 1491609611398,
+        "recent": 13582,
+        "foreground": 0
+      },
+      {
+        "name": "com.sec.android.app.simsettingmgr",
+        "first": 1491523218954,
+        "last": 1491609611398,
+        "recent": 13582,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.syncadapters.contacts",
+        "first": 1491523218954,
+        "last": 1491609611398,
+        "recent": 18954,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.gm.exchange",
+        "first": 1491523218954,
+        "last": 1491609611398,
+        "recent": 16455,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.chrome",
+        "first": 1491523218954,
+        "last": 1491609611398,
+        "recent": 1491609611398,
+        "foreground": 5835291
+      },
+      {
+        "name": "com.samsung.android.themecenter",
+        "first": 1491523218954,
+        "last": 1491609611398,
+        "recent": 13582,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.android.sm",
+        "first": 1491523218954,
+        "last": 1491609611398,
+        "recent": 1491581409487,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.gms",
+        "first": 1491523218954,
+        "last": 1491609611398,
+        "recent": 1491585206723,
+        "foreground": 12750
+      },
+      {
+        "name": "com.google.android.gsf",
+        "first": 1491523218954,
+        "last": 1491609611398,
+        "recent": 18954,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.partnersetup",
+        "first": 1491523218954,
+        "last": 1491609611398,
+        "recent": 18954,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.packageinstaller",
+        "first": 1491523218954,
+        "last": 1491609611398,
+        "recent": 1491585192817,
+        "foreground": 10420
+      },
+      {
+        "name": "com.google.android.calendar",
+        "first": 1491523218954,
+        "last": 1491609611398,
+        "recent": 1491580215455,
+        "foreground": 0
+      },
+      {
+        "name": "com.spotify.music",
+        "first": 1491523218954,
+        "last": 1491609611398,
+        "recent": 18954,
+        "foreground": 0
+      },
+      {
+        "name": "com.facebook.katana",
+        "first": 1491523218954,
+        "last": 1491609611398,
+        "recent": 13582,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.enhanceservice",
+        "first": 1491523218954,
+        "last": 1491609611398,
+        "recent": 13582,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.providers.partnerbookmarks",
+        "first": 1491523218954,
+        "last": 1491609611398,
+        "recent": 18954,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.android.beaconmanager",
+        "first": 1491523218954,
+        "last": 1491609611398,
+        "recent": 13582,
+        "foreground": 0
+      },
+      {
+        "name": "com.sec.enterprise.mdm.services.simpin",
+        "first": 1491523218954,
+        "last": 1491609611398,
+        "recent": 13582,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.ucs.ucspinpad",
+        "first": 1491523218954,
+        "last": 1491609611398,
+        "recent": 13582,
+        "foreground": 0
+      },
+      {
+        "name": "com.facebook.orca",
+        "first": 1491523218954,
+        "last": 1491609611398,
+        "recent": 1491604762347,
+        "foreground": 3002057
+      },
+      {
+        "name": "com.amazon.mShop.android",
+        "first": 1491523218954,
+        "last": 1491609611398,
+        "recent": 18954,
+        "foreground": 0
+      },
+      {
+        "name": "com.sec.android.app.shealth",
+        "first": 1491523218954,
+        "last": 1491609611398,
+        "recent": 1491593311076,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.android.scloud",
+        "first": 1491523218954,
+        "last": 1491609611398,
+        "recent": 18954,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.settings",
+        "first": 1491523218954,
+        "last": 1491609611398,
+        "recent": 1491585243700,
+        "foreground": 11902
+      },
+      {
+        "name": "com.sec.android.app.bluetoothtest",
+        "first": 1491523218954,
+        "last": 1491609611398,
+        "recent": 13582,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.wearable.app",
+        "first": 1491523218954,
+        "last": 1491609611398,
+        "recent": 13582,
+        "foreground": 0
+      },
+      {
+        "name": "com.andrewshu.android.reddit",
+        "first": 1491523218954,
+        "last": 1491609611398,
+        "recent": 1491601911504,
+        "foreground": 3452922
+      },
+      {
+        "name": "com.google.android.keep",
+        "first": 1491523218954,
+        "last": 1491609611398,
+        "recent": 18954,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.dcmservice",
+        "first": 1491523218954,
+        "last": 1491609611398,
+        "recent": 13582,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.phone",
+        "first": 1491523218954,
+        "last": 1491609611398,
+        "recent": 13582,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.providers.userdictionary",
+        "first": 1491523218954,
+        "last": 1491609611398,
+        "recent": 18954,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.android.sm.provider",
+        "first": 1491523218954,
+        "last": 1491609611398,
+        "recent": 18954,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.systemui",
+        "first": 1491523218954,
+        "last": 1491609611398,
+        "recent": 1491608903809,
+        "foreground": 38744
+      },
+      {
+        "name": "com.sec.android.app.SamsungContentsAgent",
+        "first": 1491523218954,
+        "last": 1491609611398,
+        "recent": 13582,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.play.games",
+        "first": 1491523218954,
+        "last": 1491609611398,
+        "recent": 16455,
+        "foreground": 0
+      },
+      {
+        "name": "com.sec.android.app.camera",
+        "first": 1491523218954,
+        "last": 1491609611398,
+        "recent": 1491576825539,
+        "foreground": 1984
+      },
+      {
+        "name": "com.google.android.apps.magazines",
+        "first": 1491523218954,
+        "last": 1491609611398,
+        "recent": 1491585115629,
+        "foreground": 26110
+      },
+      {
+        "name": "com.android.bluetooth",
+        "first": 1491523218954,
+        "last": 1491609611398,
+        "recent": 13582,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.providers.contacts",
+        "first": 1491523218954,
+        "last": 1491609611398,
+        "recent": 18954,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.ipservice",
+        "first": 1491523218954,
+        "last": 1491609611398,
+        "recent": 13582,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.sec.android.application.csc",
+        "first": 1491523218954,
+        "last": 1491609611398,
+        "recent": 13582,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.android.coreapps",
+        "first": 1491523218954,
+        "last": 1491609611398,
+        "recent": 18954,
+        "foreground": 0
+      },
+      {
+        "name": "com.snapchat.android",
+        "first": 1491523218954,
+        "last": 1491609611398,
+        "recent": 1491601995533,
+        "foreground": 59033
+      },
+      {
+        "name": "com.bms.mqp.behaviormodelsystem",
+        "first": 1491523218954,
+        "last": 1491609611398,
+        "recent": 1491585856258,
+        "foreground": 639246
+      },
+      {
+        "name": "com.google.android.inputmethod.latin",
+        "first": 1491523218954,
+        "last": 1491609611398,
+        "recent": 18954,
+        "foreground": 0
+      },
+      {
+        "name": "com.amazon.kindle",
+        "first": 1491523218954,
+        "last": 1491609611398,
+        "recent": 18954,
+        "foreground": 0
+      },
+      {
+        "name": "com.sec.android.providers.mapcon",
+        "first": 1491609611399,
+        "last": 1491696005052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.skype.raider",
+        "first": 1491609611399,
+        "last": 1491696005052,
+        "recent": 11399,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.youtube",
+        "first": 1491609611399,
+        "last": 1491696005052,
+        "recent": 1491693644440,
+        "foreground": 2130579
+      },
+      {
+        "name": "com.sec.android.app.chromecustomizations",
+        "first": 1491609611399,
+        "last": 1491696005052,
+        "recent": 11399,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.providers.telephony",
+        "first": 1491609611399,
+        "last": 1491696005052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.sec.android.providers.iwlansettings",
+        "first": 1491609611399,
+        "last": 1491696005052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.googlequicksearchbox",
+        "first": 1491609611399,
+        "last": 1491696005052,
+        "recent": 1491687093602,
+        "foreground": 219964
+      },
+      {
+        "name": "com.android.providers.calendar",
+        "first": 1491609611399,
+        "last": 1491696005052,
+        "recent": 11399,
+        "foreground": 0
+      },
+      {
+        "name": "net.dheera.wearcamera",
+        "first": 1491609611399,
+        "last": 1491696005052,
+        "recent": 11399,
+        "foreground": 0
+      },
+      {
+        "name": "org.telegram.messenger",
+        "first": 1491609611399,
+        "last": 1491696005052,
+        "recent": 1491691306200,
+        "foreground": 42903
+      },
+      {
+        "name": "com.android.providers.media",
+        "first": 1491609611399,
+        "last": 1491696005052,
+        "recent": 7064,
+        "foreground": 0
+      },
+      {
+        "name": "com.teslacoilsw.launcher",
+        "first": 1491609611399,
+        "last": 1491696005052,
+        "recent": 1491694110661,
+        "foreground": 616352
+      },
+      {
+        "name": "com.sec.android.app.wfdbroker",
+        "first": 1491609611399,
+        "last": 1491696005052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "org.simalliance.openmobileapi.service",
+        "first": 1491609611399,
+        "last": 1491696005052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.whatsapp",
+        "first": 1491609611399,
+        "last": 1491696005052,
+        "recent": 1491691844511,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.mms.service",
+        "first": 1491609611399,
+        "last": 1491696005052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.providers.downloads",
+        "first": 1491609611399,
+        "last": 1491696005052,
+        "recent": 7064,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.android.qconnect",
+        "first": 1491609611399,
+        "last": 1491696005052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.apps.messaging",
+        "first": 1491609611399,
+        "last": 1491696005052,
+        "recent": 1491676941700,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.ucs.agent.boot",
+        "first": 1491609611399,
+        "last": 1491696005052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.android.email.provider",
+        "first": 1491609611399,
+        "last": 1491696005052,
+        "recent": 11399,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.android.MtpApplication",
+        "first": 1491609611399,
+        "last": 1491696005052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "slide.watchFrenzy.premium",
+        "first": 1491609611399,
+        "last": 1491696005052,
+        "recent": 11399,
+        "foreground": 0
+      },
+      {
+        "name": "com.atasoglou.autostartandstay",
+        "first": 1491609611399,
+        "last": 1491696005052,
+        "recent": 1491694054565,
+        "foreground": 59235
+      },
+      {
+        "name": "com.android.defcontainer",
+        "first": 1491609611399,
+        "last": 1491696005052,
+        "recent": 7064,
+        "foreground": 0
+      },
+      {
+        "name": "com.sec.android.daemonapp",
+        "first": 1491609611399,
+        "last": 1491696005052,
+        "recent": 11399,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.vending",
+        "first": 1491609611399,
+        "last": 1491696005052,
+        "recent": 1491695172191,
+        "foreground": 108355
+      },
+      {
+        "name": "com.microsoft.skydrive",
+        "first": 1491609611399,
+        "last": 1491696005052,
+        "recent": 7064,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.SMT",
+        "first": 1491609611399,
+        "last": 1491696005052,
+        "recent": 11399,
+        "foreground": 0
+      },
+      {
+        "name": "android",
+        "first": 1491609611399,
+        "last": 1491696005052,
+        "recent": 1491693644971,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.hs20provider",
+        "first": 1491609611399,
+        "last": 1491696005052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "me.lyft.android",
+        "first": 1491609611399,
+        "last": 1491696005052,
+        "recent": 1491677884792,
+        "foreground": 409258
+      },
+      {
+        "name": "com.android.nfc",
+        "first": 1491609611399,
+        "last": 1491696005052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.stk",
+        "first": 1491609611399,
+        "last": 1491696005052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.microsoft.office.onenote",
+        "first": 1491609611399,
+        "last": 1491696005052,
+        "recent": 11399,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.gm",
+        "first": 1491609611399,
+        "last": 1491696005052,
+        "recent": 1491691645154,
+        "foreground": 59163
+      },
+      {
+        "name": "com.samsung.android.providers.context",
+        "first": 1491609611399,
+        "last": 1491696005052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.music",
+        "first": 1491609611399,
+        "last": 1491696005052,
+        "recent": 7064,
+        "foreground": 0
+      },
+      {
+        "name": "com.htc.vivephoneservice",
+        "first": 1491609611399,
+        "last": 1491696005052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.stk2",
+        "first": 1491609611399,
+        "last": 1491696005052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.sec.smartcard.manager",
+        "first": 1491609611399,
+        "last": 1491696005052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.apps.maps",
+        "first": 1491609611399,
+        "last": 1491696005052,
+        "recent": 1491674737899,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.android.weather",
+        "first": 1491609611399,
+        "last": 1491696005052,
+        "recent": 1491684741962,
+        "foreground": 3786
+      },
+      {
+        "name": "com.dsi.ant.plugins.antplus",
+        "first": 1491609611399,
+        "last": 1491696005052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.sec.android.app.simsettingmgr",
+        "first": 1491609611399,
+        "last": 1491696005052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.syncadapters.contacts",
+        "first": 1491609611399,
+        "last": 1491696005052,
+        "recent": 11399,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.gm.exchange",
+        "first": 1491609611399,
+        "last": 1491696005052,
+        "recent": 7064,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.chrome",
+        "first": 1491609611399,
+        "last": 1491696005052,
+        "recent": 1491686394533,
+        "foreground": 2894332
+      },
+      {
+        "name": "com.samsung.android.themecenter",
+        "first": 1491609611399,
+        "last": 1491696005052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.android.sm",
+        "first": 1491609611399,
+        "last": 1491696005052,
+        "recent": 1491668773215,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.gms",
+        "first": 1491609611399,
+        "last": 1491696005052,
+        "recent": 1491676932200,
+        "foreground": 1168
+      },
+      {
+        "name": "com.google.android.gsf",
+        "first": 1491609611399,
+        "last": 1491696005052,
+        "recent": 11399,
+        "foreground": 0
+      },
+      {
+        "name": "tv.twitch.android.app",
+        "first": 1491609611399,
+        "last": 1491696005052,
+        "recent": 1491686311940,
+        "foreground": 1014311
+      },
+      {
+        "name": "com.google.android.partnersetup",
+        "first": 1491609611399,
+        "last": 1491696005052,
+        "recent": 11399,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.packageinstaller",
+        "first": 1491609611399,
+        "last": 1491696005052,
+        "recent": 1491677025174,
+        "foreground": 3296
+      },
+      {
+        "name": "com.spotify.music",
+        "first": 1491609611399,
+        "last": 1491696005052,
+        "recent": 11399,
+        "foreground": 0
+      },
+      {
+        "name": "com.ubercab",
+        "first": 1491609611399,
+        "last": 1491696005052,
+        "recent": 1491678135724,
+        "foreground": 283145
+      },
+      {
+        "name": "com.facebook.katana",
+        "first": 1491609611399,
+        "last": 1491696005052,
+        "recent": 1491689571112,
+        "foreground": 146946
+      },
+      {
+        "name": "com.android.providers.partnerbookmarks",
+        "first": 1491609611399,
+        "last": 1491696005052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.android.beaconmanager",
+        "first": 1491609611399,
+        "last": 1491696005052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.sec.enterprise.mdm.services.simpin",
+        "first": 1491609611399,
+        "last": 1491696005052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.ucs.ucspinpad",
+        "first": 1491609611399,
+        "last": 1491696005052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.facebook.orca",
+        "first": 1491609611399,
+        "last": 1491696005052,
+        "recent": 1491692283103,
+        "foreground": 2006059
+      },
+      {
+        "name": "com.amazon.mShop.android",
+        "first": 1491609611399,
+        "last": 1491696005052,
+        "recent": 11399,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.android.scloud",
+        "first": 1491609611399,
+        "last": 1491696005052,
+        "recent": 11399,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.settings",
+        "first": 1491609611399,
+        "last": 1491696005052,
+        "recent": 1491694104034,
+        "foreground": 8693
+      },
+      {
+        "name": "com.sec.android.app.bluetoothtest",
+        "first": 1491609611399,
+        "last": 1491696005052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.wearable.app",
+        "first": 1491609611399,
+        "last": 1491696005052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.andrewshu.android.reddit",
+        "first": 1491609611399,
+        "last": 1491696005052,
+        "recent": 1491695774366,
+        "foreground": 5209617
+      },
+      {
+        "name": "com.google.android.keep",
+        "first": 1491609611399,
+        "last": 1491696005052,
+        "recent": 11399,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.phone",
+        "first": 1491609611399,
+        "last": 1491696005052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.appjel.fixburgerbar",
+        "first": 1491609611399,
+        "last": 1491696005052,
+        "recent": 1491687109392,
+        "foreground": 115130
+      },
+      {
+        "name": "com.android.providers.userdictionary",
+        "first": 1491609611399,
+        "last": 1491696005052,
+        "recent": 11399,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.android.sm.provider",
+        "first": 1491609611399,
+        "last": 1491696005052,
+        "recent": 11399,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.systemui",
+        "first": 1491609611399,
+        "last": 1491696005052,
+        "recent": 1491695172191,
+        "foreground": 254990
+      },
+      {
+        "name": "com.sec.android.app.SamsungContentsAgent",
+        "first": 1491609611399,
+        "last": 1491696005052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.play.games",
+        "first": 1491609611399,
+        "last": 1491696005052,
+        "recent": 7064,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.bluetooth",
+        "first": 1491609611399,
+        "last": 1491696005052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.providers.contacts",
+        "first": 1491609611399,
+        "last": 1491696005052,
+        "recent": 11399,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.sec.android.application.csc",
+        "first": 1491609611399,
+        "last": 1491696005052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.android.coreapps",
+        "first": 1491609611399,
+        "last": 1491696005052,
+        "recent": 11399,
+        "foreground": 0
+      },
+      {
+        "name": "com.snapchat.android",
+        "first": 1491609611399,
+        "last": 1491696005052,
+        "recent": 1491676787362,
+        "foreground": 12112
+      },
+      {
+        "name": "com.bms.mqp.behaviormodelsystem",
+        "first": 1491609611399,
+        "last": 1491696005052,
+        "recent": 1491694053948,
+        "foreground": 28234
+      },
+      {
+        "name": "com.google.android.inputmethod.latin",
+        "first": 1491609611399,
+        "last": 1491696005052,
+        "recent": 11399,
+        "foreground": 0
+      },
+      {
+        "name": "com.amazon.kindle",
+        "first": 1491609611399,
+        "last": 1491696005052,
+        "recent": 11399,
+        "foreground": 0
+      },
+      {
+        "name": "com.sec.android.providers.mapcon",
+        "first": 1491696005053,
+        "last": 1491782405052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.skype.raider",
+        "first": 1491696005053,
+        "last": 1491782405052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.youtube",
+        "first": 1491696005053,
+        "last": 1491782405052,
+        "recent": 1491780283467,
+        "foreground": 1737790
+      },
+      {
+        "name": "com.sec.android.app.chromecustomizations",
+        "first": 1491696005053,
+        "last": 1491782405052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.providers.telephony",
+        "first": 1491696005053,
+        "last": 1491782405052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.sec.android.providers.iwlansettings",
+        "first": 1491696005053,
+        "last": 1491782405052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.googlequicksearchbox",
+        "first": 1491696005053,
+        "last": 1491782405052,
+        "recent": 1491779514359,
+        "foreground": 33631
+      },
+      {
+        "name": "com.android.providers.calendar",
+        "first": 1491696005053,
+        "last": 1491782405052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "net.dheera.wearcamera",
+        "first": 1491696005053,
+        "last": 1491782405052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "org.telegram.messenger",
+        "first": 1491696005053,
+        "last": 1491782405052,
+        "recent": 1491750504830,
+        "foreground": 29163
+      },
+      {
+        "name": "com.android.providers.media",
+        "first": 1491696005053,
+        "last": 1491782405052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.apps.docs.editors.docs",
+        "first": 1491696005053,
+        "last": 1491782405052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.teslacoilsw.launcher",
+        "first": 1491696005053,
+        "last": 1491782405052,
+        "recent": 1491779543119,
+        "foreground": 1151248
+      },
+      {
+        "name": "com.sec.android.app.wfdbroker",
+        "first": 1491696005053,
+        "last": 1491782405052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "org.simalliance.openmobileapi.service",
+        "first": 1491696005053,
+        "last": 1491782405052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.apps.paidtasks",
+        "first": 1491696005053,
+        "last": 1491782405052,
+        "recent": 1491711454981,
+        "foreground": 14204
+      },
+      {
+        "name": "com.whatsapp",
+        "first": 1491696005053,
+        "last": 1491782405052,
+        "recent": 1491766860595,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.mms.service",
+        "first": 1491696005053,
+        "last": 1491782405052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.android2.calculator3",
+        "first": 1491696005053,
+        "last": 1491782405052,
+        "recent": 1491760218897,
+        "foreground": 1529
+      },
+      {
+        "name": "com.google.android.apps.docs.editors.sheets",
+        "first": 1491696005053,
+        "last": 1491782405052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.providers.downloads",
+        "first": 1491696005053,
+        "last": 1491782405052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.android.qconnect",
+        "first": 1491696005053,
+        "last": 1491782405052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.ucs.agent.boot",
+        "first": 1491696005053,
+        "last": 1491782405052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.faceservice",
+        "first": 1491696005053,
+        "last": 1491782405052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.apps.genie.geniewidget",
+        "first": 1491696005053,
+        "last": 1491782405052,
+        "recent": 1491780287939,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.android.email.provider",
+        "first": 1491696005053,
+        "last": 1491782405052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.android.MtpApplication",
+        "first": 1491696005053,
+        "last": 1491782405052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "slide.watchFrenzy.premium",
+        "first": 1491696005053,
+        "last": 1491782405052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.atasoglou.autostartandstay",
+        "first": 1491696005053,
+        "last": 1491782405052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.defcontainer",
+        "first": 1491696005053,
+        "last": 1491782405052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.android.slinkcloud",
+        "first": 1491696005053,
+        "last": 1491782405052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.vending",
+        "first": 1491696005053,
+        "last": 1491782405052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.microsoft.skydrive",
+        "first": 1491696005053,
+        "last": 1491782405052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.cmh",
+        "first": 1491696005053,
+        "last": 1491782405052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "android",
+        "first": 1491696005053,
+        "last": 1491782405052,
+        "recent": 1491753015093,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.nfc",
+        "first": 1491696005053,
+        "last": 1491782405052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.stk",
+        "first": 1491696005053,
+        "last": 1491782405052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.microsoft.office.onenote",
+        "first": 1491696005053,
+        "last": 1491782405052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.gm",
+        "first": 1491696005053,
+        "last": 1491782405052,
+        "recent": 1491775045752,
+        "foreground": 251330
+      },
+      {
+        "name": "com.android.calendar",
+        "first": 1491696005053,
+        "last": 1491782405052,
+        "recent": 1491753008713,
+        "foreground": 2857
+      },
+      {
+        "name": "com.samsung.android.providers.context",
+        "first": 1491696005053,
+        "last": 1491782405052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.music",
+        "first": 1491696005053,
+        "last": 1491782405052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.htc.vivephoneservice",
+        "first": 1491696005053,
+        "last": 1491782405052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.storyservice",
+        "first": 1491696005053,
+        "last": 1491782405052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.stk2",
+        "first": 1491696005053,
+        "last": 1491782405052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.sec.smartcard.manager",
+        "first": 1491696005053,
+        "last": 1491782405052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.twitter.android",
+        "first": 1491696005053,
+        "last": 1491782405052,
+        "recent": 1491750508300,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.apps.docs",
+        "first": 1491696005053,
+        "last": 1491782405052,
+        "recent": 1491775302564,
+        "foreground": 148973
+      },
+      {
+        "name": "com.dsi.ant.plugins.antplus",
+        "first": 1491696005053,
+        "last": 1491782405052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.sec.android.app.simsettingmgr",
+        "first": 1491696005053,
+        "last": 1491782405052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.syncadapters.contacts",
+        "first": 1491696005053,
+        "last": 1491782405052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.gm.exchange",
+        "first": 1491696005053,
+        "last": 1491782405052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.chrome",
+        "first": 1491696005053,
+        "last": 1491782405052,
+        "recent": 1491762484744,
+        "foreground": 295074
+      },
+      {
+        "name": "com.samsung.android.themecenter",
+        "first": 1491696005053,
+        "last": 1491782405052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.android.sm",
+        "first": 1491696005053,
+        "last": 1491782405052,
+        "recent": 1491753870422,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.gms",
+        "first": 1491696005053,
+        "last": 1491782405052,
+        "recent": 1491761554460,
+        "foreground": 14966
+      },
+      {
+        "name": "com.google.android.gsf",
+        "first": 1491696005053,
+        "last": 1491782405052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "tv.twitch.android.app",
+        "first": 1491696005053,
+        "last": 1491782405052,
+        "recent": 1491777056363,
+        "foreground": 47986
+      },
+      {
+        "name": "com.google.android.partnersetup",
+        "first": 1491696005053,
+        "last": 1491782405052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.packageinstaller",
+        "first": 1491696005053,
+        "last": 1491782405052,
+        "recent": 1491760216344,
+        "foreground": 60070
+      },
+      {
+        "name": "com.sec.android.app.myfiles",
+        "first": 1491696005053,
+        "last": 1491782405052,
+        "recent": 1491751740594,
+        "foreground": 841759
+      },
+      {
+        "name": "com.spotify.music",
+        "first": 1491696005053,
+        "last": 1491782405052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.facebook.katana",
+        "first": 1491696005053,
+        "last": 1491782405052,
+        "recent": 1491760198937,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.enhanceservice",
+        "first": 1491696005053,
+        "last": 1491782405052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.providers.partnerbookmarks",
+        "first": 1491696005053,
+        "last": 1491782405052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.android.beaconmanager",
+        "first": 1491696005053,
+        "last": 1491782405052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.sec.enterprise.mdm.services.simpin",
+        "first": 1491696005053,
+        "last": 1491782405052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.ucs.ucspinpad",
+        "first": 1491696005053,
+        "last": 1491782405052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.facebook.orca",
+        "first": 1491696005053,
+        "last": 1491782405052,
+        "recent": 1491778712894,
+        "foreground": 259126
+      },
+      {
+        "name": "com.amazon.mShop.android",
+        "first": 1491696005053,
+        "last": 1491782405052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.sec.android.app.shealth",
+        "first": 1491696005053,
+        "last": 1491782405052,
+        "recent": 1491780286899,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.android.scloud",
+        "first": 1491696005053,
+        "last": 1491782405052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.settings",
+        "first": 1491696005053,
+        "last": 1491782405052,
+        "recent": 1491714956350,
+        "foreground": 25823
+      },
+      {
+        "name": "com.sec.android.app.bluetoothtest",
+        "first": 1491696005053,
+        "last": 1491782405052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.wearable.app",
+        "first": 1491696005053,
+        "last": 1491782405052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.andrewshu.android.reddit",
+        "first": 1491696005053,
+        "last": 1491782405052,
+        "recent": 1491775255346,
+        "foreground": 5382939
+      },
+      {
+        "name": "com.infonow.bofa",
+        "first": 1491696005053,
+        "last": 1491782405052,
+        "recent": 1491760267751,
+        "foreground": 103762
+      },
+      {
+        "name": "com.google.android.keep",
+        "first": 1491696005053,
+        "last": 1491782405052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.dcmservice",
+        "first": 1491696005053,
+        "last": 1491782405052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.phone",
+        "first": 1491696005053,
+        "last": 1491782405052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.providers.userdictionary",
+        "first": 1491696005053,
+        "last": 1491782405052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.android.sm.provider",
+        "first": 1491696005053,
+        "last": 1491782405052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.systemui",
+        "first": 1491696005053,
+        "last": 1491782405052,
+        "recent": 1491780283467,
+        "foreground": 47433
+      },
+      {
+        "name": "com.facebook.appmanager",
+        "first": 1491696005053,
+        "last": 1491782405052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.sec.android.app.SamsungContentsAgent",
+        "first": 1491696005053,
+        "last": 1491782405052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.groupme.android",
+        "first": 1491696005053,
+        "last": 1491782405052,
+        "recent": 1491765336236,
+        "foreground": 53252
+      },
+      {
+        "name": "com.google.android.play.games",
+        "first": 1491696005053,
+        "last": 1491782405052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.android.fingerprint.service",
+        "first": 1491696005053,
+        "last": 1491782405052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.bluetooth",
+        "first": 1491696005053,
+        "last": 1491782405052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.providers.contacts",
+        "first": 1491696005053,
+        "last": 1491782405052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.ipservice",
+        "first": 1491696005053,
+        "last": 1491782405052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.sec.android.application.csc",
+        "first": 1491696005053,
+        "last": 1491782405052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.android.coreapps",
+        "first": 1491696005053,
+        "last": 1491782405052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.bms.mqp.behaviormodelsystem",
+        "first": 1491696005053,
+        "last": 1491782405052,
+        "recent": 1491719622696,
+        "foreground": 193283
+      },
+      {
+        "name": "com.google.android.inputmethod.latin",
+        "first": 1491696005053,
+        "last": 1491782405052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.amazon.kindle",
+        "first": 1491696005053,
+        "last": 1491782405052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.sec.android.providers.mapcon",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.skype.raider",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.youtube",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 1491832453314,
+        "foreground": 39697
+      },
+      {
+        "name": "com.sec.android.app.chromecustomizations",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.providers.telephony",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.sec.android.providers.iwlansettings",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.googlequicksearchbox",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 1491868257838,
+        "foreground": 378229
+      },
+      {
+        "name": "com.android.providers.calendar",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "net.dheera.wearcamera",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "org.telegram.messenger",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 1491858779997,
+        "foreground": 399161
+      },
+      {
+        "name": "com.android.providers.media",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.apps.docs.editors.docs",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 1491868043310,
+        "foreground": 9999
+      },
+      {
+        "name": "com.teslacoilsw.launcher",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 1491868260942,
+        "foreground": 282495
+      },
+      {
+        "name": "com.sec.android.app.wfdbroker",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.sharpened.androidfileviewer",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 1491793067322,
+        "foreground": 191307
+      },
+      {
+        "name": "org.simalliance.openmobileapi.service",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.whatsapp",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 1491832873404,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.mms.service",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.apps.docs.editors.sheets",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.providers.downloads",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.android.qconnect",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.apps.messaging",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 1491866954101,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.ucs.agent.boot",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.sec.android.Kies",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.faceservice",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.apps.genie.geniewidget",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 1491856557474,
+        "foreground": 1359
+      },
+      {
+        "name": "com.samsung.android.email.provider",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.android.MtpApplication",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "slide.watchFrenzy.premium",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.sec.android.app.samsungapps",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 1491791282118,
+        "foreground": 0
+      },
+      {
+        "name": "com.sec.android.emergencymode.service",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.defcontainer",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.Splitwise.SplitwiseMobile",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 1491796476424,
+        "foreground": 85126
+      },
+      {
+        "name": "com.samsung.android.slinkcloud",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.vending",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 1491863854497,
+        "foreground": 99634
+      },
+      {
+        "name": "com.dsi.ant.service.socket",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.microsoft.skydrive",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.sec.android.provider.badge",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.SMT",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.cmh",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "android",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 1491836139440,
+        "foreground": 8479
+      },
+      {
+        "name": "com.samsung.hs20provider",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.nfc",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.stk",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.microsoft.office.onenote",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.gm",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 1491868040128,
+        "foreground": 60812
+      },
+      {
+        "name": "com.android.calendar",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 1491868245054,
+        "foreground": 7729
+      },
+      {
+        "name": "com.samsung.android.providers.context",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.music",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.printspooler",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.htc.vivephoneservice",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.storyservice",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.stk2",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.sec.smartcard.manager",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.twitter.android",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 1491856554367,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.apps.docs",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 1491866970626,
+        "foreground": 250686
+      },
+      {
+        "name": "com.google.android.apps.maps",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 1491866884977,
+        "foreground": 0
+      },
+      {
+        "name": "com.dsi.ant.plugins.antplus",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.sec.android.app.simsettingmgr",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.server.telecom",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 1491863696449,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.syncadapters.contacts",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.keychain",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.gm.exchange",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.chrome",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 1491801041885,
+        "foreground": 294658
+      },
+      {
+        "name": "com.samsung.android.themecenter",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.android.sm",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 1491850239863,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.gms",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.gsf",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.partnersetup",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.sec.android.app.myfiles",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 1491792840928,
+        "foreground": 49906
+      },
+      {
+        "name": "com.google.android.calendar",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.spotify.music",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.facebook.katana",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 1491856554367,
+        "foreground": 293324
+      },
+      {
+        "name": "com.samsung.enhanceservice",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.providers.partnerbookmarks",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.android.beaconmanager",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.sec.enterprise.mdm.services.simpin",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.ucs.ucspinpad",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.facebook.orca",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 1491868245923,
+        "foreground": 446287
+      },
+      {
+        "name": "com.amazon.mShop.android",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.sec.android.app.shealth",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 1491851186603,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.android.scloud",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.sec.android.app.bluetoothtest",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.android.sm.policy",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.wearable.app",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.wssnps",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.andrewshu.android.reddit",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 1491866890442,
+        "foreground": 4149863
+      },
+      {
+        "name": "com.google.android.keep",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 1491864184580,
+        "foreground": 15409
+      },
+      {
+        "name": "com.samsung.dcmservice",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.phone",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.appjel.fixburgerbar",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 1491864774076,
+        "foreground": 103431
+      },
+      {
+        "name": "com.android.providers.userdictionary",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.android.sm.provider",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.systemui",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 1491868260003,
+        "foreground": 102503
+      },
+      {
+        "name": "com.sec.android.app.SamsungContentsAgent",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.groupme.android",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 1491868245423,
+        "foreground": 129511
+      },
+      {
+        "name": "com.sec.android.provider.emergencymode",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.play.games",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.android.fingerprint.service",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.apps.magazines",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 1491836144137,
+        "foreground": 1285
+      },
+      {
+        "name": "com.android.bluetooth",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.providers.contacts",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.ipservice",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.sec.android.application.csc",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.android.coreapps",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.bms.mqp.behaviormodelsystem",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 1491864341630,
+        "foreground": 97823
+      },
+      {
+        "name": "com.google.android.inputmethod.latin",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.amazon.kindle",
+        "first": 1491782405053,
+        "last": 1491868805052,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.sec.android.providers.mapcon",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 2410,
+        "foreground": 0
+      },
+      {
+        "name": "com.skype.raider",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.youtube",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 1491905465402,
+        "foreground": 135630
+      },
+      {
+        "name": "com.sec.android.app.chromecustomizations",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.providers.telephony",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 2410,
+        "foreground": 0
+      },
+      {
+        "name": "com.sec.android.providers.iwlansettings",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 2410,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.googlequicksearchbox",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 1491954756585,
+        "foreground": 144119
+      },
+      {
+        "name": "com.android.providers.calendar",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "net.dheera.wearcamera",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "org.telegram.messenger",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 1491954783732,
+        "foreground": 13322
+      },
+      {
+        "name": "com.android.providers.media",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.teslacoilsw.launcher",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 1491954770291,
+        "foreground": 345306
+      },
+      {
+        "name": "com.samsung.android.provider.shootingmodeprovider",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 2410,
+        "foreground": 0
+      },
+      {
+        "name": "com.sec.android.app.wfdbroker",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 2410,
+        "foreground": 0
+      },
+      {
+        "name": "com.tmobile.tuesdays",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 1491925431497,
+        "foreground": 65161
+      },
+      {
+        "name": "org.simalliance.openmobileapi.service",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 2410,
+        "foreground": 0
+      },
+      {
+        "name": "com.whatsapp",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 1491919237229,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.mms.service",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 2410,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.providers.downloads",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.android.qconnect",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 2410,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.apps.messaging",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 1491954030710,
+        "foreground": 35884
+      },
+      {
+        "name": "com.samsung.ucs.agent.boot",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 2410,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.faceservice",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.microsoft.office.officelens",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.apps.genie.geniewidget",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 1491942277129,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.android.email.provider",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "slide.watchFrenzy.premium",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.microsoft.office.excel",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.defcontainer",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.Splitwise.SplitwiseMobile",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 1491928360691,
+        "foreground": 50528
+      },
+      {
+        "name": "com.android.vending",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 1491950104706,
+        "foreground": 0
+      },
+      {
+        "name": "com.microsoft.skydrive",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.sec.android.providers.security",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 2410,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.SMT",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.cmh",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "android",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 1491954735228,
+        "foreground": 6626
+      },
+      {
+        "name": "com.android.contacts",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 1491944131480,
+        "foreground": 5428
+      },
+      {
+        "name": "com.samsung.hs20provider",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "me.lyft.android",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 1491954620256,
+        "foreground": 2967414
+      },
+      {
+        "name": "com.android.nfc",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 2410,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.stk",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 2410,
+        "foreground": 0
+      },
+      {
+        "name": "com.microsoft.office.onenote",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.gm",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 1491954735227,
+        "foreground": 1540862
+      },
+      {
+        "name": "com.mangamobile",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 1491943203036,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.android.providers.context",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 2410,
+        "foreground": 0
+      },
+      {
+        "name": "com.sec.android.gallery3d",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 2410,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.providers.settings",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 2410,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.music",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.htc.vivephoneservice",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 2410,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.storyservice",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.incallui",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 1491945018896,
+        "foreground": 22054
+      },
+      {
+        "name": "com.android.stk2",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 2410,
+        "foreground": 0
+      },
+      {
+        "name": "com.sec.smartcard.manager",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 2410,
+        "foreground": 0
+      },
+      {
+        "name": "com.twitter.android",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 1491947099286,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.apps.maps",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 1491954758742,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.apps.plus",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.dsi.ant.plugins.antplus",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 2410,
+        "foreground": 0
+      },
+      {
+        "name": "com.microsoft.office.word",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.sec.android.app.clockpackage",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 1491954753558,
+        "foreground": 31323
+      },
+      {
+        "name": "com.sec.android.app.simsettingmgr",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 2410,
+        "foreground": 0
+      },
+      {
+        "name": "com.microsoft.office.powerpoint",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 1491888116240,
+        "foreground": 96228
+      },
+      {
+        "name": "com.android.server.telecom",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 1491944957213,
+        "foreground": 55
+      },
+      {
+        "name": "com.google.android.syncadapters.contacts",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.gm.exchange",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.chrome",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 1491949439210,
+        "foreground": 1080166
+      },
+      {
+        "name": "com.samsung.android.themecenter",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 2410,
+        "foreground": 0
+      },
+      {
+        "name": "com.konylabs.capitalone",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 1491943454085,
+        "foreground": 309135
+      },
+      {
+        "name": "com.google.android.gms",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 1491946045317,
+        "foreground": 14514
+      },
+      {
+        "name": "com.google.android.gsf",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.partnersetup",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.packageinstaller",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 1491950354643,
+        "foreground": 3716
+      },
+      {
+        "name": "com.dsi.ant.server",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 2410,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.calendar",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.spotify.music",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.facebook.katana",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 1491935492931,
+        "foreground": 29161
+      },
+      {
+        "name": "com.samsung.enhanceservice",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.providers.partnerbookmarks",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.android.beaconmanager",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 2410,
+        "foreground": 0
+      },
+      {
+        "name": "com.sec.enterprise.mdm.services.simpin",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 2410,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.ucs.ucspinpad",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 2410,
+        "foreground": 0
+      },
+      {
+        "name": "com.facebook.orca",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 1491954569393,
+        "foreground": 522035
+      },
+      {
+        "name": "com.amazon.mShop.android",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 1491890225907,
+        "foreground": 0
+      },
+      {
+        "name": "com.sec.android.app.shealth",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 1491954737179,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.android.scloud",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.settings",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 1491954156419,
+        "foreground": 95978
+      },
+      {
+        "name": "com.sec.android.app.bluetoothtest",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 2410,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.wearable.app",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 2410,
+        "foreground": 0
+      },
+      {
+        "name": "com.andrewshu.android.reddit",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 1491955202409,
+        "foreground": 4579019
+      },
+      {
+        "name": "com.infonow.bofa",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 1491943324094,
+        "foreground": 147475
+      },
+      {
+        "name": "com.google.android.keep",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.dcmservice",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.phone",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 2410,
+        "foreground": 0
+      },
+      {
+        "name": "com.groupon",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 1491949809263,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.providers.userdictionary",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.android.sm.provider",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.systemui",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 1491954785890,
+        "foreground": 97544
+      },
+      {
+        "name": "com.sec.android.app.SamsungContentsAgent",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 2410,
+        "foreground": 0
+      },
+      {
+        "name": "com.groupme.android",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 1491942286389,
+        "foreground": 125878
+      },
+      {
+        "name": "com.google.android.play.games",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 2410,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.android.fingerprint.service",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.sec.android.app.camera",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 1491953968216,
+        "foreground": 9785
+      },
+      {
+        "name": "com.android.bluetooth",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.providers.contacts",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.ipservice",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.sec.android.application.csc",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 2410,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.captiveportallogin",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 1491946832627,
+        "foreground": 7720
+      },
+      {
+        "name": "com.samsung.android.coreapps",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.snapchat.android",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 1491947099795,
+        "foreground": 0
+      },
+      {
+        "name": "com.bms.mqp.behaviormodelsystem",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 1491954903280,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.inputmethod.latin",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 5053,
+        "foreground": 0
+      },
+      {
+        "name": "com.amazon.kindle",
+        "first": 1491868805053,
+        "last": 1491955202409,
+        "recent": 2410,
+        "foreground": 0
+      },
+      {
+        "name": "com.sec.android.providers.mapcon",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 2410,
+        "foreground": 0
+      },
+      {
+        "name": "com.skype.raider",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 2410,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.youtube",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 1492031013455,
+        "foreground": 33220
+      },
+      {
+        "name": "com.sec.android.app.chromecustomizations",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 2410,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.providers.telephony",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 2410,
+        "foreground": 0
+      },
+      {
+        "name": "com.sec.android.providers.iwlansettings",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 2410,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.googlequicksearchbox",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 1492040921832,
+        "foreground": 185769
+      },
+      {
+        "name": "com.android.providers.calendar",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 2410,
+        "foreground": 0
+      },
+      {
+        "name": "net.dheera.wearcamera",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 2410,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.clipboardsaveservice",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 2410,
+        "foreground": 0
+      },
+      {
+        "name": "org.telegram.messenger",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 1492041564764,
+        "foreground": 1235515
+      },
+      {
+        "name": "com.android.providers.media",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 2410,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.apps.docs.editors.docs",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 2410,
+        "foreground": 0
+      },
+      {
+        "name": "com.teslacoilsw.launcher",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 1492041447819,
+        "foreground": 1665433
+      },
+      {
+        "name": "com.samsung.android.provider.shootingmodeprovider",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 2410,
+        "foreground": 0
+      },
+      {
+        "name": "com.sec.android.app.wfdbroker",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 2410,
+        "foreground": 0
+      },
+      {
+        "name": "org.simalliance.openmobileapi.service",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 2410,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.android.easysetup",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 2410,
+        "foreground": 0
+      },
+      {
+        "name": "com.whatsapp",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 1492019329675,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.apps.docs.editors.sheets",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 2410,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.providers.downloads",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 1491969749349,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.android.qconnect",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 2410,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.apps.messaging",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 1492040841797,
+        "foreground": 206518
+      },
+      {
+        "name": "com.samsung.ucs.agent.boot",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 2410,
+        "foreground": 0
+      },
+      {
+        "name": "com.discord",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 1491964895290,
+        "foreground": 236197
+      },
+      {
+        "name": "com.sec.android.Kies",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 2410,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.faceservice",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 2410,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.apps.genie.geniewidget",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 1492025985451,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.android.email.provider",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 2410,
+        "foreground": 0
+      },
+      {
+        "name": "slide.watchFrenzy.premium",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 2410,
+        "foreground": 0
+      },
+      {
+        "name": "com.sec.android.emergencymode.service",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 2410,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.defcontainer",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 2410,
+        "foreground": 0
+      },
+      {
+        "name": "org.zwanoo.android.speedtest",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 1491969320640,
+        "foreground": 52356
+      },
+      {
+        "name": "com.android.vending",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 1492026058379,
+        "foreground": 2271
+      },
+      {
+        "name": "com.dsi.ant.service.socket",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 2410,
+        "foreground": 0
+      },
+      {
+        "name": "com.microsoft.skydrive",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 1491995486921,
+        "foreground": 0
+      },
+      {
+        "name": "com.sec.android.provider.badge",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 2410,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.SMT",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 2410,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.cmh",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 2410,
+        "foreground": 0
+      },
+      {
+        "name": "android",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 1492041398953,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.hs20provider",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 2410,
+        "foreground": 0
+      },
+      {
+        "name": "me.lyft.android",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 1492020547982,
+        "foreground": 1056804
+      },
+      {
+        "name": "com.android.nfc",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 2410,
+        "foreground": 0
+      },
+      {
+        "name": "com.microsoft.office.onenote",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 2410,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.gm",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 1492041398445,
+        "foreground": 230510
+      },
+      {
+        "name": "com.melodis.midomiMusicIdentifier.freemium",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 1492041012588,
+        "foreground": 2124
+      },
+      {
+        "name": "com.android.calendar",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 1492041002234,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.android.providers.context",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 2410,
+        "foreground": 0
+      },
+      {
+        "name": "com.sec.android.gallery3d",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 1492030101778,
+        "foreground": 141937
+      },
+      {
+        "name": "com.google.android.music",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 2410,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.printspooler",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 2410,
+        "foreground": 0
+      },
+      {
+        "name": "com.htc.vivephoneservice",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 2410,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.storyservice",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 2410,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.incallui",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 1491967081232,
+        "foreground": 31525
+      },
+      {
+        "name": "com.sec.smartcard.manager",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 2410,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.apps.docs",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 1492036881308,
+        "foreground": 64602
+      },
+      {
+        "name": "com.google.android.apps.maps",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 1492040922833,
+        "foreground": 0
+      },
+      {
+        "name": "com.dsi.ant.plugins.antplus",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 2410,
+        "foreground": 0
+      },
+      {
+        "name": "com.sec.android.app.clockpackage",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 1491998913885,
+        "foreground": 106761
+      },
+      {
+        "name": "com.google.android.syncadapters.contacts",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 2410,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.keychain",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 2410,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.gm.exchange",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 2410,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.chrome",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 1492037839113,
+        "foreground": 1105232
+      },
+      {
+        "name": "com.samsung.android.themecenter",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 2410,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.android.sm",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 1492019350037,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.gms",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 2410,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.gsf",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 2410,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.partnersetup",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 2410,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.calendar",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 1492041005070,
+        "foreground": 0
+      },
+      {
+        "name": "com.spotify.music",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 2410,
+        "foreground": 0
+      },
+      {
+        "name": "com.facebook.katana",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 1492039383094,
+        "foreground": 50391
+      },
+      {
+        "name": "com.samsung.enhanceservice",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 2410,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.providers.partnerbookmarks",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 2410,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.android.beaconmanager",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 2410,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.ucs.ucspinpad",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 2410,
+        "foreground": 0
+      },
+      {
+        "name": "com.facebook.orca",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 1492040829877,
+        "foreground": 981969
+      },
+      {
+        "name": "com.amazon.mShop.android",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 2410,
+        "foreground": 0
+      },
+      {
+        "name": "com.sec.android.app.shealth",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 1492028523498,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.android.app.scrollcapture",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 1492022049428,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.android.scloud",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 2410,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.settings",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 1492037765389,
+        "foreground": 158457
+      },
+      {
+        "name": "com.samsung.android.sm.policy",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 2410,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.wearable.app",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 2410,
+        "foreground": 0
+      },
+      {
+        "name": "com.wssnps",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 2410,
+        "foreground": 0
+      },
+      {
+        "name": "com.andrewshu.android.reddit",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 1492041599999,
+        "foreground": 5674245
+      },
+      {
+        "name": "com.google.android.keep",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 2410,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.dcmservice",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 2410,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.phone",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 2410,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.providers.userdictionary",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 2410,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.android.sm.provider",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 2410,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.systemui",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 1492041565727,
+        "foreground": 187174
+      },
+      {
+        "name": "com.sec.android.app.SamsungContentsAgent",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 2410,
+        "foreground": 0
+      },
+      {
+        "name": "com.groupme.android",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 1492040921832,
+        "foreground": 140448
+      },
+      {
+        "name": "com.samsung.android.allshare.service.mediashare",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 2410,
+        "foreground": 0
+      },
+      {
+        "name": "com.sec.android.provider.emergencymode",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 2410,
+        "foreground": 0
+      },
+      {
+        "name": "com.sec.android.app.camera",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 1492026796641,
+        "foreground": 16459
+      },
+      {
+        "name": "com.google.android.apps.magazines",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 1492022212814,
+        "foreground": 1510
+      },
+      {
+        "name": "com.android.bluetooth",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 2410,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.providers.contacts",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 2410,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.ipservice",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 2410,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.captiveportallogin",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 1492029057504,
+        "foreground": 34347
+      },
+      {
+        "name": "com.samsung.android.coreapps",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 2410,
+        "foreground": 0
+      },
+      {
+        "name": "com.bms.mqp.behaviormodelsystem",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 1492037918406,
+        "foreground": 18200
+      },
+      {
+        "name": "com.google.android.inputmethod.latin",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 2410,
+        "foreground": 0
+      },
+      {
+        "name": "com.amazon.kindle",
+        "first": 1491955202410,
+        "last": 1492041599999,
+        "recent": 2410,
+        "foreground": 0
+      },
+      {
+        "name": "com.skype.raider",
+        "first": 1492041600000,
+        "last": 1492041723489,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.googlequicksearchbox",
+        "first": 1492041600000,
+        "last": 1492042055023,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.providers.calendar",
+        "first": 1492041600000,
+        "last": 1492041966623,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "org.telegram.messenger",
+        "first": 1492041600000,
+        "last": 1492041995029,
+        "recent": 1492041995029,
+        "foreground": 218653
+      },
+      {
+        "name": "com.android.providers.media",
+        "first": 1492041600000,
+        "last": 1492041809869,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.whatsapp",
+        "first": 1492041600000,
+        "last": 1492041723489,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.providers.downloads",
+        "first": 1492041600000,
+        "last": 1492041809869,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.android.email.provider",
+        "first": 1492041600000,
+        "last": 1492041723489,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.vending",
+        "first": 1492041600000,
+        "last": 1492041809151,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "android",
+        "first": 1492041600000,
+        "last": 1492042061571,
+        "recent": 1492042061571,
+        "foreground": 0
+      },
+      {
+        "name": "com.microsoft.office.onenote",
+        "first": 1492041600000,
+        "last": 1492041723489,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.syncadapters.contacts",
+        "first": 1492041600000,
+        "last": 1492041723489,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.gsf",
+        "first": 1492041600000,
+        "last": 1492041944062,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.facebook.orca",
+        "first": 1492041600000,
+        "last": 1492042061551,
+        "recent": 1492042061551,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.android.scloud",
+        "first": 1492041600000,
+        "last": 1492041723489,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.andrewshu.android.reddit",
+        "first": 1492041600000,
+        "last": 1492041723234,
+        "recent": 1492041723234,
+        "foreground": 4745
+      },
+      {
+        "name": "com.android.providers.userdictionary",
+        "first": 1492041600000,
+        "last": 1492042019398,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.android.sm.provider",
+        "first": 1492041600000,
+        "last": 1492041748125,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.systemui",
+        "first": 1492041600000,
+        "last": 1492041995007,
+        "recent": 1492041995007,
+        "foreground": 2483
+      },
+      {
+        "name": "com.android.providers.contacts",
+        "first": 1492041600000,
+        "last": 1492042019398,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.samsung.android.coreapps",
+        "first": 1492041600000,
+        "last": 1492041723489,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.inputmethod.latin",
+        "first": 1492041600000,
+        "last": 1492041998903,
+        "recent": 0,
+        "foreground": 0
+      }
+    ]
+  },
+  {
+    "time": "12-04-2017 08:13:36",
+    "usageEvents": [
+      {
+        "name": "com.bms.mqp.behaviormodelsystem",
+        "time": 1492042118795,
+        "type": 7
+      },
+      {
+        "name": "android",
+        "time": 1492042410908,
+        "type": 7
+      }
+    ]
+  },
+  {
+    "time": "12-04-2017 08:13:36",
+    "wifi": [
+      {
+        "ssid": "",
+        "bssid": "fa:8f:ca:78:4d:13",
+        "level": -95
+      }
+    ]
+  },
+  {
+    "time": "12-04-2017 08:13:36",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "12-04-2017 08:13:36",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "12-04-2017 08:13:36",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "12-04-2017 08:13:36",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "12-04-2017 08:13:36",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "12-04-2017 08:13:36",
+    "location": {
+      "latitude": 42.2835982,
+      "longitude": -71.6289545
+    }
+  }
+]

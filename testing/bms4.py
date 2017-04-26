@@ -55,7 +55,8 @@ class NetworkSetup:
       self.column_data[key].append(self.lastFeatures[key])
     self.numTrainingPoints += 1
   def getNumRows(self):
-    return len(self.column_data['hour'])
+    #return len(self.column_data['hour'])
+    return self.numTrainingPoints
 
 networkSetup = NetworkSetup()
 
@@ -98,6 +99,8 @@ class TiltSensor(Sensor):
     networkSetup.feedLastFeatures()
 tiltSensor = TiltSensor()
 
+
+
 #USAGE EVENTS
 class AppUsageEventsSensor(Sensor):
   def __init__(self, numBits):
@@ -106,14 +109,19 @@ class AppUsageEventsSensor(Sensor):
     networkSetup.addSensor(self)
     networkSetup.addStringFeature('usageEventsName', numBits)
     networkSetup.addFeature('usageEventsType')
+    networkSetup.addStringFeature('usageEventsForegroundName', numBits)
   def process(self, sensorData):
     #print('usage events processing')
     numEvents = len(sensorData['usageEvents'])
     for i in range(numEvents):
       networkSetup.updateLastFeatureString('usageEventsName', sensorData['usageEvents'][i]['name'], self.numBits)
       networkSetup.updateLastFeature('usageEventsType', sensorData['usageEvents'][i]['type'])
+      if(sensorData['usageEvents'][i]['type'] == 1):
+        networkSetup.updateLastFeatureString('usageEventsForegroundName', sensorData['usageEvents'][i]['name'], self.numBits)
       networkSetup.feedLastFeatures()
-appUsageEventsSensor = AppUsageEventsSensor(4)
+appUsageEventsSensor = AppUsageEventsSensor(8)
+
+
 
 #WIFI
 class WifiSensor(Sensor):
@@ -130,7 +138,9 @@ class WifiSensor(Sensor):
       networkSetup.updateLastFeatureString('wifiBssid', sensorData['wifi'][w]['bssid'], self.numBits)
       networkSetup.updateLastFeature('wifiLevel', sensorData['wifi'][w]['level'])
       networkSetup.feedLastFeatures()
-wifiSensor = WifiSensor(4)
+wifiSensor = WifiSensor(8)
+
+
 
 #LOCATION
 class LocationSensor(Sensor):
@@ -240,12 +250,15 @@ def input_fn(data_set, isAuthentic = 1):
 def getRegressor():
   feature_cols = [tf.contrib.layers.real_valued_column(k) for k in networkSetup.FEATURES]
   # Build 2 layer fully connected DNN with 8, 8 units respectively.
+  '''
   regressor = tf.contrib.learn.DNNRegressor(feature_columns=feature_cols,
                                             hidden_units=[8, 8],
                                             model_dir=networkSetup.MODEL_DIR,
                                             activation_fn=tf.nn.sigmoid,
                                             optimizer=tf.train.GradientDescentOptimizer(
-                                              learning_rate=0.001
+                                              learning_rate=0.001 # used on 4/24
+                                              #learning_rate=0.0001
+                                              #learning_rate=0.0003
 
                                               #use higher learning rate for debugging:
                                               #learning_rate=0.1
@@ -256,6 +269,17 @@ def getRegressor():
                                             #save_checkpoints_secs = None,
                                             #num_cores = 1
                                             ))
+                                            '''
+  regressor = tf.contrib.learn.DNNRegressor(feature_columns=feature_cols,
+                                            hidden_units=[8, 8],
+                                            model_dir=networkSetup.MODEL_DIR,
+                                            activation_fn=tf.nn.tanh,
+                                            optimizer=tf.train.GradientDescentOptimizer(
+                                              learning_rate=0.00001
+                                            ),
+                                            config = tf.contrib.learn.RunConfig(
+                                            save_summary_steps = 10000000
+                                            ))                                        
   return regressor
 
 def train(filepath, isAuthentic):
@@ -276,8 +300,11 @@ def predict(filepath):
   predictions = list(itertools.islice(y, networkSetup.getNumRows()))
   #print("Predictions: {}".format(str(predictions)))
   sum = 0
+  myfile = open("predictionsoutput.txt", "a")
   for p in predictions:
     sum+= p
+    myfile.write('%f' % p)
+    myfile.write('\n')
   average = float(sum)/len(predictions)
   #if predictions are outside expected range of activation function, decrease learning rate
   print('average prediction over sensor objects: %f' %(average))

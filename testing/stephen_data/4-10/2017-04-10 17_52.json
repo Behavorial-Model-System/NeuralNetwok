@@ -1,0 +1,4646 @@
+[
+  {
+    "time": "10-04-2017 05:52:07",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "10-04-2017 05:52:07",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "10-04-2017 05:52:07",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "10-04-2017 05:52:07",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "10-04-2017 05:52:07",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "10-04-2017 05:52:31",
+    "usageEvents": [
+      {
+        "name": "com.android.vending",
+        "time": 1491861097982,
+        "type": 2
+      },
+      {
+        "name": "com.android.vending",
+        "time": 1491861097998,
+        "type": 1
+      },
+      {
+        "name": "com.android.vending",
+        "time": 1491861098068,
+        "type": 2
+      },
+      {
+        "name": "com.android.vending",
+        "time": 1491861098105,
+        "type": 1
+      },
+      {
+        "name": "com.android.vending",
+        "time": 1491861098660,
+        "type": 2
+      },
+      {
+        "name": "com.teslacoilsw.launcher",
+        "time": 1491861098709,
+        "type": 1
+      },
+      {
+        "name": "com.android.vending",
+        "time": 1491861138338,
+        "type": 7
+      }
+    ]
+  },
+  {
+    "time": "10-04-2017 05:52:31",
+    "wifi": [
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:af:93",
+        "level": -49
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:0f:af:91",
+        "level": -49
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:0f:af:92",
+        "level": -50
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:0f:af:90",
+        "level": -50
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:0f:af:82",
+        "level": -51
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:0f:c5:f2",
+        "level": -62
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:0f:c5:f0",
+        "level": -62
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:0f:c8:f2",
+        "level": -62
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:0f:c8:f1",
+        "level": -62
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:0f:c5:f1",
+        "level": -62
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:c5:f3",
+        "level": -62
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:0f:c8:f0",
+        "level": -63
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:c8:f3",
+        "level": -63
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:c8:e3",
+        "level": -65
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:0f:c7:81",
+        "level": -67
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:0f:c7:82",
+        "level": -68
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:0f:c8:e2",
+        "level": -69
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:0f:c8:e0",
+        "level": -69
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:0f:c8:e1",
+        "level": -69
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:c7:83",
+        "level": -70
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:0f:af:80",
+        "level": -70
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:c0:c3",
+        "level": -70
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:c7:93",
+        "level": -71
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:af:83",
+        "level": -71
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:0f:af:81",
+        "level": -71
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:0f:c7:92",
+        "level": -72
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:0f:c7:90",
+        "level": -72
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:0f:c7:91",
+        "level": -72
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:0f:c0:d0",
+        "level": -72
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:0f:c0:d2",
+        "level": -72
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:0f:c0:d1",
+        "level": -72
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:c0:d3",
+        "level": -72
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:0f:c5:e0",
+        "level": -72
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:0f:c5:e2",
+        "level": -73
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:c5:e3",
+        "level": -73
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:0f:c5:e1",
+        "level": -73
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:ad:e3",
+        "level": -74
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:0f:b7:92",
+        "level": -75
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:b3:c3",
+        "level": -75
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:0f:ad:e0",
+        "level": -75
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:0f:b7:90",
+        "level": -76
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:0f:b6:10",
+        "level": -76
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:0f:b7:91",
+        "level": -76
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:b7:93",
+        "level": -77
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:0f:b8:f0",
+        "level": -78
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:0f:b6:11",
+        "level": -78
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:0f:b8:f1",
+        "level": -78
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:0f:c0:c0",
+        "level": -78
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:0f:c0:c2",
+        "level": -78
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:0f:b3:c1",
+        "level": -78
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:0f:c0:c1",
+        "level": -78
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:0f:bf:70",
+        "level": -79
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:0f:bf:72",
+        "level": -79
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:0f:bf:71",
+        "level": -79
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:bf:73",
+        "level": -79
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:ad:f3",
+        "level": -80
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:0f:ad:f0",
+        "level": -80
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:0f:b3:c2",
+        "level": -80
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:0f:ad:f2",
+        "level": -81
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:0f:b7:80",
+        "level": -81
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:0f:b7:82",
+        "level": -81
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:0f:ad:f1",
+        "level": -82
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:0f:c7:02",
+        "level": -82
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:0f:b7:81",
+        "level": -82
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:b8:e3",
+        "level": -82
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:0f:b9:f2",
+        "level": -83
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:0f:b9:f0",
+        "level": -83
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:b9:f3",
+        "level": -83
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:0f:b9:f1",
+        "level": -83
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:b7:83",
+        "level": -84
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:0f:b0:51",
+        "level": -86
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:b3:d3",
+        "level": -87
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:0f:b0:52",
+        "level": -87
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:b0:53",
+        "level": -87
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:0f:b0:50",
+        "level": -87
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:0f:c8:c2",
+        "level": -87
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:c8:c3",
+        "level": -87
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:0f:c8:c1",
+        "level": -87
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:c7:03",
+        "level": -88
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:0f:b3:d1",
+        "level": -88
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:0f:b3:d0",
+        "level": -88
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:0f:b3:d2",
+        "level": -88
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:bc:b3",
+        "level": -88
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:0f:b5:d0",
+        "level": -88
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:0f:bc:b1",
+        "level": -89
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:c7:a3",
+        "level": -89
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:0f:b7:b2",
+        "level": -89
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:0f:b7:b0",
+        "level": -89
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:0f:bc:b2",
+        "level": -89
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:0f:b5:d2",
+        "level": -89
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:b5:d3",
+        "level": -89
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:0f:b5:d1",
+        "level": -89
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:b7:b3",
+        "level": -89
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:0f:b7:b1",
+        "level": -89
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:0f:bc:b0",
+        "level": -90
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:bc:a3",
+        "level": -93
+      }
+    ]
+  },
+  {
+    "time": "10-04-2017 05:52:31",
+    "location": {
+      "latitude": 42.2744979,
+      "longitude": -71.8072386
+    }
+  },
+  {
+    "time": "10-04-2017 05:53:31",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "10-04-2017 05:53:31",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "10-04-2017 05:53:31",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "10-04-2017 05:53:31",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "10-04-2017 05:53:31",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "10-04-2017 05:53:31",
+    "wifi": [
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:0f:af:92",
+        "level": -39
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:0f:af:90",
+        "level": -39
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:af:93",
+        "level": -39
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:0f:af:91",
+        "level": -40
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:0f:af:80",
+        "level": -54
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:af:83",
+        "level": -54
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:0f:c8:f1",
+        "level": -63
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:0f:c8:f2",
+        "level": -64
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:0f:c8:f0",
+        "level": -64
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:c8:f3",
+        "level": -64
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:c8:e3",
+        "level": -67
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:0f:c8:e2",
+        "level": -69
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:0f:c8:e1",
+        "level": -69
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:0f:c8:e0",
+        "level": -70
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:0f:c5:e0",
+        "level": -71
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:0f:c5:e2",
+        "level": -71
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:0f:c5:e1",
+        "level": -71
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:c0:c3",
+        "level": -72
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:0f:c7:82",
+        "level": -72
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:0f:c7:81",
+        "level": -72
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:0f:c7:80",
+        "level": -72
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:0f:c7:92",
+        "level": -73
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:0f:c7:90",
+        "level": -73
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:0f:c7:91",
+        "level": -73
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:c7:93",
+        "level": -73
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:c5:e3",
+        "level": -73
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:c7:83",
+        "level": -74
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:0f:c5:f2",
+        "level": -74
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:0f:c5:f0",
+        "level": -75
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:0f:c5:f1",
+        "level": -75
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:c5:f3",
+        "level": -75
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:0f:c0:d2",
+        "level": -76
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:0f:c0:d1",
+        "level": -76
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:c0:d3",
+        "level": -76
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:c8:d3",
+        "level": -77
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:0f:c8:d2",
+        "level": -78
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:0f:c8:d1",
+        "level": -78
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:0f:c8:d0",
+        "level": -79
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:0f:c0:c2",
+        "level": -79
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:0f:c0:c1",
+        "level": -79
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:0f:bf:70",
+        "level": -81
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:0f:bf:72",
+        "level": -81
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:0f:bf:71",
+        "level": -81
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:bf:73",
+        "level": -81
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:ad:f3",
+        "level": -82
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:0f:ad:f0",
+        "level": -82
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:0f:ad:f2",
+        "level": -82
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:0f:ad:f1",
+        "level": -82
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:b9:f3",
+        "level": -83
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:0f:b9:f2",
+        "level": -84
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:0f:b9:f0",
+        "level": -84
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:0f:b9:f1",
+        "level": -84
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:0f:b0:50",
+        "level": -85
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:0f:b3:c2",
+        "level": -86
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:b0:53",
+        "level": -86
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:0f:b0:51",
+        "level": -86
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:0f:c0:d0",
+        "level": -86
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:0f:b9:e0",
+        "level": -86
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:0f:b0:52",
+        "level": -86
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:bf:63",
+        "level": -86
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:bc:b3",
+        "level": -87
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:0f:b7:b2",
+        "level": -87
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:0f:b3:c0",
+        "level": -87
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:0f:bf:62",
+        "level": -87
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:b3:c3",
+        "level": -88
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:b3:d3",
+        "level": -88
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:0f:b3:d2",
+        "level": -88
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:0f:bc:b1",
+        "level": -88
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:0f:b5:d0",
+        "level": -88
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:0f:bc:b2",
+        "level": -88
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:b5:d3",
+        "level": -88
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:0f:b5:d1",
+        "level": -88
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:b7:b3",
+        "level": -88
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:0f:b3:d1",
+        "level": -89
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:0f:b3:d0",
+        "level": -89
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:0f:b7:b0",
+        "level": -89
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:0f:b7:b1",
+        "level": -89
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:27:0c:b0",
+        "level": -89
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:27:0c:b1",
+        "level": -89
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:27:0c:b3",
+        "level": -89
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:27:0c:b2",
+        "level": -90
+      }
+    ]
+  },
+  {
+    "time": "10-04-2017 05:53:31",
+    "usageEvents": [
+      {
+        "name": "com.teslacoilsw.launcher",
+        "time": 1491861153169,
+        "type": 2
+      },
+      {
+        "name": "com.teslacoilsw.launcher",
+        "time": 1491861153187,
+        "type": 1
+      },
+      {
+        "name": "com.teslacoilsw.launcher",
+        "time": 1491861154541,
+        "type": 2
+      },
+      {
+        "name": "com.teslacoilsw.launcher",
+        "time": 1491861154594,
+        "type": 1
+      },
+      {
+        "name": "com.teslacoilsw.launcher",
+        "time": 1491861156900,
+        "type": 2
+      },
+      {
+        "name": "com.launchertheme.kxnt.click",
+        "time": 1491861156998,
+        "type": 1
+      },
+      {
+        "name": "com.launchertheme.kxnt.click",
+        "time": 1491861165315,
+        "type": 2
+      },
+      {
+        "name": "com.teslacoilsw.launcher",
+        "time": 1491861165360,
+        "type": 1
+      },
+      {
+        "name": "com.teslacoilsw.launcher",
+        "time": 1491861166518,
+        "type": 2
+      },
+      {
+        "name": "com.launchertheme.kxnt.click",
+        "time": 1491861166577,
+        "type": 1
+      },
+      {
+        "name": "com.launchertheme.kxnt.click",
+        "time": 1491861175320,
+        "type": 2
+      },
+      {
+        "name": "com.teslacoilsw.launcher",
+        "time": 1491861175415,
+        "type": 1
+      }
+    ]
+  },
+  {
+    "time": "10-04-2017 05:53:31",
+    "location": {
+      "latitude": 42.2744111,
+      "longitude": -71.8072904
+    }
+  },
+  {
+    "time": "10-04-2017 05:53:32",
+    "usageStats": [
+      {
+        "name": "com.skype.raider",
+        "first": 1491579963082,
+        "last": 1491666363081,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.youtube",
+        "first": 1491579963082,
+        "last": 1491666363081,
+        "recent": 1491615500915,
+        "foreground": 165838
+      },
+      {
+        "name": "com.android.providers.telephony",
+        "first": 1491579963082,
+        "last": 1491666363081,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.googlequicksearchbox",
+        "first": 1491579963082,
+        "last": 1491666363081,
+        "recent": 1491637399769,
+        "foreground": 335905
+      },
+      {
+        "name": "com.android.providers.calendar",
+        "first": 1491579963082,
+        "last": 1491666363081,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "org.telegram.messenger",
+        "first": 1491579963082,
+        "last": 1491666363081,
+        "recent": 1491586698701,
+        "foreground": 4295
+      },
+      {
+        "name": "com.android.providers.media",
+        "first": 1491579963082,
+        "last": 1491666363081,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.teslacoilsw.launcher",
+        "first": 1491579963082,
+        "last": 1491666363081,
+        "recent": 1491639209059,
+        "foreground": 2049427
+      },
+      {
+        "name": "com.quicinc.cne.CNEService",
+        "first": 1491579963082,
+        "last": 1491666363081,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.journey.app",
+        "first": 1491579963082,
+        "last": 1491666363081,
+        "recent": 1491627575405,
+        "foreground": 96956
+      },
+      {
+        "name": "com.android.providers.downloads",
+        "first": 1491579963082,
+        "last": 1491666363081,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.oristats.habitbull",
+        "first": 1491579963082,
+        "last": 1491666363081,
+        "recent": 1491639138333,
+        "foreground": 302403
+      },
+      {
+        "name": "reddit.news",
+        "first": 1491579963082,
+        "last": 1491666363081,
+        "recent": 1491581072143,
+        "foreground": 120622
+      },
+      {
+        "name": "com.android.defcontainer",
+        "first": 1491579963082,
+        "last": 1491666363081,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.northpark.drinkwaterpro",
+        "first": 1491579963082,
+        "last": 1491666363081,
+        "recent": 1491664813008,
+        "foreground": 1031699
+      },
+      {
+        "name": "com.android.vending",
+        "first": 1491579963082,
+        "last": 1491666363081,
+        "recent": 1491637379677,
+        "foreground": 165245
+      },
+      {
+        "name": "com.backdrops.wallpapers",
+        "first": 1491579963082,
+        "last": 1491666363081,
+        "recent": 1491631122023,
+        "foreground": 0
+      },
+      {
+        "name": "net.nurik.roman.dashclock",
+        "first": 1491579963082,
+        "last": 1491666363081,
+        "recent": 1491637346354,
+        "foreground": 345
+      },
+      {
+        "name": "com.lastpass.lpandroid",
+        "first": 1491579963082,
+        "last": 1491666363081,
+        "recent": 1491601810112,
+        "foreground": 40673
+      },
+      {
+        "name": "com.android.nfc",
+        "first": 1491579963082,
+        "last": 1491666363081,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.mint",
+        "first": 1491579963082,
+        "last": 1491666363081,
+        "recent": 1491593817626,
+        "foreground": 23274
+      },
+      {
+        "name": "com.google.android.deskclock",
+        "first": 1491579963082,
+        "last": 1491666363081,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.gm",
+        "first": 1491579963082,
+        "last": 1491666363081,
+        "recent": 1491637374426,
+        "foreground": 28043
+      },
+      {
+        "name": "com.android.printspooler",
+        "first": 1491579963082,
+        "last": 1491666363081,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.once.android",
+        "first": 1491579963082,
+        "last": 1491666363081,
+        "recent": 1491612007835,
+        "foreground": 13630
+      },
+      {
+        "name": "com.google.android.dialer",
+        "first": 1491579963082,
+        "last": 1491666363081,
+        "recent": 1491591339506,
+        "foreground": 3037
+      },
+      {
+        "name": "com.google.android.apps.maps",
+        "first": 1491579963082,
+        "last": 1491666363081,
+        "recent": 1491609782083,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.apps.plus",
+        "first": 1491579963082,
+        "last": 1491666363081,
+        "recent": 1491637575375,
+        "foreground": 344894
+      },
+      {
+        "name": "com.jwsoft.nfcactionlauncher",
+        "first": 1491579963082,
+        "last": 1491666363081,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.yik.yak",
+        "first": 1491579963082,
+        "last": 1491666363081,
+        "recent": 1491638124758,
+        "foreground": 505312
+      },
+      {
+        "name": "com.android.cellbroadcastreceiver",
+        "first": 1491579963082,
+        "last": 1491666363081,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.keychain",
+        "first": 1491579963082,
+        "last": 1491666363081,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.chrome",
+        "first": 1491579963082,
+        "last": 1491666363081,
+        "recent": 1491638981171,
+        "foreground": 5599546
+      },
+      {
+        "name": "com.google.android.gms",
+        "first": 1491579963082,
+        "last": 1491666363081,
+        "recent": 1491637511057,
+        "foreground": 7298
+      },
+      {
+        "name": "com.google.android.gsf",
+        "first": 1491579963082,
+        "last": 1491666363081,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.tts",
+        "first": 1491579963082,
+        "last": 1491666363081,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "android.ext.services",
+        "first": 1491579963082,
+        "last": 1491666363081,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.partnersetup",
+        "first": 1491579963082,
+        "last": 1491666363081,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.packageinstaller",
+        "first": 1491579963082,
+        "last": 1491666363081,
+        "recent": 1491593468743,
+        "foreground": 1742
+      },
+      {
+        "name": "com.google.android.calendar",
+        "first": 1491579963082,
+        "last": 1491666363081,
+        "recent": 1491580171384,
+        "foreground": 0
+      },
+      {
+        "name": "com.spotify.music",
+        "first": 1491579963082,
+        "last": 1491666363081,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.asksven.betterbatterystats",
+        "first": 1491579963082,
+        "last": 1491666363081,
+        "recent": 1491601358864,
+        "foreground": 13591
+      },
+      {
+        "name": "com.coffeemeetsbagel",
+        "first": 1491579963082,
+        "last": 1491666363081,
+        "recent": 1491638026594,
+        "foreground": 98640
+      },
+      {
+        "name": "com.android.smspush",
+        "first": 1491579963082,
+        "last": 1491666363081,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.northpark.drinkwater",
+        "first": 1491579963082,
+        "last": 1491666363081,
+        "recent": 1491593428152,
+        "foreground": 107922
+      },
+      {
+        "name": "com.FDGEntertainment.SuperCatBros.gp",
+        "first": 1491579963082,
+        "last": 1491666363081,
+        "recent": 1491629113315,
+        "foreground": 553202
+      },
+      {
+        "name": "com.facebook.orca",
+        "first": 1491579963082,
+        "last": 1491666363081,
+        "recent": 1491664813009,
+        "foreground": 50445
+      },
+      {
+        "name": "com.android.settings",
+        "first": 1491579963082,
+        "last": 1491666363081,
+        "recent": 1491639201902,
+        "foreground": 63609
+      },
+      {
+        "name": "com.textra",
+        "first": 1491579963082,
+        "last": 1491666363081,
+        "recent": 1491631122023,
+        "foreground": 1728730
+      },
+      {
+        "name": "com.tinder",
+        "first": 1491579963082,
+        "last": 1491666363081,
+        "recent": 1491636627594,
+        "foreground": 1303165
+      },
+      {
+        "name": "com.bumble.app",
+        "first": 1491579963082,
+        "last": 1491666363081,
+        "recent": 1491628666147,
+        "foreground": 140518
+      },
+      {
+        "name": "pl.solidexplorer2",
+        "first": 1491579963082,
+        "last": 1491666363081,
+        "recent": 1491628347828,
+        "foreground": 118120
+      },
+      {
+        "name": "com.google.android.wearable.app",
+        "first": 1491579963082,
+        "last": 1491666363081,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "flar2.exkernelmanager",
+        "first": 1491579963082,
+        "last": 1491666363081,
+        "recent": 1491639164592,
+        "foreground": 0
+      },
+      {
+        "name": "com.joaomgcd.join",
+        "first": 1491579963082,
+        "last": 1491666363081,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.keep",
+        "first": 1491579963082,
+        "last": 1491666363081,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.talk",
+        "first": 1491579963082,
+        "last": 1491666363081,
+        "recent": 1491628919321,
+        "foreground": 80085
+      },
+      {
+        "name": "com.okcupid.okcupid",
+        "first": 1491579963082,
+        "last": 1491666363081,
+        "recent": 1491628784980,
+        "foreground": 155017
+      },
+      {
+        "name": "com.android.phone",
+        "first": 1491579963082,
+        "last": 1491666363081,
+        "recent": 1491639190932,
+        "foreground": 4094
+      },
+      {
+        "name": "com.android.providers.blockednumber",
+        "first": 1491579963082,
+        "last": 1491666363081,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.providers.userdictionary",
+        "first": 1491579963082,
+        "last": 1491666363081,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.mlssoccer",
+        "first": 1491579963082,
+        "last": 1491666363081,
+        "recent": 1491592341164,
+        "foreground": 258891
+      },
+      {
+        "name": "com.android.systemui",
+        "first": 1491579963082,
+        "last": 1491666363081,
+        "recent": 1491639111801,
+        "foreground": 90779
+      },
+      {
+        "name": "com.android.bluetooth",
+        "first": 1491579963082,
+        "last": 1491666363081,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.handmark.expressweather",
+        "first": 1491579963082,
+        "last": 1491666363081,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.providers.contacts",
+        "first": 1491579963082,
+        "last": 1491666363081,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.GoogleCamera",
+        "first": 1491579963082,
+        "last": 1491666363081,
+        "recent": 1491590121927,
+        "foreground": 25452
+      },
+      {
+        "name": "com.maxmpz.audioplayer",
+        "first": 1491579963082,
+        "last": 1491666363081,
+        "recent": 1491627642894,
+        "foreground": 0
+      },
+      {
+        "name": "com.snapchat.android",
+        "first": 1491579963082,
+        "last": 1491666363081,
+        "recent": 1491602146223,
+        "foreground": 18425
+      },
+      {
+        "name": "com.google.android.inputmethod.latin",
+        "first": 1491579963082,
+        "last": 1491666363081,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.skype.raider",
+        "first": 1491666367467,
+        "last": 1491752767466,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.youtube",
+        "first": 1491666367467,
+        "last": 1491752767466,
+        "recent": 1491751912868,
+        "foreground": 66879
+      },
+      {
+        "name": "com.android.providers.telephony",
+        "first": 1491666367467,
+        "last": 1491752767466,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.googlequicksearchbox",
+        "first": 1491666367467,
+        "last": 1491752767466,
+        "recent": 1491751920137,
+        "foreground": 357420
+      },
+      {
+        "name": "com.android.providers.calendar",
+        "first": 1491666367467,
+        "last": 1491752767466,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.providers.media",
+        "first": 1491666367467,
+        "last": 1491752767466,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.teslacoilsw.launcher",
+        "first": 1491666367467,
+        "last": 1491752767466,
+        "recent": 1491751953581,
+        "foreground": 2190013
+      },
+      {
+        "name": "com.quicinc.cne.CNEService",
+        "first": 1491666367467,
+        "last": 1491752767466,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.huawei.callstatisticsutils",
+        "first": 1491666367467,
+        "last": 1491752767466,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.journey.app",
+        "first": 1491666367467,
+        "last": 1491752767466,
+        "recent": 1491724742498,
+        "foreground": 75032
+      },
+      {
+        "name": "com.android.mms.service",
+        "first": 1491666367467,
+        "last": 1491752767466,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.providers.downloads",
+        "first": 1491666367467,
+        "last": 1491752767466,
+        "recent": 1491685507305,
+        "foreground": 0
+      },
+      {
+        "name": "com.oristats.habitbull",
+        "first": 1491666367467,
+        "last": 1491752767466,
+        "recent": 1491725128601,
+        "foreground": 327842
+      },
+      {
+        "name": "reddit.news",
+        "first": 1491666367467,
+        "last": 1491752767466,
+        "recent": 1491687880015,
+        "foreground": 728211
+      },
+      {
+        "name": "com.android.defcontainer",
+        "first": 1491666367467,
+        "last": 1491752767466,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.northpark.drinkwaterpro",
+        "first": 1491666367467,
+        "last": 1491752767466,
+        "recent": 1491751912868,
+        "foreground": 242756
+      },
+      {
+        "name": "com.android.vending",
+        "first": 1491666367467,
+        "last": 1491752767466,
+        "recent": 1491719613751,
+        "foreground": 86304
+      },
+      {
+        "name": "net.nurik.roman.dashclock",
+        "first": 1491666367467,
+        "last": 1491752767466,
+        "recent": 1491725177021,
+        "foreground": 140
+      },
+      {
+        "name": "android",
+        "first": 1491666367467,
+        "last": 1491752767466,
+        "recent": 1491721087108,
+        "foreground": 0
+      },
+      {
+        "name": "projekt.substratum",
+        "first": 1491666367467,
+        "last": 1491752767466,
+        "recent": 1491708940825,
+        "foreground": 0
+      },
+      {
+        "name": "com.lastpass.lpandroid",
+        "first": 1491666367467,
+        "last": 1491752767466,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.nfc",
+        "first": 1491666367467,
+        "last": 1491752767466,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.stk",
+        "first": 1491666367467,
+        "last": 1491752767466,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.deskclock",
+        "first": 1491666367467,
+        "last": 1491752767466,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "org.codeaurora.ims",
+        "first": 1491666367467,
+        "last": 1491752767466,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.gm",
+        "first": 1491666367467,
+        "last": 1491752767466,
+        "recent": 1491725182599,
+        "foreground": 21665
+      },
+      {
+        "name": "com.google.android.instantapps.supervisor",
+        "first": 1491666367467,
+        "last": 1491752767466,
+        "recent": 1491686177714,
+        "foreground": 2634
+      },
+      {
+        "name": "com.android.printspooler",
+        "first": 1491666367467,
+        "last": 1491752767466,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.once.android",
+        "first": 1491666367467,
+        "last": 1491752767466,
+        "recent": 1491667955861,
+        "foreground": 15599
+      },
+      {
+        "name": "com.google.android.dialer",
+        "first": 1491666367467,
+        "last": 1491752767466,
+        "recent": 1491709794132,
+        "foreground": 98236
+      },
+      {
+        "name": "com.google.android.apps.maps",
+        "first": 1491666367467,
+        "last": 1491752767466,
+        "recent": 1491672813247,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.apps.plus",
+        "first": 1491666367467,
+        "last": 1491752767466,
+        "recent": 1491725463804,
+        "foreground": 106743
+      },
+      {
+        "name": "com.jwsoft.nfcactionlauncher",
+        "first": 1491666367467,
+        "last": 1491752767466,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.yik.yak",
+        "first": 1491666367467,
+        "last": 1491752767466,
+        "recent": 1491706440872,
+        "foreground": 374320
+      },
+      {
+        "name": "com.urbandroid.sleep",
+        "first": 1491666367467,
+        "last": 1491752767466,
+        "recent": 1491751920137,
+        "foreground": 23321
+      },
+      {
+        "name": "com.android.cellbroadcastreceiver",
+        "first": 1491666367467,
+        "last": 1491752767466,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.contacts",
+        "first": 1491666367467,
+        "last": 1491752767466,
+        "recent": 1491686634370,
+        "foreground": 11999
+      },
+      {
+        "name": "com.android.chrome",
+        "first": 1491666367467,
+        "last": 1491752767466,
+        "recent": 1491725713506,
+        "foreground": 1773846
+      },
+      {
+        "name": "com.google.android.gms",
+        "first": 1491666367467,
+        "last": 1491752767466,
+        "recent": 1491686179233,
+        "foreground": 11870
+      },
+      {
+        "name": "com.google.android.gsf",
+        "first": 1491666367467,
+        "last": 1491752767466,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.tts",
+        "first": 1491666367467,
+        "last": 1491752767466,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "android.ext.services",
+        "first": 1491666367467,
+        "last": 1491752767466,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.partnersetup",
+        "first": 1491666367467,
+        "last": 1491752767466,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.packageinstaller",
+        "first": 1491666367467,
+        "last": 1491752767466,
+        "recent": 1491723607279,
+        "foreground": 9849
+      },
+      {
+        "name": "com.google.android.calendar",
+        "first": 1491666367467,
+        "last": 1491752767466,
+        "recent": 1491686579461,
+        "foreground": 9715
+      },
+      {
+        "name": "com.spotify.music",
+        "first": 1491666367467,
+        "last": 1491752767466,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.asksven.betterbatterystats",
+        "first": 1491666367467,
+        "last": 1491752767466,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.untappdllc.app",
+        "first": 1491666367467,
+        "last": 1491752767466,
+        "recent": 1491685785340,
+        "foreground": 147082
+      },
+      {
+        "name": "com.coffeemeetsbagel",
+        "first": 1491666367467,
+        "last": 1491752767466,
+        "recent": 1491725427332,
+        "foreground": 95714
+      },
+      {
+        "name": "com.android.smspush",
+        "first": 1491666367467,
+        "last": 1491752767466,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.FDGEntertainment.SuperCatBros.gp",
+        "first": 1491666367467,
+        "last": 1491752767466,
+        "recent": 1491687484899,
+        "foreground": 99738
+      },
+      {
+        "name": "com.facebook.orca",
+        "first": 1491666367467,
+        "last": 1491752767466,
+        "recent": 1491715007459,
+        "foreground": 224655
+      },
+      {
+        "name": "com.android.settings",
+        "first": 1491666367467,
+        "last": 1491752767466,
+        "recent": 1491693516279,
+        "foreground": 34337
+      },
+      {
+        "name": "com.textra",
+        "first": 1491666367467,
+        "last": 1491752767466,
+        "recent": 1491710338477,
+        "foreground": 607909
+      },
+      {
+        "name": "com.tinder",
+        "first": 1491666367467,
+        "last": 1491752767466,
+        "recent": 1491751947614,
+        "foreground": 1923965
+      },
+      {
+        "name": "com.bumble.app",
+        "first": 1491666367467,
+        "last": 1491752767466,
+        "recent": 1491725203127,
+        "foreground": 234628
+      },
+      {
+        "name": "pl.solidexplorer2",
+        "first": 1491666367467,
+        "last": 1491752767466,
+        "recent": 1491724639591,
+        "foreground": 329318
+      },
+      {
+        "name": "com.google.android.wearable.app",
+        "first": 1491666367467,
+        "last": 1491752767466,
+        "recent": 1491677254561,
+        "foreground": 9602
+      },
+      {
+        "name": "flar2.exkernelmanager",
+        "first": 1491666367467,
+        "last": 1491752767466,
+        "recent": 1491725186268,
+        "foreground": 22747
+      },
+      {
+        "name": "com.joaomgcd.join",
+        "first": 1491666367467,
+        "last": 1491752767466,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.keep",
+        "first": 1491666367467,
+        "last": 1491752767466,
+        "recent": 1491684409673,
+        "foreground": 119446
+      },
+      {
+        "name": "com.okcupid.okcupid",
+        "first": 1491666367467,
+        "last": 1491752767466,
+        "recent": 1491725756303,
+        "foreground": 96833
+      },
+      {
+        "name": "com.android.phone",
+        "first": 1491666367467,
+        "last": 1491752767466,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.providers.blockednumber",
+        "first": 1491666367467,
+        "last": 1491752767466,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.appjel.fixburgerbar",
+        "first": 1491666367467,
+        "last": 1491752767466,
+        "recent": 1491687115693,
+        "foreground": 22388
+      },
+      {
+        "name": "com.android.providers.userdictionary",
+        "first": 1491666367467,
+        "last": 1491752767466,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.mlssoccer",
+        "first": 1491666367467,
+        "last": 1491752767466,
+        "recent": 1491711682044,
+        "foreground": 479009
+      },
+      {
+        "name": "com.android.systemui",
+        "first": 1491666367467,
+        "last": 1491752767466,
+        "recent": 1491725376610,
+        "foreground": 88821
+      },
+      {
+        "name": "com.ebay.mobile",
+        "first": 1491666367467,
+        "last": 1491752767466,
+        "recent": 1491725358705,
+        "foreground": 161809
+      },
+      {
+        "name": "com.google.android.apps.gcs",
+        "first": 1491666367467,
+        "last": 1491752767466,
+        "recent": 1491688215442,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.bluetooth",
+        "first": 1491666367467,
+        "last": 1491752767466,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.handmark.expressweather",
+        "first": 1491666367467,
+        "last": 1491752767466,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.providers.contacts",
+        "first": 1491666367467,
+        "last": 1491752767466,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.GoogleCamera",
+        "first": 1491666367467,
+        "last": 1491752767466,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.snapchat.android",
+        "first": 1491666367467,
+        "last": 1491752767466,
+        "recent": 1491725774975,
+        "foreground": 6897
+      },
+      {
+        "name": "com.bms.mqp.behaviormodelsystem",
+        "first": 1491666367467,
+        "last": 1491752767466,
+        "recent": 1491723600095,
+        "foreground": 54223
+      },
+      {
+        "name": "com.google.android.inputmethod.latin",
+        "first": 1491666367467,
+        "last": 1491752767466,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.skype.raider",
+        "first": 1491752768620,
+        "last": 1491839168619,
+        "recent": 1491795403481,
+        "foreground": 243061
+      },
+      {
+        "name": "com.google.android.youtube",
+        "first": 1491752768620,
+        "last": 1491839168619,
+        "recent": 1491834579699,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.providers.telephony",
+        "first": 1491752768620,
+        "last": 1491839168619,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.googlequicksearchbox",
+        "first": 1491752768620,
+        "last": 1491839168619,
+        "recent": 1491808422300,
+        "foreground": 423332
+      },
+      {
+        "name": "com.android.providers.calendar",
+        "first": 1491752768620,
+        "last": 1491839168619,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "org.telegram.messenger",
+        "first": 1491752768620,
+        "last": 1491839168619,
+        "recent": 1491788665424,
+        "foreground": 89686
+      },
+      {
+        "name": "com.android.providers.media",
+        "first": 1491752768620,
+        "last": 1491839168619,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.teslacoilsw.launcher",
+        "first": 1491752768620,
+        "last": 1491839168619,
+        "recent": 1491838889806,
+        "foreground": 2613407
+      },
+      {
+        "name": "com.quicinc.cne.CNEService",
+        "first": 1491752768620,
+        "last": 1491839168619,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.huawei.callstatisticsutils",
+        "first": 1491752768620,
+        "last": 1491839168619,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.journey.app",
+        "first": 1491752768620,
+        "last": 1491839168619,
+        "recent": 1491806712999,
+        "foreground": 85542
+      },
+      {
+        "name": "com.android.mms.service",
+        "first": 1491752768620,
+        "last": 1491839168619,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.providers.downloads",
+        "first": 1491752768620,
+        "last": 1491839168619,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.oristats.habitbull",
+        "first": 1491752768620,
+        "last": 1491839168619,
+        "recent": 1491807552221,
+        "foreground": 280862
+      },
+      {
+        "name": "reddit.news",
+        "first": 1491752768620,
+        "last": 1491839168619,
+        "recent": 1491809027755,
+        "foreground": 6704031
+      },
+      {
+        "name": "com.android.defcontainer",
+        "first": 1491752768620,
+        "last": 1491839168619,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.northpark.drinkwaterpro",
+        "first": 1491752768620,
+        "last": 1491839168619,
+        "recent": 1491838224382,
+        "foreground": 36607
+      },
+      {
+        "name": "com.Splitwise.SplitwiseMobile",
+        "first": 1491752768620,
+        "last": 1491839168619,
+        "recent": 1491796051245,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.vending",
+        "first": 1491752768620,
+        "last": 1491839168619,
+        "recent": 1491795380701,
+        "foreground": 48637
+      },
+      {
+        "name": "com.backdrops.wallpapers",
+        "first": 1491752768620,
+        "last": 1491839168619,
+        "recent": 1491822159813,
+        "foreground": 0
+      },
+      {
+        "name": "net.nurik.roman.dashclock",
+        "first": 1491752768620,
+        "last": 1491839168619,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "android",
+        "first": 1491752768620,
+        "last": 1491839168619,
+        "recent": 1491802486531,
+        "foreground": 17622
+      },
+      {
+        "name": "com.lastpass.lpandroid",
+        "first": 1491752768620,
+        "last": 1491839168619,
+        "recent": 1491769304061,
+        "foreground": 5212
+      },
+      {
+        "name": "com.android.nfc",
+        "first": 1491752768620,
+        "last": 1491839168619,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.stk",
+        "first": 1491752768620,
+        "last": 1491839168619,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.mint",
+        "first": 1491752768620,
+        "last": 1491839168619,
+        "recent": 1491791029258,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.deskclock",
+        "first": 1491752768620,
+        "last": 1491839168619,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "org.codeaurora.ims",
+        "first": 1491752768620,
+        "last": 1491839168619,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.gm",
+        "first": 1491752768620,
+        "last": 1491839168619,
+        "recent": 1491838746735,
+        "foreground": 94905
+      },
+      {
+        "name": "com.android.printspooler",
+        "first": 1491752768620,
+        "last": 1491839168619,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.once.android",
+        "first": 1491752768620,
+        "last": 1491839168619,
+        "recent": 1491784835940,
+        "foreground": 15690
+      },
+      {
+        "name": "com.google.android.dialer",
+        "first": 1491752768620,
+        "last": 1491839168619,
+        "recent": 1491838811854,
+        "foreground": 58835
+      },
+      {
+        "name": "com.google.android.apps.docs",
+        "first": 1491752768620,
+        "last": 1491839168619,
+        "recent": 1491765423510,
+        "foreground": 443
+      },
+      {
+        "name": "com.google.android.apps.maps",
+        "first": 1491752768620,
+        "last": 1491839168619,
+        "recent": 1491822166606,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.apps.plus",
+        "first": 1491752768620,
+        "last": 1491839168619,
+        "recent": 1491808417781,
+        "foreground": 161238
+      },
+      {
+        "name": "com.jwsoft.nfcactionlauncher",
+        "first": 1491752768620,
+        "last": 1491839168619,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.yik.yak",
+        "first": 1491752768620,
+        "last": 1491839168619,
+        "recent": 1491809092151,
+        "foreground": 505558
+      },
+      {
+        "name": "com.urbandroid.sleep",
+        "first": 1491752768620,
+        "last": 1491839168619,
+        "recent": 1491838859236,
+        "foreground": 80567
+      },
+      {
+        "name": "com.android.cellbroadcastreceiver",
+        "first": 1491752768620,
+        "last": 1491839168619,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.syncadapters.contacts",
+        "first": 1491752768620,
+        "last": 1491839168619,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.keychain",
+        "first": 1491752768620,
+        "last": 1491839168619,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.chrome",
+        "first": 1491752768620,
+        "last": 1491839168619,
+        "recent": 1491805810862,
+        "foreground": 1071627
+      },
+      {
+        "name": "com.google.android.gms",
+        "first": 1491752768620,
+        "last": 1491839168619,
+        "recent": 1491784994544,
+        "foreground": 59517
+      },
+      {
+        "name": "com.google.android.gsf",
+        "first": 1491752768620,
+        "last": 1491839168619,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.tts",
+        "first": 1491752768620,
+        "last": 1491839168619,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "android.ext.services",
+        "first": 1491752768620,
+        "last": 1491839168619,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.partnersetup",
+        "first": 1491752768620,
+        "last": 1491839168619,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.packageinstaller",
+        "first": 1491752768620,
+        "last": 1491839168619,
+        "recent": 1491805733920,
+        "foreground": 25893
+      },
+      {
+        "name": "com.google.android.calendar",
+        "first": 1491752768620,
+        "last": 1491839168619,
+        "recent": 1491759307531,
+        "foreground": 0
+      },
+      {
+        "name": "com.spotify.music",
+        "first": 1491752768620,
+        "last": 1491839168619,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.asksven.betterbatterystats",
+        "first": 1491752768620,
+        "last": 1491839168619,
+        "recent": 1491790954600,
+        "foreground": 63036
+      },
+      {
+        "name": "com.coffeemeetsbagel",
+        "first": 1491752768620,
+        "last": 1491839168619,
+        "recent": 1491805744367,
+        "foreground": 324572
+      },
+      {
+        "name": "com.android.smspush",
+        "first": 1491752768620,
+        "last": 1491839168619,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.facebook.orca",
+        "first": 1491752768620,
+        "last": 1491839168619,
+        "recent": 1491838794095,
+        "foreground": 18672
+      },
+      {
+        "name": "com.android.settings",
+        "first": 1491752768620,
+        "last": 1491839168619,
+        "recent": 1491790961418,
+        "foreground": 129265
+      },
+      {
+        "name": "com.textra",
+        "first": 1491752768620,
+        "last": 1491839168619,
+        "recent": 1491838845451,
+        "foreground": 364551
+      },
+      {
+        "name": "com.tinder",
+        "first": 1491752768620,
+        "last": 1491839168619,
+        "recent": 1491833222835,
+        "foreground": 1877222
+      },
+      {
+        "name": "com.bumble.app",
+        "first": 1491752768620,
+        "last": 1491839168619,
+        "recent": 1491799822875,
+        "foreground": 60701
+      },
+      {
+        "name": "pl.solidexplorer2",
+        "first": 1491752768620,
+        "last": 1491839168619,
+        "recent": 1491806594844,
+        "foreground": 280672
+      },
+      {
+        "name": "com.google.android.wearable.app",
+        "first": 1491752768620,
+        "last": 1491839168619,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "flar2.exkernelmanager",
+        "first": 1491752768620,
+        "last": 1491839168619,
+        "recent": 1491822166606,
+        "foreground": 0
+      },
+      {
+        "name": "com.joaomgcd.join",
+        "first": 1491752768620,
+        "last": 1491839168619,
+        "recent": 1491773243758,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.keep",
+        "first": 1491752768620,
+        "last": 1491839168619,
+        "recent": 1491790909174,
+        "foreground": 39109
+      },
+      {
+        "name": "com.okcupid.okcupid",
+        "first": 1491752768620,
+        "last": 1491839168619,
+        "recent": 1491799930418,
+        "foreground": 13051
+      },
+      {
+        "name": "com.android.phone",
+        "first": 1491752768620,
+        "last": 1491839168619,
+        "recent": 1491758539740,
+        "foreground": 2444
+      },
+      {
+        "name": "com.android.providers.blockednumber",
+        "first": 1491752768620,
+        "last": 1491839168619,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.providers.userdictionary",
+        "first": 1491752768620,
+        "last": 1491839168619,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.mlssoccer",
+        "first": 1491752768620,
+        "last": 1491839168619,
+        "recent": 1491791576569,
+        "foreground": 682900
+      },
+      {
+        "name": "com.android.systemui",
+        "first": 1491752768620,
+        "last": 1491839168619,
+        "recent": 1491809095051,
+        "foreground": 151887
+      },
+      {
+        "name": "com.ebay.mobile",
+        "first": 1491752768620,
+        "last": 1491839168619,
+        "recent": 1491767222107,
+        "foreground": 81975
+      },
+      {
+        "name": "com.google.android.apps.gcs",
+        "first": 1491752768620,
+        "last": 1491839168619,
+        "recent": 1491791634577,
+        "foreground": 0
+      },
+      {
+        "name": "com.handmark.expressweather",
+        "first": 1491752768620,
+        "last": 1491839168619,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.providers.contacts",
+        "first": 1491752768620,
+        "last": 1491839168619,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.GoogleCamera",
+        "first": 1491752768620,
+        "last": 1491839168619,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.snapchat.android",
+        "first": 1491752768620,
+        "last": 1491839168619,
+        "recent": 1491763382246,
+        "foreground": 31810
+      },
+      {
+        "name": "com.bms.mqp.behaviormodelsystem",
+        "first": 1491752768620,
+        "last": 1491839168619,
+        "recent": 1491805660516,
+        "foreground": 76586
+      },
+      {
+        "name": "com.google.android.inputmethod.latin",
+        "first": 1491752768620,
+        "last": 1491839168619,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.skype.raider",
+        "first": 1491839188619,
+        "last": 1491839682750,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.providers.telephony",
+        "first": 1491839188619,
+        "last": 1491845049318,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.googlequicksearchbox",
+        "first": 1491839188619,
+        "last": 1491861175361,
+        "recent": 1491857950070,
+        "foreground": 181491
+      },
+      {
+        "name": "com.android.providers.calendar",
+        "first": 1491839188619,
+        "last": 1491851586198,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "org.telegram.messenger",
+        "first": 1491839188619,
+        "last": 1491849408187,
+        "recent": 1491849408187,
+        "foreground": 42965
+      },
+      {
+        "name": "com.android.providers.media",
+        "first": 1491839188619,
+        "last": 1491861098037,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.teslacoilsw.launcher",
+        "first": 1491839188619,
+        "last": 1491861175415,
+        "recent": 1491861175415,
+        "foreground": 908016
+      },
+      {
+        "name": "com.quicinc.cne.CNEService",
+        "first": 1491839188619,
+        "last": 1491845060619,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.huawei.callstatisticsutils",
+        "first": 1491839188619,
+        "last": 1491845049318,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.mms.service",
+        "first": 1491839188619,
+        "last": 1491845049318,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.providers.downloads",
+        "first": 1491839188619,
+        "last": 1491861098037,
+        "recent": 1491841253922,
+        "foreground": 0
+      },
+      {
+        "name": "com.oristats.habitbull",
+        "first": 1491839188619,
+        "last": 1491861112205,
+        "recent": 1491849058099,
+        "foreground": 14992
+      },
+      {
+        "name": "com.android.defcontainer",
+        "first": 1491839188619,
+        "last": 1491861103998,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.northpark.drinkwaterpro",
+        "first": 1491839188619,
+        "last": 1491861060256,
+        "recent": 1491861032510,
+        "foreground": 67488
+      },
+      {
+        "name": "com.android.vending",
+        "first": 1491839188619,
+        "last": 1491861166594,
+        "recent": 1491861138338,
+        "foreground": 219690
+      },
+      {
+        "name": "net.nurik.roman.dashclock",
+        "first": 1491839188619,
+        "last": 1491861102890,
+        "recent": 1491845541956,
+        "foreground": 223
+      },
+      {
+        "name": "android",
+        "first": 1491839188619,
+        "last": 1491849728947,
+        "recent": 1491849728947,
+        "foreground": 0
+      },
+      {
+        "name": "com.digibites.accubattery",
+        "first": 1491839188619,
+        "last": 1491841507878,
+        "recent": 1491841507878,
+        "foreground": 78176
+      },
+      {
+        "name": "com.lastpass.lpandroid",
+        "first": 1491839188619,
+        "last": 1491861054671,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.nfc",
+        "first": 1491839188619,
+        "last": 1491845060619,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.stk",
+        "first": 1491839188619,
+        "last": 1491845049318,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.mint",
+        "first": 1491839188619,
+        "last": 1491845020111,
+        "recent": 1491845020111,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.deskclock",
+        "first": 1491839188619,
+        "last": 1491849601081,
+        "recent": 1491849601081,
+        "foreground": 175
+      },
+      {
+        "name": "org.codeaurora.ims",
+        "first": 1491839188619,
+        "last": 1491845049318,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.gm",
+        "first": 1491839188619,
+        "last": 1491861101399,
+        "recent": 1491857705369,
+        "foreground": 132215
+      },
+      {
+        "name": "com.android.printspooler",
+        "first": 1491839188619,
+        "last": 1491858111855,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.once.android",
+        "first": 1491839188619,
+        "last": 1491841228906,
+        "recent": 1491841228906,
+        "foreground": 11059
+      },
+      {
+        "name": "com.google.android.dialer",
+        "first": 1491839188619,
+        "last": 1491840373332,
+        "recent": 1491840373332,
+        "foreground": 70257
+      },
+      {
+        "name": "com.google.android.apps.maps",
+        "first": 1491839188619,
+        "last": 1491857911918,
+        "recent": 1491857911918,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.apps.plus",
+        "first": 1491839188619,
+        "last": 1491842299347,
+        "recent": 1491842299347,
+        "foreground": 28259
+      },
+      {
+        "name": "com.jwsoft.nfcactionlauncher",
+        "first": 1491839188619,
+        "last": 1491839680782,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.yik.yak",
+        "first": 1491839188619,
+        "last": 1491842245653,
+        "recent": 1491842245653,
+        "foreground": 152270
+      },
+      {
+        "name": "com.android.cellbroadcastreceiver",
+        "first": 1491839188619,
+        "last": 1491839673137,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.contacts",
+        "first": 1491839188619,
+        "last": 1491840317264,
+        "recent": 1491840317264,
+        "foreground": 6887
+      },
+      {
+        "name": "com.android.chrome",
+        "first": 1491839188619,
+        "last": 1491860364312,
+        "recent": 1491857921116,
+        "foreground": 242810
+      },
+      {
+        "name": "com.google.android.gms",
+        "first": 1491839188619,
+        "last": 1491849499540,
+        "recent": 1491839544927,
+        "foreground": 2694
+      },
+      {
+        "name": "com.google.android.gsf",
+        "first": 1491839188619,
+        "last": 1491861152971,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.tts",
+        "first": 1491839188619,
+        "last": 1491860363930,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "android.ext.services",
+        "first": 1491839188619,
+        "last": 1491845059079,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.partnersetup",
+        "first": 1491839188619,
+        "last": 1491852652001,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.packageinstaller",
+        "first": 1491839188619,
+        "last": 1491842261432,
+        "recent": 1491842261432,
+        "foreground": 11566
+      },
+      {
+        "name": "com.google.android.calendar",
+        "first": 1491839188619,
+        "last": 1491849499564,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.spotify.music",
+        "first": 1491839188619,
+        "last": 1491851260532,
+        "recent": 1491848779330,
+        "foreground": 167354
+      },
+      {
+        "name": "com.asksven.betterbatterystats",
+        "first": 1491839188619,
+        "last": 1491861101043,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.launchertheme.kxnt.click",
+        "first": 1491839188619,
+        "last": 1491861175320,
+        "recent": 1491861175320,
+        "foreground": 17060
+      },
+      {
+        "name": "com.coffeemeetsbagel",
+        "first": 1491839188619,
+        "last": 1491840256151,
+        "recent": 1491840256151,
+        "foreground": 27849
+      },
+      {
+        "name": "com.android.smspush",
+        "first": 1491839188619,
+        "last": 1491845060619,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.facebook.orca",
+        "first": 1491839188619,
+        "last": 1491857697240,
+        "recent": 1491857697240,
+        "foreground": 85191
+      },
+      {
+        "name": "com.android.settings",
+        "first": 1491839188619,
+        "last": 1491841940000,
+        "recent": 1491841940000,
+        "foreground": 13082
+      },
+      {
+        "name": "com.textra",
+        "first": 1491839188619,
+        "last": 1491861101041,
+        "recent": 1491857772134,
+        "foreground": 298072
+      },
+      {
+        "name": "com.tinder",
+        "first": 1491839188619,
+        "last": 1491849775257,
+        "recent": 1491849775257,
+        "foreground": 370858
+      },
+      {
+        "name": "pl.solidexplorer2",
+        "first": 1491839188619,
+        "last": 1491841251475,
+        "recent": 1491841251475,
+        "foreground": 9373
+      },
+      {
+        "name": "com.google.android.wearable.app",
+        "first": 1491839188619,
+        "last": 1491845060618,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.apps.chromecast.app",
+        "first": 1491839188619,
+        "last": 1491851316245,
+        "recent": 1491851316245,
+        "foreground": 57219
+      },
+      {
+        "name": "flar2.exkernelmanager",
+        "first": 1491839188619,
+        "last": 1491857911918,
+        "recent": 1491857911918,
+        "foreground": 0
+      },
+      {
+        "name": "com.joaomgcd.join",
+        "first": 1491839188619,
+        "last": 1491859637822,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.keep",
+        "first": 1491839188619,
+        "last": 1491851308037,
+        "recent": 1491851308037,
+        "foreground": 3262
+      },
+      {
+        "name": "eu.chainfire.supersu",
+        "first": 1491839188619,
+        "last": 1491841881257,
+        "recent": 1491841881257,
+        "foreground": 1539
+      },
+      {
+        "name": "com.android.phone",
+        "first": 1491839188619,
+        "last": 1491845049318,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.providers.blockednumber",
+        "first": 1491839188619,
+        "last": 1491861106348,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.providers.userdictionary",
+        "first": 1491839188619,
+        "last": 1491861106348,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.systemui",
+        "first": 1491839188619,
+        "last": 1491861087684,
+        "recent": 1491861087684,
+        "foreground": 4034
+      },
+      {
+        "name": "com.authy.authy",
+        "first": 1491839188619,
+        "last": 1491860335798,
+        "recent": 1491860335798,
+        "foreground": 8539
+      },
+      {
+        "name": "com.gsamlabs.bbm",
+        "first": 1491839188619,
+        "last": 1491842246775,
+        "recent": 1491842246775,
+        "foreground": 115730
+      },
+      {
+        "name": "com.android.bluetooth",
+        "first": 1491839188619,
+        "last": 1491839675910,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.handmark.expressweather",
+        "first": 1491839188619,
+        "last": 1491861101044,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.android.providers.contacts",
+        "first": 1491839188619,
+        "last": 1491861106348,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.google.android.GoogleCamera",
+        "first": 1491839188619,
+        "last": 1491844784482,
+        "recent": 0,
+        "foreground": 0
+      },
+      {
+        "name": "com.maxmpz.audioplayer",
+        "first": 1491839188619,
+        "last": 1491845885172,
+        "recent": 1491845885172,
+        "foreground": 0
+      },
+      {
+        "name": "com.bms.mqp.behaviormodelsystem",
+        "first": 1491839188619,
+        "last": 1491842267127,
+        "recent": 1491842267127,
+        "foreground": 15114
+      },
+      {
+        "name": "com.google.android.inputmethod.latin",
+        "first": 1491839188619,
+        "last": 1491859682875,
+        "recent": 0,
+        "foreground": 0
+      }
+    ]
+  },
+  {
+    "time": "10-04-2017 05:54:07",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "10-04-2017 05:54:07",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "10-04-2017 05:54:07",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "10-04-2017 05:54:07",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "10-04-2017 05:54:07",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "10-04-2017 05:54:40",
+    "usageEvents": [
+      {
+        "name": "com.teslacoilsw.launcher",
+        "time": 1491861226846,
+        "type": 2
+      },
+      {
+        "name": "com.teslacoilsw.launcher",
+        "time": 1491861226881,
+        "type": 1
+      },
+      {
+        "name": "com.teslacoilsw.launcher",
+        "time": 1491861231064,
+        "type": 2
+      },
+      {
+        "name": "com.teslacoilsw.launcher",
+        "time": 1491861231122,
+        "type": 1
+      },
+      {
+        "name": "com.teslacoilsw.launcher",
+        "time": 1491861233189,
+        "type": 2
+      },
+      {
+        "name": "com.backdrops.wallpapers",
+        "time": 1491861233300,
+        "type": 1
+      },
+      {
+        "name": "com.backdrops.wallpapers",
+        "time": 1491861233618,
+        "type": 2
+      },
+      {
+        "name": "com.backdrops.wallpapers",
+        "time": 1491861234070,
+        "type": 1
+      },
+      {
+        "name": "com.backdrops.wallpapers",
+        "time": 1491861239250,
+        "type": 2
+      },
+      {
+        "name": "com.backdrops.wallpapers",
+        "time": 1491861239272,
+        "type": 1
+      },
+      {
+        "name": "com.backdrops.wallpapers",
+        "time": 1491861245420,
+        "type": 2
+      },
+      {
+        "name": "com.teslacoilsw.launcher",
+        "time": 1491861245467,
+        "type": 1
+      },
+      {
+        "name": "com.teslacoilsw.launcher",
+        "time": 1491861248561,
+        "type": 2
+      },
+      {
+        "name": "com.android.systemui",
+        "time": 1491861248570,
+        "type": 1
+      },
+      {
+        "name": "com.android.systemui",
+        "time": 1491861249651,
+        "type": 2
+      },
+      {
+        "name": "com.backdrops.wallpapers",
+        "time": 1491861249673,
+        "type": 1
+      },
+      {
+        "name": "com.backdrops.wallpapers",
+        "time": 1491861250970,
+        "type": 2
+      },
+      {
+        "name": "com.backdrops.wallpapers",
+        "time": 1491861250979,
+        "type": 1
+      },
+      {
+        "name": "com.backdrops.wallpapers",
+        "time": 1491861260285,
+        "type": 2
+      },
+      {
+        "name": "com.backdrops.wallpapers",
+        "time": 1491861260297,
+        "type": 1
+      },
+      {
+        "name": "com.backdrops.wallpapers",
+        "time": 1491861265700,
+        "type": 2
+      },
+      {
+        "name": "com.teslacoilsw.launcher",
+        "time": 1491861265741,
+        "type": 1
+      },
+      {
+        "name": "com.teslacoilsw.launcher",
+        "time": 1491861271036,
+        "type": 2
+      },
+      {
+        "name": "com.teslacoilsw.launcher",
+        "time": 1491861271060,
+        "type": 1
+      },
+      {
+        "name": "com.google.android.apps.maps",
+        "time": 1491861273065,
+        "type": 7
+      },
+      {
+        "name": "flar2.exkernelmanager",
+        "time": 1491861274173,
+        "type": 7
+      }
+    ]
+  },
+  {
+    "time": "10-04-2017 05:54:40",
+    "wifi": [
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:0f:af:90",
+        "level": -44
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:af:93",
+        "level": -44
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:0f:af:91",
+        "level": -44
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:0f:af:92",
+        "level": -45
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:0f:af:80",
+        "level": -48
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:0f:af:81",
+        "level": -48
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:af:83",
+        "level": -56
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:0f:c8:f2",
+        "level": -60
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:0f:c8:f0",
+        "level": -61
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:c8:f3",
+        "level": -61
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:0f:c8:f1",
+        "level": -61
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:0f:c7:92",
+        "level": -66
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:0f:c7:91",
+        "level": -66
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:c7:93",
+        "level": -66
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:0f:c7:90",
+        "level": -67
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:c8:e3",
+        "level": -67
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:0f:c5:f0",
+        "level": -69
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:0f:c8:e2",
+        "level": -69
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:0f:c8:e1",
+        "level": -69
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:c7:83",
+        "level": -70
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:0f:c5:f2",
+        "level": -70
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:0f:c8:e0",
+        "level": -70
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:0f:c5:f1",
+        "level": -70
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:0f:c5:e0",
+        "level": -71
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:0f:c5:e2",
+        "level": -71
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:c5:f3",
+        "level": -71
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:0f:c5:e1",
+        "level": -71
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:0f:c0:d2",
+        "level": -73
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:c0:d3",
+        "level": -73
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:c5:e3",
+        "level": -73
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:c0:c3",
+        "level": -75
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:0f:c0:c2",
+        "level": -75
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:0f:c0:c1",
+        "level": -75
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:ad:f3",
+        "level": -76
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:0f:c0:d1",
+        "level": -76
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:0f:c0:c0",
+        "level": -76
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:c8:d3",
+        "level": -77
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:0f:ad:f1",
+        "level": -77
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:0f:c8:d2",
+        "level": -78
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:0f:c8:d1",
+        "level": -78
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:0f:c8:d0",
+        "level": -79
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:0f:bf:70",
+        "level": -81
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:0f:bf:72",
+        "level": -81
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:0f:bf:71",
+        "level": -81
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:bf:73",
+        "level": -81
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:0f:ad:f0",
+        "level": -82
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:0f:ad:f2",
+        "level": -82
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:0f:b9:f2",
+        "level": -83
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:0f:b9:f0",
+        "level": -83
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:b9:f3",
+        "level": -83
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:0f:b9:f1",
+        "level": -83
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:0f:b0:50",
+        "level": -85
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:0f:bc:b2",
+        "level": -85
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:b0:53",
+        "level": -86
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:0f:b0:51",
+        "level": -86
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:bc:b3",
+        "level": -86
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:0f:c0:d0",
+        "level": -86
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:0f:b0:52",
+        "level": -86
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:bf:63",
+        "level": -86
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:0f:b7:b2",
+        "level": -87
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:b5:d3",
+        "level": -87
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:0f:bf:62",
+        "level": -87
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:0f:bc:b0",
+        "level": -87
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:0f:b3:c1",
+        "level": -87
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:b3:d3",
+        "level": -88
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:0f:b3:d2",
+        "level": -88
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:0f:b3:c2",
+        "level": -88
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:0f:bc:b1",
+        "level": -88
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:0f:b5:d1",
+        "level": -88
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:b7:b3",
+        "level": -88
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:b9:d3",
+        "level": -88
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:0f:b3:d1",
+        "level": -89
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:0f:b3:d0",
+        "level": -89
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:0f:b7:b0",
+        "level": -89
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:0f:b7:b1",
+        "level": -89
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:0f:b9:d0",
+        "level": -89
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:0f:b9:d1",
+        "level": -89
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "ac:a3:1e:58:75:03",
+        "level": -89
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:b3:c3",
+        "level": -91
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:b9:e3",
+        "level": -91
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "ac:a3:1e:58:7a:23",
+        "level": -92
+      }
+    ]
+  },
+  {
+    "time": "10-04-2017 05:54:40",
+    "location": {
+      "latitude": 42.2744111,
+      "longitude": -71.8072904
+    }
+  },
+  {
+    "time": "10-04-2017 05:55:11",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "10-04-2017 05:55:11",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "10-04-2017 05:55:11",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "10-04-2017 05:55:11",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "10-04-2017 05:55:11",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "10-04-2017 05:55:31",
+    "usageEvents": [
+      {
+        "name": "com.teslacoilsw.launcher",
+        "time": 1491861283221,
+        "type": 2
+      },
+      {
+        "name": "com.teslacoilsw.launcher",
+        "time": 1491861283280,
+        "type": 1
+      },
+      {
+        "name": "com.teslacoilsw.launcher",
+        "time": 1491861301958,
+        "type": 2
+      },
+      {
+        "name": "com.teslacoilsw.launcher",
+        "time": 1491861301988,
+        "type": 1
+      },
+      {
+        "name": "com.teslacoilsw.launcher",
+        "time": 1491861306915,
+        "type": 2
+      },
+      {
+        "name": "com.teslacoilsw.launcher",
+        "time": 1491861306930,
+        "type": 1
+      },
+      {
+        "name": "com.teslacoilsw.launcher",
+        "time": 1491861312839,
+        "type": 2
+      },
+      {
+        "name": "com.teslacoilsw.launcher",
+        "time": 1491861312865,
+        "type": 1
+      },
+      {
+        "name": "com.teslacoilsw.launcher",
+        "time": 1491861314654,
+        "type": 2
+      },
+      {
+        "name": "com.teslacoilsw.launcher",
+        "time": 1491861314710,
+        "type": 1
+      },
+      {
+        "name": "com.teslacoilsw.launcher",
+        "time": 1491861318296,
+        "type": 2
+      },
+      {
+        "name": "com.teslacoilsw.launcher",
+        "time": 1491861318327,
+        "type": 1
+      },
+      {
+        "name": "com.teslacoilsw.launcher",
+        "time": 1491861321975,
+        "type": 2
+      },
+      {
+        "name": "com.teslacoilsw.launcher",
+        "time": 1491861321988,
+        "type": 1
+      },
+      {
+        "name": "com.teslacoilsw.launcher",
+        "time": 1491861324209,
+        "type": 2
+      },
+      {
+        "name": "com.teslacoilsw.launcher",
+        "time": 1491861324223,
+        "type": 1
+      },
+      {
+        "name": "com.teslacoilsw.launcher",
+        "time": 1491861325561,
+        "type": 2
+      },
+      {
+        "name": "com.teslacoilsw.launcher",
+        "time": 1491861325617,
+        "type": 1
+      }
+    ]
+  },
+  {
+    "time": "10-04-2017 05:55:31",
+    "wifi": [
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:0f:af:92",
+        "level": -45
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:0f:af:90",
+        "level": -45
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:af:93",
+        "level": -45
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:0f:af:91",
+        "level": -45
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:af:83",
+        "level": -46
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:0f:c8:f1",
+        "level": -62
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:0f:c8:f2",
+        "level": -63
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:0f:c8:f0",
+        "level": -63
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:c8:f3",
+        "level": -63
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:c8:e3",
+        "level": -65
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:c7:93",
+        "level": -71
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:0f:c7:92",
+        "level": -72
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:0f:c7:90",
+        "level": -72
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:0f:c7:91",
+        "level": -72
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:c7:83",
+        "level": -73
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:0f:c5:f2",
+        "level": -74
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:0f:c5:f0",
+        "level": -74
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:c5:f3",
+        "level": -74
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:0f:c5:f1",
+        "level": -75
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:0f:c0:c1",
+        "level": -75
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:0f:c0:c0",
+        "level": -75
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:0f:c7:80",
+        "level": -75
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:0f:c7:82",
+        "level": -75
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:0f:c7:81",
+        "level": -75
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:0f:c0:d1",
+        "level": -76
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:bf:73",
+        "level": -76
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:0f:c0:c2",
+        "level": -76
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:0f:c5:e2",
+        "level": -76
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:c0:c3",
+        "level": -77
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:0f:c0:d0",
+        "level": -77
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:0f:c0:d2",
+        "level": -77
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:c0:d3",
+        "level": -77
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:0f:bf:70",
+        "level": -77
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:0f:bf:72",
+        "level": -77
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:0f:bf:71",
+        "level": -77
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:c8:d3",
+        "level": -80
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:0f:c8:d2",
+        "level": -81
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:0f:c8:d0",
+        "level": -81
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:0f:c8:d1",
+        "level": -81
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:ad:f3",
+        "level": -83
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:0f:ad:f1",
+        "level": -83
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:0f:b9:f2",
+        "level": -85
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:0f:b9:f0",
+        "level": -85
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:bf:63",
+        "level": -85
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:c5:e3",
+        "level": -85
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:0f:bc:b1",
+        "level": -86
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:b9:f3",
+        "level": -86
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:0f:b9:f1",
+        "level": -86
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:bc:b3",
+        "level": -87
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:0f:bc:b2",
+        "level": -87
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:0f:b0:52",
+        "level": -87
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:0f:bc:b0",
+        "level": -87
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:b0:53",
+        "level": -88
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:0f:b0:50",
+        "level": -88
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:b7:b3",
+        "level": -88
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:b9:e3",
+        "level": -88
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:0f:b5:d2",
+        "level": -88
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:0f:bf:61",
+        "level": -88
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:0f:b0:51",
+        "level": -88
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:b3:d3",
+        "level": -89
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:0f:b3:c2",
+        "level": -89
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:b5:d3",
+        "level": -89
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:0f:b5:d1",
+        "level": -89
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:0f:bf:62",
+        "level": -89
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:0f:b3:c1",
+        "level": -89
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:0f:b5:d0",
+        "level": -89
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:0f:b3:c0",
+        "level": -89
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:b3:c3",
+        "level": -90
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:27:0c:b3",
+        "level": -90
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:c8:c3",
+        "level": -90
+      }
+    ]
+  },
+  {
+    "time": "10-04-2017 05:55:31",
+    "location": {
+      "latitude": 42.2744979,
+      "longitude": -71.8072386
+    }
+  },
+  {
+    "time": "10-04-2017 05:56:31",
+    "usageEvents": []
+  },
+  {
+    "time": "10-04-2017 05:56:31",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "10-04-2017 05:56:31",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "10-04-2017 05:56:31",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "10-04-2017 05:56:31",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "10-04-2017 05:56:31",
+    "tilt": [
+      0.0,
+      -0.0,
+      -0.0
+    ]
+  },
+  {
+    "time": "10-04-2017 05:56:31",
+    "wifi": [
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:0f:af:92",
+        "level": -44
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:0f:af:90",
+        "level": -44
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:af:93",
+        "level": -44
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:0f:af:91",
+        "level": -44
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:0f:af:80",
+        "level": -55
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:0f:af:82",
+        "level": -56
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:0f:c8:f2",
+        "level": -59
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:0f:c8:f0",
+        "level": -59
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:c8:f3",
+        "level": -59
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:0f:c8:f1",
+        "level": -60
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:0f:c5:f2",
+        "level": -63
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:af:83",
+        "level": -63
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:c5:f3",
+        "level": -63
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:0f:c5:f0",
+        "level": -65
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:0f:c5:f1",
+        "level": -65
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:c8:e3",
+        "level": -65
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:c7:83",
+        "level": -67
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:c7:93",
+        "level": -71
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:0f:c7:82",
+        "level": -71
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:0f:c7:81",
+        "level": -71
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:0f:c8:e0",
+        "level": -71
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:0f:c7:92",
+        "level": -72
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:0f:c7:90",
+        "level": -72
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:0f:c7:91",
+        "level": -72
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:0f:c7:80",
+        "level": -72
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:0f:c0:d0",
+        "level": -73
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:c5:e3",
+        "level": -73
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:0f:c0:d1",
+        "level": -76
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:0f:c5:e2",
+        "level": -76
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:0f:c0:d2",
+        "level": -77
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:c0:d3",
+        "level": -77
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:0f:bf:70",
+        "level": -77
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:c0:c3",
+        "level": -78
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:0f:c0:c2",
+        "level": -79
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:0f:bf:71",
+        "level": -81
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:0f:ad:f1",
+        "level": -83
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:bf:63",
+        "level": -85
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:0f:ad:e0",
+        "level": -85
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:ad:e3",
+        "level": -85
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:0f:ad:e1",
+        "level": -85
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:b0:53",
+        "level": -86
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:0f:bc:b1",
+        "level": -86
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:0f:b9:f2",
+        "level": -86
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:0f:b9:f0",
+        "level": -86
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:b9:f3",
+        "level": -86
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:0f:b9:f1",
+        "level": -86
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:0f:ad:e2",
+        "level": -86
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:bc:b3",
+        "level": -87
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:0f:bc:b2",
+        "level": -87
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:0f:b0:52",
+        "level": -87
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:0f:bc:b0",
+        "level": -87
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:0f:b0:50",
+        "level": -88
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:b5:d3",
+        "level": -88
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:0f:b5:d1",
+        "level": -88
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:0f:b5:d2",
+        "level": -88
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:0f:b5:d0",
+        "level": -88
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:0f:b0:51",
+        "level": -88
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "94:b4:0f:0f:b3:c2",
+        "level": -89
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:0f:b3:c1",
+        "level": -89
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:b9:e3",
+        "level": -89
+      },
+      {
+        "ssid": "WPI-Wireless",
+        "bssid": "94:b4:0f:0f:b3:c0",
+        "level": -89
+      },
+      {
+        "ssid": "WPI-Wireless-Setup",
+        "bssid": "94:b4:0f:0f:b9:e1",
+        "level": -89
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:b3:c3",
+        "level": -90
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:c8:c3",
+        "level": -90
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "ac:a3:1e:58:49:23",
+        "level": -92
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "ac:a3:1e:58:7a:23",
+        "level": -93
+      },
+      {
+        "ssid": "WPI-Guest",
+        "bssid": "94:b4:0f:0f:b7:83",
+        "level": -93
+      }
+    ]
+  },
+  {
+    "time": "10-04-2017 05:56:31",
+    "location": {
+      "latitude": 42.2744979,
+      "longitude": -71.8072386
+    }
+  }
+]

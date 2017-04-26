@@ -1,0 +1,137 @@
+average prediction over 136 json files: 0.509326851575
+stephen_data/4-19/2017-04-19 00_00.json , 0.578465961312
+stephen_data/4-19/2017-04-19 00_06.json , 0.586888905543
+stephen_data/4-19/2017-04-19 00_11.json , 0.589603071977
+stephen_data/4-19/2017-04-19 00_17.json , 0.5909320029
+stephen_data/4-19/2017-04-19 00_23.json , 0.572561004048
+stephen_data/4-19/2017-04-19 00_28.json , 0.54960724592
+stephen_data/4-19/2017-04-19 00_34.json , 0.539025206692
+stephen_data/4-19/2017-04-19 00_39.json , 0.527888732586
+stephen_data/4-19/2017-04-19 00_44.json , 0.520330076028
+stephen_data/4-19/2017-04-19 00_49.json , 0.515121843384
+stephen_data/4-19/2017-04-19 00_59.json , 0.511695299266
+stephen_data/4-19/2017-04-19 01_06.json , 0.50485913333
+stephen_data/4-19/2017-04-19 01_12.json , 0.498795546085
+stephen_data/4-19/2017-04-19 01_17.json , 0.496130535696
+stephen_data/4-19/2017-04-19 01_28.json , 0.497068839022
+stephen_data/4-19/2017-04-19 01_34.json , 0.499669416982
+stephen_data/4-19/2017-04-19 01_39.json , 0.502830026946
+stephen_data/4-19/2017-04-19 02_00.json , 0.489413252417
+stephen_data/4-19/2017-04-19 02_06.json , 0.487390212088
+stephen_data/4-19/2017-04-19 02_16.json , 0.489958979308
+stephen_data/4-19/2017-04-19 02_22.json , 0.492782616179
+stephen_data/4-19/2017-04-19 02_27.json , 0.494206379861
+stephen_data/4-19/2017-04-19 02_38.json , 0.496647975168
+stephen_data/4-19/2017-04-19 02_44.json , 0.498952329486
+stephen_data/4-19/2017-04-19 02_49.json , 0.502867025785
+stephen_data/4-19/2017-04-19 02_55.json , 0.507198160147
+stephen_data/4-19/2017-04-19 03_00.json , 0.503448543704
+stephen_data/4-19/2017-04-19 03_10.json , 0.502519319791
+stephen_data/4-19/2017-04-19 03_16.json , 0.501893525251
+stephen_data/4-19/2017-04-19 03_27.json , 0.503596352331
+stephen_data/4-19/savedFile 2017-04-19 12_30.json , 0.504002265461
+stephen_data/4-19/savedFile 2017-04-19 12_35.json , 0.503978029815
+stephen_data/4-19/savedFile 2017-04-19 12_41.json , 0.50397220662
+stephen_data/4-19/savedFile 2017-04-19 12_46.json , 0.504346313263
+stephen_data/4-19/savedFile 2017-04-19 12_51.json , 0.504115551608
+stephen_data/4-19/savedFile 2017-04-19 12_56.json , 0.503332072825
+stephen_data/4-19/savedFile 2017-04-19 13_01.json , 0.501439274527
+stephen_data/4-19/savedFile 2017-04-19 13_06.json , 0.499672206981
+stephen_data/4-19/savedFile 2017-04-19 13_11.json , 0.498380456596
+stephen_data/4-19/savedFile 2017-04-19 13_17.json , 0.497592752887
+stephen_data/4-19/savedFile 2017-04-19 13_27.json , 0.496856878303
+stephen_data/4-19/savedFile 2017-04-19 13_32.json , 0.497168348884
+stephen_data/4-19/savedFile 2017-04-19 13_37.json , 0.49742572062
+stephen_data/4-19/savedFile 2017-04-19 13_43.json , 0.498120629483
+stephen_data/4-19/savedFile 2017-04-19 13_48.json , 0.499524187069
+stephen_data/4-19/savedFile 2017-04-19 13_54.json , 0.504917362225
+stephen_data/4-19/savedFile 2017-04-19 14_04.json , 0.503844236861
+stephen_data/4-19/savedFile 2017-04-19 14_10.json , 0.504637799165
+stephen_data/4-19/savedFile 2017-04-19 14_15.json , 0.502793180609
+stephen_data/4-19/savedFile 2017-04-19 14_20.json , 0.503326949978
+stephen_data/4-19/savedFile 2017-04-19 14_25.json , 0.505739064449
+stephen_data/4-19/savedFile 2017-04-19 14_31.json , 0.5080923694
+stephen_data/4-19/savedFile 2017-04-19 14_42.json , 0.511554648273
+stephen_data/4-19/savedFile 2017-04-19 14_48.json , 0.514026549434
+stephen_data/4-19/savedFile 2017-04-19 14_54.json , 0.517270226372
+stephen_data/4-19/savedFile 2017-04-19 14_59.json , 0.515608925421
+stephen_data/4-19/savedFile 2017-04-19 15_04.json , 0.507550371375
+stephen_data/4-19/savedFile 2017-04-19 15_15.json , 0.498809352709
+stephen_data/4-19/savedFile 2017-04-19 15_21.json , 0.499390214292
+stephen_data/4-19/savedFile 2017-04-19 15_26.json , 0.500353076159
+stephen_data/4-19/savedFile 2017-04-19 15_32.json , 0.501734296805
+stephen_data/4-19/savedFile 2017-04-19 15_37.json , 0.503631081217
+stephen_data/4-19/savedFile 2017-04-19 15_46.json , 0.505849118312
+stephen_data/4-19/savedFile 2017-04-19 15_51.json , 0.507903213425
+stephen_data/4-19/savedFile 2017-04-19 16_02.json , 0.50530135854
+stephen_data/4-19/savedFile 2017-04-19 16_08.json , 0.501937844486
+stephen_data/4-19/savedFile 2017-04-19 16_13.json , 0.501447314103
+stephen_data/4-19/savedFile 2017-04-19 16_18.json , 0.502572949663
+stephen_data/4-19/savedFile 2017-04-19 16_23.json , 0.502948404287
+stephen_data/4-19/savedFile 2017-04-19 16_28.json , 0.503401480593
+stephen_data/4-19/savedFile 2017-04-19 16_33.json , 0.505084492345
+stephen_data/4-19/savedFile 2017-04-19 16_39.json , 0.506747162755
+stephen_data/4-19/savedFile 2017-04-19 16_47.json , 0.508449367588
+stephen_data/4-19/savedFile 2017-04-19 16_52.json , 0.510201363177
+stephen_data/4-19/savedFile 2017-04-19 16_57.json , 0.510475391255
+stephen_data/4-19/savedFile 2017-04-19 17_02.json , 0.508871636013
+stephen_data/4-19/savedFile 2017-04-19 17_08.json , 0.506670841718
+stephen_data/4-19/savedFile 2017-04-19 17_19.json , 0.507699009205
+stephen_data/4-19/savedFile 2017-04-19 17_39.json , 0.507866848873
+stephen_data/4-19/savedFile 2017-04-19 17_44.json , 0.508044427602
+stephen_data/4-19/savedFile 2017-04-19 17_50.json , 0.508163575476
+stephen_data/4-19/savedFile 2017-04-19 18_00.json , 0.507602180645
+stephen_data/4-19/savedFile 2017-04-19 18_05.json , 0.507284934546
+stephen_data/4-19/savedFile 2017-04-19 18_11.json , 0.507171754442
+stephen_data/4-19/savedFile 2017-04-19 18_16.json , 0.506995802562
+stephen_data/4-19/savedFile 2017-04-19 18_21.json , 0.506905459786
+stephen_data/4-19/savedFile 2017-04-19 18_28.json , 0.506779299653
+stephen_data/4-19/savedFile 2017-04-19 18_45.json , 0.506910722576
+stephen_data/4-19/savedFile 2017-04-19 18_50.json , 0.506994499531
+stephen_data/4-19/savedFile 2017-04-19 18_55.json , 0.507190022643
+stephen_data/4-19/savedFile 2017-04-19 19_01.json , 0.507038547214
+stephen_data/4-19/savedFile 2017-04-19 19_06.json , 0.506944937229
+stephen_data/4-19/savedFile 2017-04-19 19_12.json , 0.506724989651
+stephen_data/4-19/savedFile 2017-04-19 19_22.json , 0.50655201622
+stephen_data/4-19/savedFile 2017-04-19 19_32.json , 0.506900812674
+stephen_data/4-19/savedFile 2017-04-19 19_38.json , 0.507483006123
+stephen_data/4-19/savedFile 2017-04-19 19_43.json , 0.507863355773
+stephen_data/4-19/savedFile 2017-04-19 19_49.json , 0.508359844137
+stephen_data/4-19/savedFile 2017-04-19 19_54.json , 0.508931158985
+stephen_data/4-19/savedFile 2017-04-19 19_59.json , 0.508998509407
+stephen_data/4-19/savedFile 2017-04-19 20_05.json , 0.509507637499
+stephen_data/4-19/savedFile 2017-04-19 20_10.json , 0.509630788373
+stephen_data/4-19/savedFile 2017-04-19 20_16.json , 0.509334543621
+stephen_data/4-19/savedFile 2017-04-19 20_21.json , 0.509679347812
+stephen_data/4-19/savedFile 2017-04-19 20_27.json , 0.510235578752
+stephen_data/4-19/savedFile 2017-04-19 20_32.json , 0.510789266028
+stephen_data/4-19/savedFile 2017-04-19 20_38.json , 0.511204623597
+stephen_data/4-19/savedFile 2017-04-19 20_43.json , 0.511771801567
+stephen_data/4-19/savedFile 2017-04-19 20_49.json , 0.512286306679
+stephen_data/4-19/savedFile 2017-04-19 20_54.json , 0.512854941775
+stephen_data/4-19/savedFile 2017-04-19 20_59.json , 0.510645073814
+stephen_data/4-19/savedFile 2017-04-19 21_04.json , 0.510319984778
+stephen_data/4-19/savedFile 2017-04-19 21_10.json , 0.509776480296
+stephen_data/4-19/savedFile 2017-04-19 21_15.json , 0.509701082577
+stephen_data/4-19/savedFile 2017-04-19 21_21.json , 0.510077557962
+stephen_data/4-19/savedFile 2017-04-19 21_26.json , 0.509822743407
+stephen_data/4-19/savedFile 2017-04-19 21_31.json , 0.509788791156
+stephen_data/4-19/savedFile 2017-04-19 21_37.json , 0.509828344956
+stephen_data/4-19/savedFile 2017-04-19 21_42.json , 0.509688182203
+stephen_data/4-19/savedFile 2017-04-19 21_52.json , 0.509735215241
+stephen_data/4-19/savedFile 2017-04-19 21_58.json , 0.509340934797
+stephen_data/4-19/savedFile 2017-04-19 22_08.json , 0.50897995033
+stephen_data/4-19/savedFile 2017-04-19 22_13.json , 0.508671287083
+stephen_data/4-19/savedFile 2017-04-19 22_23.json , 0.508439069446
+stephen_data/4-19/savedFile 2017-04-19 22_28.json , 0.508200840927
+stephen_data/4-19/savedFile 2017-04-19 22_34.json , 0.508142874012
+stephen_data/4-19/savedFile 2017-04-19 22_39.json , 0.50830725937
+stephen_data/4-19/savedFile 2017-04-19 22_49.json , 0.508558592932
+stephen_data/4-19/savedFile 2017-04-19 22_54.json , 0.5088344794
+stephen_data/4-19/savedFile 2017-04-19 23_02.json , 0.508884877181
+stephen_data/4-19/savedFile 2017-04-19 23_08.json , 0.508775997513
+stephen_data/4-19/savedFile 2017-04-19 23_13.json , 0.508648640119
+stephen_data/4-19/savedFile 2017-04-19 23_18.json , 0.508420428392
+stephen_data/4-19/savedFile 2017-04-19 23_23.json , 0.508277698181
+stephen_data/4-19/savedFile 2017-04-19 23_28.json , 0.508243191985
+stephen_data/4-19/savedFile 2017-04-19 23_38.json , 0.508225628277
